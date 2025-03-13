@@ -1,8 +1,29 @@
 import { Services } from '@/helpers/Services';
+import gsap from 'gsap';
+import ScrollTrigger from 'gsap/dist/ScrollTrigger';
 import Image from 'next/image'
-import React from 'react'
+import React, { useEffect } from 'react'
+gsap.registerPlugin(ScrollTrigger)
 
 const Section3 = () => {
+
+    useEffect(()=>{
+        gsap.to('#service-section3 h2', {
+            clipPath: "polygon(0 0, 100% 0, 100% 100%, 0% 100%)",
+            stagger: {
+                amount: 0.5
+            },
+            ease: "power2.out",
+            duration: 1.2,
+            scrollTrigger: {
+                trigger: "#service-section3 h2",
+                scroller: "body",
+                start: "top 80%",
+                end: "top 60%",
+                // markers:true,
+            }
+        })
+       },[])
 
     return (
         <div id='service-section3'>

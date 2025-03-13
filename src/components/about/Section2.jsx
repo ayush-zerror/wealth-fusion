@@ -1,7 +1,35 @@
+import gsap from 'gsap'
+import ScrollTrigger from 'gsap/dist/ScrollTrigger'
 import Image from 'next/image'
-import React from 'react'
+import React, { useEffect } from 'react'
+gsap.registerPlugin(ScrollTrigger)
 
 const Section2 = () => {
+    useEffect(()=>{
+        var tl = gsap.timeline({
+            scrollTrigger:{
+                trigger:"#about-section2",
+                scroller:"body",
+                // markers:true,
+                start:"top 60%",
+                end:"top 50%",
+                scrub:1
+            }
+        })
+        tl
+        .fromTo("#about-section2 p",{
+            y:80,
+            opacity:0
+        },{
+            y:0,
+            opacity:1,
+            duration:.6
+        })
+
+        return ()=>{
+            tl.kill()
+        }
+    },[])
     return (
         <div id='about-section2'>
             <div className="marque">

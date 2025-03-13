@@ -1,14 +1,37 @@
+import gsap from 'gsap'
+import ScrollTrigger from 'gsap/dist/ScrollTrigger'
 import Image from 'next/image'
-import React from 'react'
+import React, { useEffect } from 'react'
+gsap.registerPlugin(ScrollTrigger)
 
 const Section3 = () => {
+
+    useEffect(()=>{
+        gsap.to('#impact-section3 h2', {
+            clipPath: "polygon(0 0, 100% 0, 100% 100%, 0% 100%)",
+            stagger: {
+                amount: 0.5
+            },
+            ease: "power2.out",
+            duration: 1.2,
+            scrollTrigger: {
+                trigger: "#impact-section3 h2",
+                scroller: "body",
+                start: "top 80%",
+                end: "top 60%",
+                // markers:true,
+            }
+        })
+       },[])
+
     return (
         <div id='impact-section3'>
             <div className="pt1">
                 <Image src="https://wealthfusion.co.uk/wp-content/uploads/2020/11/AdobeStock_328877378.jpg?id=533" width={1000} height={1000} alt="banner" />
             </div>
             <div className="pt2">
-                <h2>Making Condé Nast Greener</h2>
+                <h2>Making Condé Nast</h2>
+                <h2 className='sec-h2'>Greener</h2>
                 <p>At WealthFusion, our approach to wealth management
                     is deeply rooted in cultivating long-term partnership and making
                     it more personal. We believe that once we truly understand your

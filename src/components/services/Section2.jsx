@@ -1,6 +1,21 @@
-import React from 'react'
+import gsap from 'gsap'
+import ScrollTrigger from 'gsap/dist/ScrollTrigger'
+import React, { useEffect } from 'react'
+gsap.registerPlugin(ScrollTrigger)
 
 const Section2 = () => {
+
+    useEffect(()=>{
+        gsap.to('#service-section2 h2', {
+            clipPath: "polygon(0 0, 100% 0, 100% 100%, 0% 100%)",
+            stagger: {
+                amount: 0.5
+            },
+            ease: "power2.out",
+            duration: 1.2,
+        })
+       },[])
+
     return (
         <div id='service-section2'>
             <h2>Our Services</h2>

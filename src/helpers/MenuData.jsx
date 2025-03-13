@@ -14,5 +14,5 @@ export const MenuData =  [
     {
         name:"Impact",
         path:"/impact"
-    }
+    },
 ]

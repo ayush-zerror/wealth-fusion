@@ -1,6 +1,19 @@
-import React from 'react'
+import gsap from 'gsap'
+import React, { useEffect } from 'react'
 
 const Section1 = () => {
+
+  useEffect(()=>{
+    gsap.to('#service-section1 h2', {
+        clipPath: "polygon(0 0, 100% 0, 100% 100%, 0% 100%)",
+        stagger: {
+            amount: 0.5
+        },
+        ease: "power2.out",
+        duration: 1.2,
+    })
+   },[])
+
   return (
     <div id='service-section1'>
         <h2>Overview</h2>

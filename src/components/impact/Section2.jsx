@@ -1,10 +1,31 @@
-import React from 'react'
+import gsap from 'gsap'
+import React, { useEffect } from 'react'
 
 const Section2 = () => {
+
+   useEffect(()=>{
+    gsap.to('#impact-section2 h2', {
+        clipPath: "polygon(0 0, 100% 0, 100% 100%, 0% 100%)",
+        stagger: {
+            amount: 0.5
+        },
+        ease: "power2.out",
+        duration: 1.2,
+        scrollTrigger: {
+            trigger: "#impact-section2 h2",
+            scroller: "body",
+            start: "top 80%",
+            end: "top 60%",
+            // markers:true,
+        }
+    })
+   },[])
+
     return (
         <div id='impact-section2'>
             <div className="left2">
-                <h2>Our Sustainability Mission</h2>
+                <h2>Our Sustainability </h2>
+                <h2>Mission</h2>
             </div>
             <div className="right2">
                 <p>We believe that we have a duty to deliver the highest quality content and experiences expected from our brands and to do so in a way that reduces our impact on the planet.</p>
