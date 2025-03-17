@@ -43,7 +43,7 @@ main {
   left: 0;
   z-index: 99;
 }
-#navigation{
+#navigation {
   width: 100%;
   height: calc(100dvh - 100px);
   position: fixed;
@@ -53,7 +53,7 @@ main {
   color: white;
   display: flex;
   flex-direction: column;
-  align-items:flex-end;
+  align-items: flex-end;
   padding: 20px;
   padding-top: 150px;
   opacity: 0;
@@ -61,7 +61,7 @@ main {
   display: none;
   pointer-events: none;
 }
-.menu-links{
+.menu-links {
   display: flex;
   flex-direction: column;
   gap: 30px;
@@ -76,7 +76,7 @@ main {
 #navbar.white img {
   filter: invert(1);
 }
-#navbar #navigation .menu-links a{
+#navbar #navigation .menu-links a {
   text-decoration: none;
   color: white !important;
   font-family: paraLight;
@@ -101,7 +101,7 @@ main {
   font-family: paraLight;
 }
 
-.menu{
+.menu {
   font-size: 30px;
   color: #0a1e37;
   font-family: paraMedium;
@@ -859,14 +859,14 @@ main {
 
 /* Extra small devices (phones) */
 @media (max-width: 575px) {
-  #navigation{
+  #navigation {
     display: block;
   }
   #navbar {
     height: 100px;
     padding: 0px 20px;
   }
-  .menu{
+  .menu {
     display: block;
   }
   #navbar .links {
@@ -1145,6 +1145,10 @@ main {
     flex-direction: column;
     padding: 20px 20px;
   }
+  .side2 h2 {
+    font-family: heading2;
+    font-size: 25px;
+  }
   #insight-section2 {
     width: 100%;
     min-height: auto;
@@ -1161,25 +1165,356 @@ main {
   .product-card {
     width: 100%;
     margin-bottom: 15%;
-}
-#insight-section2 .filters {
-  width: 100%;
-  position: relative;
-  top: 0;
-  display: flex;
-  flex-wrap: wrap;
-  padding: 20px 0;
-}
-.options {
-  gap: 5px;
-  margin-bottom: 8px;
-  width: 50%;
-  margin-bottom: 25px;
-}
+  }
+  #insight-section2 .filters {
+    width: 100%;
+    position: relative;
+    top: 0;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px 0;
+  }
+  .options {
+    gap: 5px;
+    margin-bottom: 8px;
+    width: 50%;
+    margin-bottom: 25px;
+  }
 }
 
 /* Small devices (phones & tablets) */
-@media (min-width: 576px) and (max-width: 767px) {
+@media (min-width: 575px) and (max-width: 767px) {
+  #navigation {
+    display: block;
+  }
+  #navbar {
+    height: 100px;
+    padding: 0px 20px;
+  }
+  .menu {
+    display: block;
+  }
+  #navbar .links {
+    display: none;
+  }
+  .overlay-home1 {
+    padding: 20px 20px;
+  }
+  .overlay-home1 h2 {
+    font-size: 55px;
+  }
+  #service-section1 {
+    padding: 75px 20px;
+    padding-top: 150px;
+  }
+  #service-section1 h2 {
+    font-size: 45px;
+  }
+  #service-section2 h2 {
+    font-size: 45px;
+  }
+  #service-section3 h2 {
+    font-size: 45px;
+    margin-bottom: 30px;
+  }
+  #service-section1 p {
+    width: 90%;
+    font-size: 16px;
+    margin-bottom: 20px;
+  }
+  #service-section2 {
+    width: 100%;
+    padding: 75px 20px;
+  }
+  #service-section2 p {
+    width: 90%;
+    font-size: 16px;
+    margin-top: 20px;
+  }
+  #service-section3 {
+    padding: 75px 20px;
+  }
+  .service-card {
+    width: 49%;
+    height: 465px;
+    margin-bottom: 10%;
+  }
+  .desc-service {
+    padding: 15px;
+    height: 280px;
+  }
+  .service-card:hover .desc-service{
+    padding: 15px;
+    height: 300px;
+  }
+  .desc-service h4 {
+    font-size: 20px;
+  }
+  .desc-service p {
+    font-size: 14px;
+  }
+  #about-section1 h2 {
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    margin-left: 20px;
+  }
+  .about-banner {
+    height: 68vh;
+  }
+  #about-section1 {
+    width: 100%;
+    min-height: auto;
+    padding-top: 150px;
+  }
+  #about-section2 p {
+    font-size: 20px;
+    width: 90%;
+    line-height: 1.4;
+    margin: 10px 0;
+    margin-top: 20px;
+    margin-left: 20px;
+  }
+  .marque-about {
+    gap: 50px;
+    align-items: center;
+    padding: 30px 25px;
+    margin: 25px 0;
+    margin-bottom: 30px;
+  }
+  .marque-about img {
+    height: 25px;
+  }
+  #about-section3 {
+    padding: 20px;
+  }
+  .team-container .member {
+    width: 49%;
+    margin-bottom: 10%;
+  }
+  #about-section3 h2 {
+    font-size: 45px;
+    margin: 30px 0;
+  }
+  #about-section4 {
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+    background-color: #0a1e37;
+  }
+  #about-section4 .pt1 {
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+  #about-section4 .pt2 {
+    width: 100%;
+    height: 100%;
+    background-color: #0a1e37;
+    color: white;
+    padding: 20px;
+  }
+  #about-section4 p {
+    font-family: paraLight;
+    font-size: 16px;
+    margin-bottom: 20px;
+    width: 90%;
+  }
+  #about-section4 h2 {
+    font-size: 45px;
+  }
+  #about-section5 {
+    width: 100%;
+    min-height: auto;
+    padding: 60px 20px;
+  }
+  #about-section5 h2 {
+    font-family: heading2;
+    font-size: 45px;
+  }
+  .container-section5 {
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 60px;
+    flex-direction: column;
+    gap: 20px;
+  }
+  .text-container p {
+    font-size: 16px;
+    margin: 20px 0;
+    width: 90%;
+  }
+  .container-section5 .text-container {
+    width: 100%;
+  }
+  .container-section5 .img-container {
+    width: 100%;
+    height: 100%;
+  }
+  .text-container2 {
+    padding-left: 0px;
+  }
+
+  .container-section5-imp {
+    width: 100%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 60px;
+    flex-direction: column;
+    gap: 20px;
+  }
+  .text-container-imp p {
+    font-size: 16px;
+    margin: 20px 0;
+    width: 90%;
+  }
+  .container-section5-imp .text-container-imp {
+    width: 100%;
+  }
+  .container-section5-imp .img-container-imp {
+    width: 100%;
+    height: 100%;
+  }
+  .text-container2 {
+    padding-left: 0px;
+  }
+  #impact-section5 {
+    padding: 60px 20px;
+  }
+  #impact-section5 h2 {
+    font-size: 45px;
+    margin-bottom: 40px;
+  }
+
+  #impact-section1 h2 {
+    font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    margin-left: 20px;
+  }
+  .impact-banner {
+    width: 100%;
+    height: auto;
+    transform: translateY(0px);
+  }
+  #impact-section1 {
+    width: 100%;
+    min-height: auto;
+    padding-top: 150px;
+  }
+  #impact-section2 {
+    width: 100%;
+    padding: 60px 20px;
+    align-items: flex-start;
+    flex-direction: column;
+  }
+  #impact-section2 .left2 {
+    width: 100%;
+    height: 100%;
+    padding-bottom: 30px;
+  }
+  #impact-section2 h2 {
+    font-size: 45px;
+  }
+  #impact-section2 p {
+    font-family: paraLight;
+    font-size: 16px;
+    width: 90%;
+  }
+  #impact-section2 .right2 {
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    gap: 20px;
+  }
+  #impact-section3 {
+    width: 100%;
+    height: auto;
+    flex-direction: column;
+    background-color: #0a1e37;
+  }
+  #impact-section3 .pt1 {
+    width: 100%;
+  }
+  #impact-section3 .pt2 {
+    width: 100%;
+    color: white;
+    padding: 60px 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  #impact-section3 h2 {
+    font-size: 45px;
+  }
+  #impact-section3 p {
+    width: 90%;
+  }
+
+  #insight-section1 {
+    padding: 60px 20px;
+    padding-top: 120px;
+  }
+  #insight-section1 h4 {
+    font-size: 30px;
+  }
+  .insight-sec1 {
+    width: 100%;
+    height: auto;
+    flex-direction: column;
+  }
+  .side1 {
+    width: 100%;
+  }
+  .side2 {
+    width: 100%;
+    height: 100%;
+    flex-direction: column;
+    padding: 20px 20px;
+  }
+  .side2 h2 {
+    font-family: heading2;
+    font-size: 25px;
+  }
+  #insight-section2 {
+    width: 100%;
+    min-height: auto;
+    padding: 20px;
+    flex-direction: column;
+  }
+  .product-container {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2%;
+    flex-direction: row;
+  }
+  .product-card {
+    width: 49%;
+    margin-bottom: 15%;
+  }
+  #insight-section2 .filters {
+    width: 100%;
+    position: relative;
+    top: 0;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 20px 0;
+  }
+  .options {
+    gap: 5px;
+    margin-bottom: 8px;
+    width: 50%;
+    margin-bottom: 25px;
+  }
 }
 
 /* Medium devices (tablets) */

@@ -1,22 +1,29 @@
-import React from 'react'
+import Link from 'next/link'
+import { useRouter } from 'next/router';
+import React, { useState } from 'react'
 
 const Section2 = () => {
+
+    const router = useRouter();
+    const { filterby } = router.query;
+    
+    const filters = ['all', 'announcements', 'coverage', 'people'];
+    const [activeFilter, setActiveFilter] = useState(filterby || 'all');
+  
+    const handleFilterClick = (filter) => {
+      setActiveFilter(filter);
+      router.push(`?filterby=${filter}`, undefined, { shallow: true });
+    };
+
   return (
     <div id='insight-section2'>
-        <div className='filters'>
-            <div className="options">
-                <span className='active'>all</span>
-            </div>
-            <div className="options">
-                <span>announcements</span>
-            </div>
-            <div className="options">
-                <span>coverage</span>
-            </div>
-            <div className="options">
-                <span>people</span>
-            </div>
-        </div>
+      <div className='filters'>
+        {filters.map((filter) => (
+          <div className="options" key={filter} onClick={() => handleFilterClick(filter)}>
+            <span className={activeFilter === filter ? 'active' : ''}>{filter}</span>
+          </div>
+        ))}
+      </div>
         <div className='product-container'>
             <div className="product-card">
                 <div className="product-img">

@@ -17,7 +17,7 @@ const Section4 = () => {
             scrollTrigger: {
                 trigger: "#impact-section5 h2",
                 scroller: "body",
-                start: "top 80%",
+                start: "top 85%",
                 end: "top 60%",
                 // markers:true,
             }
