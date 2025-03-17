@@ -6,6 +6,7 @@ gsap.registerPlugin(ScrollTrigger)
 
 const Section2 = () => {
     useEffect(()=>{
+        if(window.innerWidth < 575) return;
         var tl = gsap.timeline({
             scrollTrigger:{
                 trigger:"#about-section2",

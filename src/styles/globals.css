@@ -45,9 +45,9 @@ main {
 }
 #navigation{
   width: 100%;
-  height: calc(100dvh - 75px);
+  height: calc(100dvh - 100px);
   position: fixed;
-  top: 75px;
+  top: 100px;
   left: 0;
   background-color: #0a1e37;
   color: white;
@@ -57,6 +57,9 @@ main {
   padding: 20px;
   padding-top: 150px;
   opacity: 0;
+  z-index: 99;
+  display: none;
+  pointer-events: none;
 }
 .menu-links{
   display: flex;
@@ -797,7 +800,7 @@ main {
   left: 0;
   bottom: 0;
   width: 0%;
-  height: 0.01vw;
+  height: 1px;
   background-color: #0a1e37;
   transition: all ease 0.3s;
 }
@@ -856,6 +859,9 @@ main {
 
 /* Extra small devices (phones) */
 @media (max-width: 575px) {
+  #navigation{
+    display: block;
+  }
   #navbar {
     height: 100px;
     padding: 0px 20px;
