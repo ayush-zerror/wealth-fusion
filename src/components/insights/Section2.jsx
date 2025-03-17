@@ -5,19 +5,15 @@ const Section2 = () => {
     <div id='insight-section2'>
         <div className='filters'>
             <div className="options">
-                <input type="radio" name='filterby'   defaultChecked/>
-                <span>all</span>
+                <span className='active'>all</span>
             </div>
             <div className="options">
-                <input type="radio" name='filterby' />
                 <span>announcements</span>
             </div>
             <div className="options">
-                <input type="radio" name='filterby' />
                 <span>coverage</span>
             </div>
             <div className="options">
-                <input type="radio" name='filterby' />
                 <span>people</span>
             </div>
         </div>
@@ -73,6 +69,14 @@ const Section2 = () => {
             <div className="product-card">
                 <div className="product-img">
                     <img src="https://strapi-bus-eng-prod.s3.us-east-1.amazonaws.com/image12_838f3fa5f7.gif" alt="product" />
+                </div>
+                <span>announcements</span>
+                <h2>Vogue’s Vintage Market Is Coming to New York and London </h2>
+                <span>Jan 9, 2025</span>
+            </div>
+            <div className="product-card">
+                <div className="product-img">
+                    <img src="https://strapi-bus-eng-prod.s3.us-east-1.amazonaws.com/Announcement_Gigi_App_441e1ec10f.webp" alt="product" />
                 </div>
                 <span>announcements</span>
                 <h2>Vogue’s Vintage Market Is Coming to New York and London </h2>

@@ -4,9 +4,9 @@ import 'remixicon/fonts/remixicon.css'
 
 export default function App({ Component, pageProps }) {
   return (
-    <>
+    <main>
     <Navbar/>
     <Component {...pageProps} />
-    </>
+    </main>
   );
 }

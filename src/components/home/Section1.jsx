@@ -36,7 +36,7 @@ const Section1 = () => {
       <div className="overlay-home1">
         <h2>Inspire by Legacy,</h2>
         <h2>Designed for Growth.</h2>
-        <button>Get in touch now <i class="ri-arrow-right-line"></i></button>
+        <button>Get in touch now <i className="ri-arrow-right-line"></i></button>
       </div>
     </div>
   )
