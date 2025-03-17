@@ -14,11 +14,11 @@ const Section1 = () => {
         },
         ease: "power2.out",
         duration: 1.2,
-      })
+      },"a")
       .to(".side2 span",{
         opacity:.7,
         duration:.2,
-      })
+      },"a")
       .to("#insight-section1 h2", {
         clipPath: "polygon(0 0, 100% 0, 100% 100%, 0% 100%)",
         stagger: {
@@ -26,7 +26,7 @@ const Section1 = () => {
         },
         ease: "power2.out",
         duration: 1.2,
-      })
+      },"a")
   }, [])
 
   return (
