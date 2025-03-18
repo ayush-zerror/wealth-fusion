@@ -24,9 +24,7 @@ body {
   width: 100%;
   height: 100%;
 }
-main {
-  overflow: hidden;
-}
+
 ::-webkit-scrollbar {
   display: none;
 }
@@ -190,6 +188,8 @@ main {
   padding-top: 150px;
   background-color: #0a1e37;
   color: white;
+  background-image: url("/bg.png");
+  background-position: 0 30%;
 }
 #service-section1 h2 {
   font-family: heading2;
@@ -275,7 +275,7 @@ main {
   margin: 25px 0;
   margin-top: 20px;
 }
-.desc-service button {
+.desc-service a {
   width: fit-content;
   padding: 8px 0;
   background-color: transparent;
@@ -285,7 +285,10 @@ main {
   font-size: 14px;
   border-bottom: 1px solid white;
   color: white;
+  text-decoration: none;
+  display: block;
 }
+
 #service-section3{
   width: 100%;
   padding: 60px 110px;
@@ -867,7 +870,7 @@ main {
 #insight-section2 .filters {
   width: 20%;
   height: 100%;
-  position: sticky;
+  position: sticky ;
   top: 100px;
 }
 
@@ -1104,6 +1107,8 @@ main {
 .contact-img{
   width: 50%;
   height: 55vh;
+  clip-path: polygon(0% 100%, 100% 100%, 100% 100%, 0% 100%);
+  background-color: rgba(128, 128, 128, 0.114);
 }
 .contact-img img{
   width: 100%;
@@ -1193,6 +1198,9 @@ main {
 }
 /* Extra small devices (phones) */
 @media (max-width: 575px) {
+  main {
+    overflow: hidden;
+  }
   #navigation {
     display: block;
   }

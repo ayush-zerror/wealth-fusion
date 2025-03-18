@@ -1,6 +1,15 @@
-import React from 'react'
+import gsap from 'gsap'
+import React, { useEffect } from 'react'
 
 const Section1 = () => {
+
+  useEffect(()=>{
+    gsap.to(".contact-img",{
+      clipPath:"polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%)",
+      duration:.6
+    })
+  },[])
+
   return (
     <div id='contact-section1'>
       <div className="contact-left">

@@ -2,6 +2,7 @@ import { Services } from '@/helpers/Services';
 import gsap from 'gsap';
 import ScrollTrigger from 'gsap/dist/ScrollTrigger';
 import Image from 'next/image'
+import Link from 'next/link';
 import React, { useEffect } from 'react'
 gsap.registerPlugin(ScrollTrigger)
 
@@ -17,7 +18,7 @@ const Section2 = () => {
                     <div className='desc-service'>
                         <h4>{service.title}</h4>
                         <p>{service.description}</p>
-                        <button>Learn more</button>
+                        <Link  href="/contact-us">Contact Us</Link>
                     </div>
                 </div>))}
             </div>
