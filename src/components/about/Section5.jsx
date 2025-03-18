@@ -59,12 +59,12 @@ const Section5 = () => {
                         mix of safety, risk, and return.</p>
                 </div>
                 <div className="img-container">
-                    <Image src='https://wealthfusion.co.uk/wp-content/uploads/2020/11/WFHEADER-Recovered.jpg?id=617' width={1000} height={1000} alt='section5' />
+                    <img src='https://images.unsplash.com/photo-1520986606214-8b456906c813?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='section5' />
                 </div>
             </div>
             <div className='container-section5'>
                 <div className="img-container">
-                    <Image src='https://wealthfusion.co.uk/wp-content/uploads/2020/11/AdobeStock_328877378.jpg?id=533' width={1000} height={1000} alt='section5' />
+                    <img src='https://images.unsplash.com/photo-1523240795612-9a054b0db644?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'  alt='section5' />
                 </div>
                 <div className="text-container text-container2">
                     <h4>Diversified, Global, and</h4>

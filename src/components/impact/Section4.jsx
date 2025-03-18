@@ -61,7 +61,7 @@ const Section4 = () => {
                         mix of safety, risk, and return.</p>
                 </div>
                 <div className="img-container-imp">
-                    <Image src='https://wealthfusion.co.uk/wp-content/uploads/2020/11/WFHEADER-Recovered.jpg?id=617' width={1000} height={1000} alt='section5' />
+                    <img src='https://images.unsplash.com/photo-1484863137850-59afcfe05386?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'  alt='section5' />
                 </div>
             </div>
             <div className='container-section5-imp'>
@@ -97,7 +97,7 @@ const Section4 = () => {
                         mix of safety, risk, and return.</p>
                 </div>
                 <div className="img-container-imp">
-                    <Image src='https://wealthfusion.co.uk/wp-content/uploads/2020/11/WFHEADER-Recovered.jpg?id=617' width={1000} height={1000} alt='section5' />
+                    <img src='https://images.unsplash.com/photo-1598257006458-087169a1f08d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D'  alt='section5' />
                 </div>
             </div>
         </div>

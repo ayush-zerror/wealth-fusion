@@ -33,11 +33,11 @@ const Section4 = () => {
 
   return (
     <div id='about-section4'>
-      <div className="pt1">
-        <Image src="https://wealthfusion.co.uk/wp-content/uploads/2020/11/sky.jpg?id=345" width={1000} height={1000} alt="banner" />
-      </div>
+      <Image width={1000} height={1000} src="/bg.png" alt='background-img'/>
+
+      <div className='about-over4'>
       <div className="pt2">
-        <h2>Approach</h2>
+        <h2>Our Approach</h2>
         <p>At WealthFusion, our approach to wealth management
           is deeply rooted in cultivating long-term partnership and making
           it more personal. We believe that once we truly understand your
@@ -60,6 +60,10 @@ const Section4 = () => {
         </p>
         <p>Our commitment extends beyond the present, focusing on
           providing stability and continuity for future generations. </p>
+      </div>
+      <div className='pt1'>
+      <Image width={1000} height={1000} src="/bigLogo.png" alt='background-img'/>
+      </div>
       </div>
     </div>
   )

@@ -1,10 +1,10 @@
 import Link from 'next/link'
 import React from 'react'
 
-const Section3 = () => {
+const Section4 = () => {
   return (
     <div id='service-section3'>
-      <h2>Discover our latest insights</h2>
+      <h2>Discover Similar Insights</h2>
       <p>Every day, our experts deliver fresh insights on trending topics, sectors and markets to help you stay ahead of the curve.</p>
       <div className='insights-container'>
         <Link href="/insights/1" className="insight-card">
@@ -52,4 +52,4 @@ const Section3 = () => {
   )
 }
 
-export default Section3
+export default Section4

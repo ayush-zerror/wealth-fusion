@@ -25,70 +25,70 @@ const Section2 = () => {
         ))}
       </div>
         <div className='product-container'>
-            <div className="product-card">
+            <Link href="/insights/1" className="product-card">
                 <div className="product-img">
-                    <img src="https://strapi-bus-eng-prod.s3.us-east-1.amazonaws.com/Announcement_Gigi_App_441e1ec10f.webp" alt="product" />
+                    <img src="https://images.unsplash.com/photo-1560250056-07ba64664864?q=80&w=2051&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="product" />
                 </div>
                 <span>announcements</span>
                 <h2>Vogue’s Vintage Market Is Coming to New York and London </h2>
                 <span>Jan 9, 2025</span>
-            </div>
-            <div className="product-card">
+            </Link>
+            <Link href="/insights/1" className="product-card">
                 <div className="product-img">
-                    <img src="https://strapi-bus-eng-prod.s3.us-east-1.amazonaws.com/unnamed_7a89812343.png" alt="product" />
+                    <img src="https://images.unsplash.com/photo-1639969600391-37bfcb6c79d3?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="product" />
                 </div>
                 <span>announcements</span>
                 <h2>Vogue’s Vintage Market Is Coming to New York and London </h2>
                 <span>Jan 9, 2025</span>
-            </div>
-            <div className="product-card">
+            </Link>
+            <Link href="/insights/1" className="product-card">
                 <div className="product-img">
-                    <img src="https://strapi-bus-eng-prod.s3.us-east-1.amazonaws.com/Claire_Hazan_Kate_Fichard_58ee1b2f70.jpg" alt="product" />
+                    <img src="https://images.unsplash.com/photo-1590650516494-0c8e4a4dd67e?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="product" />
                 </div>
                 <span>announcements</span>
                 <h2>Vogue’s Vintage Market Is Coming to New York and London </h2>
                 <span>Jan 9, 2025</span>
-            </div>
-            <div className="product-card">
+            </Link>
+            <Link href="/insights/1" className="product-card">
                 <div className="product-img">
-                    <img src="https://strapi-bus-eng-prod.s3.us-east-1.amazonaws.com/05_Newyorker_archive_01_cthq_super_Jumbo_780817e120.webp" alt="product" />
+                    <img src="https://images.unsplash.com/photo-1592208117290-11096f48f1c7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="product" />
                 </div>
                 <span>announcements</span>
                 <h2>Vogue’s Vintage Market Is Coming to New York and London </h2>
                 <span>Jan 9, 2025</span>
-            </div>
-            <div className="product-card">
+            </Link>
+            <Link href="/insights/1" className="product-card">
                 <div className="product-img">
-                    <img src="https://strapi-bus-eng-prod.s3.us-east-1.amazonaws.com/image3_9554e5546b.gif" alt="product" />
+                    <img src="https://images.unsplash.com/photo-1507296950187-9b0c7c88e7af?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="product" />
                 </div>
                 <span>announcements</span>
                 <h2>Vogue’s Vintage Market Is Coming to New York and London </h2>
                 <span>Jan 9, 2025</span>
-            </div>
-            <div className="product-card">
+            </Link>
+            <Link href="/insights/1" className="product-card">
                 <div className="product-img">
-                    <img src="https://strapi-bus-eng-prod.s3.us-east-1.amazonaws.com/image5_a6f0dc14d8.gif" alt="product" />
+                    <img src="https://images.unsplash.com/photo-1544717297-fa95b6ee9643?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="product" />
                 </div>
                 <span>announcements</span>
                 <h2>Vogue’s Vintage Market Is Coming to New York and London </h2>
                 <span>Jan 9, 2025</span>
-            </div>
-            <div className="product-card">
+            </Link>
+            <Link href="/insights/1" className="product-card">
                 <div className="product-img">
-                    <img src="https://strapi-bus-eng-prod.s3.us-east-1.amazonaws.com/image12_838f3fa5f7.gif" alt="product" />
+                    <img src="https://images.unsplash.com/photo-1737583687210-acec081cbec1?q=80&w=2143&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="product" />
                 </div>
                 <span>announcements</span>
                 <h2>Vogue’s Vintage Market Is Coming to New York and London </h2>
                 <span>Jan 9, 2025</span>
-            </div>
-            <div className="product-card">
+            </Link>
+            <Link href="/insights/1" className="product-card">
                 <div className="product-img">
-                    <img src="https://strapi-bus-eng-prod.s3.us-east-1.amazonaws.com/Announcement_Gigi_App_441e1ec10f.webp" alt="product" />
+                    <img src="https://images.unsplash.com/photo-1537511446984-935f663eb1f4?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="product" />
                 </div>
                 <span>announcements</span>
                 <h2>Vogue’s Vintage Market Is Coming to New York and London </h2>
                 <span>Jan 9, 2025</span>
-            </div>
+            </Link>
         </div>
     </div>
   )

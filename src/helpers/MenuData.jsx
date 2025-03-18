@@ -15,4 +15,8 @@ export const MenuData =  [
         name:"Impact",
         path:"/impact"
     },
+    {
+        name:"Contact Us",
+        path:"/contact-us"
+    },
 ]
