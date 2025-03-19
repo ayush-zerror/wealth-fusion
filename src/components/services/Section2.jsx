@@ -16,9 +16,11 @@ const Section2 = () => {
                         <Image width={1000} height={1000} src={service.image} alt={service.title} />
                     </div>
                     <div className='desc-service'>
-                        <h4>{service.title}</h4>
-                        <p>{service.description}</p>
-                        <Link  href="/contact-us">Contact Us</Link>
+                        <div className='card-text-wrap'>
+                            <h4>{service.title}</h4>
+                            <p>{service.description}</p>
+                        </div>
+                        <Link href="/contact-us">Contact Us</Link>
                     </div>
                 </div>))}
             </div>
