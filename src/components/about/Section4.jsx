@@ -6,36 +6,33 @@ gsap.registerPlugin(ScrollTrigger)
 
 const Section4 = () => {
 
-  useEffect(()=>{
+  useEffect(() => {
     var tl = gsap.timeline({
-      scrollTrigger:{
-        trigger:"#about-section4",
-        scroller:"body",
-        start:"top 60%",
-        end:"top 30%",
+      scrollTrigger: {
+        trigger: "#about-section4",
+        scroller: "body",
+        start: "top 60%",
+        end: "top 30%",
         // markers:true,
       }
     })
     tl
-    .to("#about-section4 h2",{
-      clipPath:"polygon(0 0, 100% 0, 100% 100%, 0% 100%)",
-      stagger:{
-        amount:0.5
-      },
-      ease: "power2.out",
-      duration:1.2,
-    })
-    return ()=>{
+      .to("#about-section4 h2", {
+        clipPath: "polygon(0 0, 100% 0, 100% 100%, 0% 100%)",
+        stagger: {
+          amount: 0.5
+        },
+        ease: "power2.out",
+        duration: 1.2,
+      })
+    return () => {
       tl.kill()
     }
 
-  },[])
+  }, [])
 
   return (
     <div id='about-section4'>
-      <Image width={1000} height={1000} src="/bg.png" alt='background-img'/>
-
-      <div className='about-over4'>
       <div className="pt2">
         <h2>Our Approach</h2>
         <p>At WealthFusion, our approach to wealth management
@@ -45,13 +42,13 @@ const Section4 = () => {
           solution that aligns with your goals and aspirations. </p>
         <p>In a landscape where many firms are shifting toward
           standardising their products and services, we have purposefully
-          looked away to maintain our independence and oer tailored
+          looked away to maintain our independence and offer tailored
           advice that fits your personal values and priorities.</p>
         <p>We recognise that no financial decision is easy and every
           decision can significantly influence the financial outcomes for
           you and the family. Be it expanding your business to planning for
           your family’s future or leaving a lasting legacy. Our role is to be on
-          your side and help you navigate these dicult decisions with
+          your side and help you navigate these diffcult decisions with
           confidence and ensure that your financial plan evolves with
           changing circumstances. Whether you’re considering moving
           abroad, purchasing a new home, or planning for children’s
@@ -62,8 +59,7 @@ const Section4 = () => {
           providing stability and continuity for future generations. </p>
       </div>
       <div className='pt1'>
-      <Image width={1000} height={1000} src="/bigLogo.png" alt='background-img'/>
-      </div>
+        <Image width={1000} height={1000} src="/bigLogo.png" alt='background-img' />
       </div>
     </div>
   )
