@@ -4,47 +4,113 @@ import React, { useEffect } from 'react'
 const Section1 = () => {
 
   useEffect(()=>{
-    gsap.to(".contact-img",{
-      clipPath:"polygon(0% 0%, 100% 0%, 100% 100%, 0% 100%)",
-      duration:.6
-    })
+    document.querySelectorAll("#right form .input").forEach(function (i) {
+      i.querySelector("input").addEventListener("focus", function () {
+          i.classList.add("active")
+      })
+      i.querySelector("input").addEventListener("blur", function () {
+          if (this.value == "") {
+              i.classList.remove("active")
+          }
+      })
+  })
+  
+  document.querySelectorAll("#right form .textarea").forEach(function (i) {
+      i.querySelector("textarea").addEventListener("focus", function () {
+          i.classList.add("active")
+      })
+      i.querySelector("textarea").addEventListener("blur", function () {
+          if (this.value == "") {
+              i.classList.remove("active")
+          }
+      })
+  
+  })
+  document.querySelectorAll(".lineanime").forEach(function (i) {
+    i.addEventListener("mouseenter", function () {
+        gsap.to(i.querySelector(".linei"), {
+            scaleX: 1, // Use scaleX directly
+            duration:0.3, // Add duration for smooth animation
+            ease: "power1.out", // Optional easing
+        });
+    });
+
+    i.addEventListener("mouseleave", function () {
+        gsap.set(i.querySelector(".linei"), {
+            transformOrigin: "right", // Retract towards left
+        })
+        gsap.to(i.querySelector(".linei"), {
+            scaleX: 0, // Revert to scaleX(0) on mouse leave
+            duration: 0.3,
+            ease: "power1.in", // Optional easing,
+            onComplete:()=>{
+                gsap.set(i.querySelector(".linei"), {
+                    transformOrigin: "left", // Retract towards left
+                })
+
+            }
+        });
+    });
+});
+  
   },[])
 
   return (
-    <div id='contact-section1'>
-      <div className="contact-left">
-        <h2>We’d love to <br />
-          hear from you. <br />
-          Contact us.</h2>
-        <div className="contact-img">
-          <img src="https://images.unsplash.com/photo-1603202662706-62ead3176b8f?q=80&w=1938&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="contact" />
+    <section id="page1">
+        <div id="form">
+            <div id="left">
+                <h2>Contact</h2>
+            </div>
+            <div id="right">
+                <form action="">
+                    <div className="input lineanime">
+                        <input type="text"/>
+                        <h6>NAME*</h6>
+                        <div className="linei"></div>
+                    </div>
+                    <div className="input lineanime">
+                        <input type="text"/>
+                        <h6>EMAIL*</h6>
+                        <div className="linei"></div>
+                    </div>
+                    <div className="input lineanime">
+                        <input type="text"/>
+                        <h6>TOPICS*</h6>
+                        <div className="linei"></div>
+                    </div>
+                    <div className="input lineanime">
+                        <input type="text"/>
+                        <h6>PHONE NUMBER*</h6>
+                        <div className="linei"></div>
+                    </div>
+                    <div className="textarea lineanime">
+                        <h6>MESSGAE*</h6>
+                        <div className="linei"></div>
+                        <textarea name="" id=""></textarea>
+                    </div>
+                    <button id='submit-btn'>Submit</button>
+                </form>
+            </div>
         </div>
-      </div>
-      <div className="contact-right">
-        <h2>Get started today.</h2>
-        <form action="">
-          <div className='input-container'>
-            <label htmlFor="Full Name">Email</label>
-            <input type="text" placeholder='Full Name' />
-          </div>
-          <div className='input-wrapper'>
-            <div className='input-container'>
-              <label htmlFor="Phone">Phone</label>
-              <input type="text" placeholder='Phone' />
+        <div id="address">
+            <div className="elem elem-lf">
+                <h5>We believe in the power of digital, and we love collaborating with brands that feel the same.
+                    Let's connect.</h5>
             </div>
-            <div className='input-container'>
-              <label htmlFor="Email">Email</label>
-              <input type="text" placeholder='Email' />
+            <div className="elem">
+                <div className="add">
+                    <h6>Business enquiries</h6>
+                    <h5>info@wealthfusion.co.uk</h5>
+                    <h5>+44 (0) 208 154 7030</h5>
+                </div>
+                <div className="add">
+                    <h6>Address</h6>
+                    <h5>70 Baker Street, <br />
+                    London, W1U 7DL</h5>
+                </div>
             </div>
-          </div>
-          <div className='input-container'>
-            <label htmlFor="Message">Message</label>
-            <textarea name="Message" id="Message" placeholder='Message'></textarea>
-          </div>
-          <button id='submit-btn'>Contact Us</button>
-        </form>
-      </div>
-    </div>
+        </div>
+    </section>
   )
 }
 

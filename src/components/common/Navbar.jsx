@@ -38,7 +38,7 @@ const Navbar = () => {
       <span className='menu' onClick={()=>{setMenu(!menu)}}><i className={` ${menu ? 'ri-close-line':'ri-menu-3-line'}`}></i></span>
       <div id="navigation">
         <div className='menu-links'>
-          {MenuData.map((item, index) => <Link onClick={()=>setMenu(!menu)} href={item.path} key={index}>{item.name}</Link>)}
+          {MenuData.map((item, index) => <Link  onClick={()=>setMenu(!menu)} href={item.path} key={index}>{item.name}</Link>)}
         </div>
       </div>
     </nav>

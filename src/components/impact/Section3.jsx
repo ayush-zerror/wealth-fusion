@@ -37,21 +37,20 @@ const Section3 = () => {
                     solution that aligns with your goals and aspirations. </p>
                 <p>In a landscape where many firms are shifting toward
                     standardising their products and services, we have purposefully
-                    looked away to maintain our independence and oer tailored
+                    looked away to maintain our independence and offer tailored
                     advice that fits your personal values and priorities.</p>
                 <p>We recognise that no financial decision is easy and every
                     decision can significantly influence the financial outcomes for
                     you and the family. Be it expanding your business to planning for
                     your family’s future or leaving a lasting legacy. Our role is to be on
-                    your side and help you navigate these dicult decisions with
+                    your side and help you navigate these diffcult decisions with
                     confidence and ensure that your financial plan evolves with
                     changing circumstances. Whether you’re considering moving
                     abroad, purchasing a new home, or planning for children’s
                     education, we stand by your side, continuously refining your plan
                     to meet your needs.
                 </p>
-                <p>Our commitment extends beyond the present, focusing on
-                    providing stability and continuity for future generations. </p>
+              
             </div>
             <div className="pt1">
                 <Image src="/bigLogo.png" width={1000} height={1000} alt="banner" />

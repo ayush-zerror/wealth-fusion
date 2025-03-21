@@ -2,13 +2,13 @@ export const Services = [
   {
     title: "Financial planning",
     description:
-      "Our portfolio advisory services are built on a collaborative partnership. We work closely with clients to understand their long-term investment objectives and customize strategies that navigate the complexities of the financial markets.",
+      "Our portfolio advisory services focus on collaboration, tailoring strategies to clients' long-term investment goals while navigating market complexities.",
     image: "https://www.mirabaud.com/fileadmin/_processed_/1/9/csm_mountain1-3679891_1920_f0b52ca353.jpg",
   },
   {
-    title: "Bespoke wealth management solutions",
+    title: "Bespoke wealth solutions",
     description:
-      "Clients are at the heart of everything we do at WealthFusion. Our comprehensive wealth management services are meticulously crafted to align with your unique financial goals, offering tailored solutions with unwavering integrity.",
+      "At WealthFusion, clients come first. Our wealth management services are designed to align with your financial goals, offering tailored solutions with integrity.",
     image: "https://www.mirabaud.com/fileadmin/_processed_/d/f/csm_mirabaud-asset-management-bridge-overview-hero_b1d0b35378.jpg",
   },
   {
@@ -18,7 +18,7 @@ export const Services = [
     image: "https://www.mirabaud.com/fileadmin/_processed_/5/2/csm_mirabaud-asset-management-tunnel-converts-overview-hero_ffea8bb8a9.jpg",
   },
   {
-    title: "Dedicated relationship manager",
+    title: "Dedicated advisor",
     description:
       "We believe in building lasting relationships with our clients. Our dedicated relationship managers will be your trusted partner, guiding you through every stage of your financial journey.",
     image: "https://www.mirabaud.com/fileadmin/_processed_/4/9/csm_mirabaud-asset-management-luxury-house-hero-overview_a7af399cb8.jpg",
@@ -26,7 +26,7 @@ export const Services = [
   {
     title: "Liquidity solutions",
     description:
-      "We have carefully designed liquidity solutions to meet diverse cash management needs. Our offering focuses on providing flexibility, accessibility, and security, ensuring you have the funds when you need them.",
+      "Our carefully designed liquidity solutions provide flexibility, accessibility, and security, ensuring you have funds available when needed.",
     image: "https://www.mirabaud.com/fileadmin/_processed_/2/b/csm_HONG_KONG_asset_allocation_3_ccf6d0b462.jpg",
   },
   {

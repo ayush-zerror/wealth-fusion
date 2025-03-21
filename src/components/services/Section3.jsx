@@ -39,14 +39,6 @@ const Section3 = () => {
           <h2>Vogue’s Vintage Market Is Coming to New York and London </h2>
           <span>Jan 9, 2025</span>
         </Link>
-        <Link href="/insights/1" className="insight-card">
-          <div className="insight-img">
-            <img src="https://www.mirabaud.com/fileadmin/_processed_/5/0/csm_shutterstock_2169422435_0ea0ca779e.jpg" alt="insight" />
-          </div>
-          <span>announcements</span>
-          <h2>Vogue’s Vintage Market Is Coming to New York and London </h2>
-          <span>Jan 9, 2025</span>
-        </Link>
       </div>
     </div>
   )
