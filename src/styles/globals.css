@@ -224,7 +224,7 @@ body {
 }
 #service-section11 {
   width: 100%;
-  padding:100px 110px;
+  padding: 100px 110px;
   background-color: white;
   color: #0a1e37;
   display: flex;
@@ -263,7 +263,6 @@ body {
   justify-content: space-between;
   margin-bottom: 50px;
   cursor: default;
-
 }
 .img-container {
   width: 100%;
@@ -274,7 +273,7 @@ body {
   width: 100%;
   height: 100%;
   object-fit: cover;
-  transition: all .4s ease-in-out;
+  transition: all 0.4s ease-in-out;
 }
 .service-card:hover .img-container img {
   transform: scale(1.1);
@@ -291,7 +290,7 @@ body {
   width: 100%;
   padding: 20px;
   height: 230px;
-  transition: all .4s ease-in-out;
+  transition: all 0.4s ease-in-out;
   background-color: white;
   color: #0a1e37;
   overflow: hidden;
@@ -394,12 +393,12 @@ body {
   text-transform: capitalize;
 }
 
-#service-map{
+#service-map {
   width: 100%;
-  padding:100px 110px;
+  padding: 100px 110px;
   padding-bottom: 0;
 }
-#service-map h2{
+#service-map h2 {
   font-family: heading2;
   font-size: 55px;
   font-weight: 500;
@@ -408,53 +407,52 @@ body {
   width: fit-content;
   line-height: 1;
 }
-#wrapper-map{
+#wrapper-map {
   width: 100%;
   display: flex;
   justify-content: space-between;
 }
-#service-map iframe{
-  width:72%;
+#service-map iframe {
+  width: 72%;
   border: none;
   outline: none;
 }
 
-#service-map .contact-card-service{
+#service-map .contact-card-service {
   width: 25%;
   height: 100%;
   background-color: #f7f3ed;
-  padding:60px 30px;
+  padding: 70px 30px;
 }
-.contact-card-service h4{
+.contact-card-service h4 {
   font-family: heading2;
   font-weight: 500;
   font-size: 25px;
   text-transform: capitalize;
   margin-bottom: 30px;
 }
-.contact-box{
+.contact-box {
   width: 100%;
   display: flex;
   justify-content: space-between;
-  margin-top: 30px;
+  margin-top: 40px;
 }
-svg{
+svg {
   width: 35px !important;
 }
-.number{
+.number {
   width: calc(100% - 50px);
 }
-.number p:nth-child(1){
+.number p:nth-child(1) {
   font-family: paraMedium;
 }
 
-.contact-card-service p{
+.contact-card-service p {
   font-family: paraLight;
   font-size: 16px;
   font-size: 500;
   color: #0a1e37;
 }
-
 
 /* about css */
 
@@ -497,7 +495,7 @@ svg{
   font-family: heading2;
   font-weight: 500;
   font-size: 25px;
-  width:60%;
+  width: 60%;
   line-height: 160%;
   margin-left: 110px;
 }
@@ -555,7 +553,7 @@ svg{
   width: 100%;
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  gap: 2.6666%;
 }
 
 .team-container .member {
@@ -567,14 +565,11 @@ svg{
 }
 .team-container .profile {
   width: 100%;
-  height: 370px;
   overflow: hidden;
 }
 .team-container .profile img {
   width: 100%;
-  height: 100%;
-  object-fit: cover;
-  transform: scale(1);
+  height: auto;
   transition: all 0.4s ease-in-out;
 }
 .team-container h4 {
@@ -612,13 +607,16 @@ svg{
 
 #about-section4 {
   width: 100%;
-  /* height: 90vh; */
-  padding: 100px 110px;
+  min-height: calc(100vh - 220px);
+  padding: 0 110px;
   display: flex;
   align-items: center;
   justify-content: space-between;
   position: relative;
   background-color: #0a1e37;
+}
+.approach-section{
+  padding: 60px 110px !important;
 }
 
 #about-section4 img {
@@ -693,7 +691,7 @@ svg{
   top: 0;
   left: 0;
 }
-.container-section5-wrapper{
+.container-section5-wrapper {
   width: 100%;
   height: 65vh;
   position: relative;
@@ -774,10 +772,10 @@ svg{
 }
 
 #impact-section2 .left2 {
-  width: 40%;
+  width: 50%;
 }
 #impact-section2 .right2 {
-  width: 60%;
+  width: 50%;
   display: flex;
   flex-direction: column;
   gap: 25px;
@@ -795,7 +793,6 @@ svg{
   font-family: paraLight;
   font-size: 16px;
   line-height: 160%;
-  width: 80%;
 }
 
 #impact-section3 {
@@ -850,7 +847,7 @@ svg{
 #impact-section5 {
   width: 100%;
   height: 100vh;
-  padding:0 110px;
+  padding: 0 110px;
   padding-top: 120px;
   padding-bottom: 60px;
   background-color: #f7f3ed;
@@ -866,7 +863,7 @@ svg{
   font-weight: 500;
   clip-path: polygon(0 0, 0 0, 0 100%, 0 100%);
   width: fit-content;
-  margin:0 auto;
+  margin: 0 auto;
   margin-bottom: 30px;
 }
 
@@ -882,7 +879,7 @@ svg{
   top: calc(100% + 60px);
   left: 0;
 }
-.container-section5-imp1{
+.container-section5-imp1 {
   top: 0;
 }
 .text-container2 {
@@ -1120,7 +1117,7 @@ svg{
   font-family: paraLight;
   font-size: 16px;
   line-height: 1.5;
-  padding:0 110px;
+  padding: 0 110px;
   margin-bottom: 25px;
 }
 #details-ig2 {
@@ -1143,7 +1140,7 @@ svg{
 .details-ig3-wrap {
   margin: 20px auto;
   width: 100%;
-  padding:0 110px;
+  padding: 0 110px;
 }
 .details-ig3-wrap p {
   font-family: paraLight;
@@ -1166,6 +1163,20 @@ svg{
   padding-bottom: 60px;
   background-color: #0a1e37;
   color: white;
+}
+#footer > p {
+  width: 100%;
+  text-align: right;
+  margin-top: 60px;
+  font-size: 13px;
+  font-weight: 500;
+  line-height: 160%;
+  opacity: 0.7;
+  letter-spacing: 0.5px;
+  font-family: paraLight;
+}
+.footer-pt1 {
+  width: 100%;
   display: flex;
   align-items: flex-end;
   justify-content: space-between;
@@ -1195,12 +1206,15 @@ svg{
   height: 20vh;
   font-size: 14px;
 }
-.ft-link p {
+.ft-link p,
+.ft-link a {
   width: fit-content;
   cursor: pointer;
   position: relative;
   font-size: 16px;
   line-height: 160%;
+  text-decoration: none;
+  color: #fff;
 }
 .ft-link .underline::after {
   background-color: #fff;
@@ -1251,10 +1265,13 @@ svg{
   flex-wrap: wrap;
   justify-content: space-between;
 }
-#right form .input{
+#right form .input {
   width: 49%;
   margin-bottom: 30px;
   position: relative;
+}
+.input-full {
+  width: 100% !important;
 }
 .linei {
   width: 100%;
@@ -1267,13 +1284,13 @@ svg{
   transform: scaleX(0);
 }
 
-
-#right form .input.active h6{
+#right form .input.active h6 {
   top: 0%;
-  font-size: .7vw;
-  opacity: .8;
+  font-size: 0.7vw;
+  opacity: 0.8;
 }
-#right form .input h6 , #right form .textarea h6{
+#right form .input h6,
+#right form .textarea h6 {
   font-size: 14px;
   font-family: paraLight;
   line-height: 160%;
@@ -1283,15 +1300,15 @@ svg{
   transform: translateY(-50%);
   pointer-events: none;
   color: #0a1e37;
-  transition: all ease .3s;
+  transition: all ease 0.3s;
 }
-#right form .textarea h6{
+#right form .textarea h6 {
   top: 15%;
 }
-#right form .textarea.active h6{
+#right form .textarea.active h6 {
   top: 0%;
-  font-size: .7vw;
-  opacity: .8;
+  font-size: 0.7vw;
+  opacity: 0.8;
 }
 #right form input {
   flex-shrink: 0;
@@ -1303,10 +1320,10 @@ svg{
   outline: none;
   border-bottom: 1px solid rgba(128, 128, 128, 0.745);
 }
-#right form .textarea{
+#right form .textarea {
   width: 100%;
   position: relative;
-  height: 20vh;
+  height: 15vh;
 }
 #right form textarea {
   padding: 1vw 0;
@@ -1357,7 +1374,7 @@ svg{
   line-height: 160%;
   font-weight: 500;
 }
-#submit-btn{
+#submit-btn {
   width: 100%;
   padding: 10px 20px;
   background-color: #0a1e37;
@@ -1371,6 +1388,169 @@ svg{
   margin-top: 30px;
   cursor: pointer;
 }
+
+/* privacy css */
+
+#privacy-section1 {
+  width: 100%;
+  min-height: 100vh;
+  padding: 150px 110px;
+  padding-bottom: 100px;
+  background-color: #fff;
+  color: #0a1e37;
+}
+
+#privacy-section1 h2 {
+  font-size: 55px;
+  font-family: heading2;
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+#privacy-section1 h4 {
+  font-family: heading2;
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 100%;
+  margin-bottom: 30px;
+}
+#privacy-section1 p{
+  font-family: paraLight;
+  font-size: 16px;
+  line-height: 160%;
+  margin-bottom: 25px;
+}
+#privacy-section1 ul{
+  margin-bottom: 25px;
+  list-style-position: inside; 
+}
+#privacy-section1 li{
+  font-family: paraLight;
+  font-size: 16px;
+  line-height: 160%;
+}
+
+
+/* terms */
+#terms-section1 {
+  width: 100%;
+  min-height: 100vh;
+  padding: 150px 110px;
+  padding-bottom: 100px;
+  background-color: #fff;
+  color: #0a1e37;
+}
+
+#terms-section1 h2 {
+  font-size: 55px;
+  font-family: heading2;
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+#terms-section1 h4 {
+  font-family: heading2;
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 100%;
+  margin-bottom: 30px;
+}
+#terms-section1 p{
+  font-family: paraLight;
+  font-size: 16px;
+  line-height: 160%;
+  margin-bottom: 25px;
+}
+#terms-section1 ul{
+  margin-bottom: 25px;
+  list-style-position: inside; 
+}
+#terms-section1 li{
+  font-family: paraLight;
+  font-size: 16px;
+  line-height: 160%;
+}
+
+/* mpolicy*/
+#mpolicy-section1 {
+  width: 100%;
+  min-height: 100vh;
+  padding: 150px 110px;
+  padding-bottom: 100px;
+  background-color: #fff;
+  color: #0a1e37;
+}
+
+#mpolicy-section1 h2 {
+  font-size: 55px;
+  font-family: heading2;
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+#mpolicy-section1 h4 {
+  font-family: heading2;
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 100%;
+  margin-bottom: 30px;
+}
+#mpolicy-section1 p{
+  font-family: paraLight;
+  font-size: 16px;
+  line-height: 160%;
+  margin-bottom: 25px;
+}
+#mpolicy-section1 ul{
+  margin-bottom: 25px;
+  list-style-position: inside; 
+}
+#mpolicy-section1 li{
+  font-family: paraLight;
+  font-size: 16px;
+  line-height: 160%;
+}
+
+/* disclaimer */
+#disclaimer-section1 {
+  width: 100%;
+  min-height: 100vh;
+  padding: 150px 110px;
+  padding-bottom: 100px;
+  background-color: #fff;
+  color: #0a1e37;
+}
+#disclaimer-section1 a{
+  text-decoration: none;
+  color: #0a1e37;
+}
+#disclaimer-section1 h2 {
+  font-size: 55px;
+  font-family: heading2;
+  font-weight: 500;
+  margin-bottom: 30px;
+}
+#disclaimer-section1 h4 {
+  font-family: heading2;
+  font-size: 25px;
+  font-weight: 500;
+  line-height: 100%;
+  margin-bottom: 30px;
+}
+#disclaimer-section1 p{
+  font-family: paraLight;
+  font-size: 16px;
+  line-height: 160%;
+  margin-bottom: 25px;
+}
+#disclaimer-section1 ul{
+  margin-bottom: 25px;
+  list-style-position: inside; 
+}
+#disclaimer-section1 li{
+  font-family: paraLight;
+  font-size: 16px;
+  line-height: 160%;
+}
+
+
 /* Extra small devices (phones) */
 @media (max-width: 575px) {
   main {

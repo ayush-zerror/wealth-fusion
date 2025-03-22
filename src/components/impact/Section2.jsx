@@ -24,8 +24,8 @@ const Section2 = () => {
     return (
         <div id='impact-section2'>
             <div className="left2">
-                <h2>Our Sustainability </h2>
-                <h2>Mission</h2>
+                <h2>Responsible Investments,</h2>
+                <h2> Remarkable Results.</h2>
             </div>
             <div className="right2">
                 <p>We believe that we have a duty to deliver the highest quality content and experiences expected from our brands and to do so in a way that reduces our impact on the planet.</p>

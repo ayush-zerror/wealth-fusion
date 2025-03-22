@@ -34,29 +34,9 @@ const Section4 = () => {
   return (
     <div id='about-section4'>
       <div className="pt2">
-        <h2>Our Approach</h2>
-        <p>At WealthFusion, our approach to wealth management
-          is deeply rooted in cultivating long-term partnership and making
-          it more personal. We believe that once we truly understand your
-          unique circumstances and aspirations, we can create a bespoke
-          solution that aligns with your goals and aspirations. </p>
-        <p>In a landscape where many firms are shifting toward
-          standardising their products and services, we have purposefully
-          looked away to maintain our independence and offer tailored
-          advice that fits your personal values and priorities.</p>
-        <p>We recognise that no financial decision is easy and every
-          decision can significantly influence the financial outcomes for
-          you and the family. Be it expanding your business to planning for
-          your family’s future or leaving a lasting legacy. Our role is to be on
-          your side and help you navigate these diffcult decisions with
-          confidence and ensure that your financial plan evolves with
-          changing circumstances. Whether you’re considering moving
-          abroad, purchasing a new home, or planning for children’s
-          education, we stand by your side, continuously refining your plan
-          to meet your needs.
-        </p>
-        <p>Our commitment extends beyond the present, focusing on
-          providing stability and continuity for future generations. </p>
+        <h2>Our Blueprint</h2>
+        <p>Wealthfusion is a Multi Family Office in its most traditional form. We – fuse epoch-defining values and strong personal relationships with bold futuristic ideas and wealth creation strategies defined to create long-term, sustained results for our clients.</p>
+        <p>We do not use the term ‘traditional’ loosely. Wealthfusion is built from the silhouette of good old private banking, the kind of which places the upmost importance on personable client kinship in homage of the true historic values of wealth management, combining this with forward-thinking contemporary service models.</p>
       </div>
       <div className='pt1'>
         <Image width={1000} height={1000} src="/bigLogo.png" alt='background-img' />

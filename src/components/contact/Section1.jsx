@@ -75,12 +75,17 @@ const Section1 = () => {
                     </div>
                     <div className="input lineanime">
                         <input type="text"/>
-                        <h6>TOPICS*</h6>
+                        <h6>PHONE NUMBER*</h6>
                         <div className="linei"></div>
                     </div>
                     <div className="input lineanime">
                         <input type="text"/>
-                        <h6>PHONE NUMBER*</h6>
+                        <h6>COMPANY NAME*</h6>
+                        <div className="linei"></div>
+                    </div>
+                    <div className="input lineanime input-full">
+                        <input type="text"/>
+                        <h6>TOPICS*</h6>
                         <div className="linei"></div>
                     </div>
                     <div className="textarea lineanime">
@@ -105,8 +110,7 @@ const Section1 = () => {
                 </div>
                 <div className="add">
                     <h6>Address</h6>
-                    <h5>70 Baker Street, <br />
-                    London, W1U 7DL</h5>
+                    <h5>70 Baker Street, Marylebone, <br /> London W1U 7DL</h5>
                 </div>
             </div>
         </div>

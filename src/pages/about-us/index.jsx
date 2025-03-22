@@ -1,3 +1,4 @@
+import HowWeIn from '@/components/about/HowWeIn'
 import Section1 from '@/components/about/Section1'
 import Section2 from '@/components/about/Section2'
 import Section3 from '@/components/about/Section3'
@@ -10,8 +11,9 @@ const About = () => {
     <>
       <Section1 />
       <Section2/>
-      <Section5/>
+      <HowWeIn/>
       <Section4/>
+      <Section5/>
       <Section3/>
     </>
   )

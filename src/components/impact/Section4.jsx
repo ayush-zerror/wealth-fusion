@@ -75,21 +75,14 @@ const Section4 = () => {
 
     return (
         <div ref={containerRef}  id='impact-section5'>
-            <h2>Investment Philosophy</h2>
+            <h2>WF Give Back Day</h2>
             <div className='container-section5-wrapper'>
                 <div className='container-section5-imp container-section5-imp1 '>
                     <div className="text-container-imp">
-                        <h4>Strategic Wealth Growth Through</h4>
-                        <h4> Measured Risk</h4>
-                        <p>Our philosophy is centred on
-                            protecting and growing your assets
-                            by taking measured risks through a
-                            combination of traditional and
-                            alternative investments. We focus on
-                            long-term capital growth by carefully
-                            selecting and allocating financial
-                            instruments, prioritising a balanced
-                            mix of safety, risk, and return.</p>
+                        <h4>Touching a million lives does not </h4>
+                        <h4>need a million. It just needs one’s will.</h4>
+                        <p>The WF Give Back Day is the most important day on our calendar – an annual moment that involves our global team and invites all our clients to join us in supporting our communities and society.</p>
+                        <p>True to our core founding values, the WF Give Back Day embodies the best of who we are – helping the world grow with us. As part of the WF Give Back Day, we pledge to donate the entire revenue generated from this day to the charities and causes we support.</p>
                     </div>
                     <div className="img-container-imp">
                         <img src='https://images.unsplash.com/photo-1484863137850-59afcfe05386?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='section5' />
@@ -100,35 +93,9 @@ const Section4 = () => {
                         <Image src='https://wealthfusion.co.uk/wp-content/uploads/2020/11/AdobeStock_328877378.jpg?id=533' width={1000} height={1000} alt='section5' />
                     </div>
                     <div className="text-container-imp text-container2">
-                        <h4>Diversified, Global, and Tailored</h4>
-                        <h4>Investment Strategies</h4>
-                        <p>Our strategy emphasises
-                            diversification across sectors and
-                            regions, encompassing a variety of
-                            asset classes in both developed
-                            and emerging markets. Our open
-                            architecture approach allows us to
-                            offer innovative, tailored portfolio
-                            solutions, selecting the best
-                            products available in the market</p>
-                    </div>
-                </div>
-                <div className='container-section5-imp container-section5-slide'>
-                    <div className="text-container-imp">
-                        <h4>Strategic Wealth Growth Through</h4>
-                        <h4>Measured Risk</h4>
-                        <p>Our philosophy is centred on
-                            protecting and growing your assets
-                            by taking measured risks through a
-                            combination of traditional and
-                            alternative investments. We focus on
-                            long-term capital growth by carefully
-                            selecting and allocating financial
-                            instruments, prioritising a balanced
-                            mix of safety, risk, and return.</p>
-                    </div>
-                    <div className="img-container-imp">
-                        <img src='https://images.unsplash.com/photo-1598257006458-087169a1f08d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='section5' />
+                        <h4>Supporting Community at</h4>
+                        <h4>the Dragon Boat Event</h4>
+                        <p>Delighted to have sponsored the Sense College Boat at The Rotary Club of Wolverhampton Dragon Boat Event, a fun-filled program aimed at raising funds for charitable causes. We are committed to supporting the community and making a positive impact.</p>
                     </div>
                 </div>
             </div>
