@@ -225,7 +225,7 @@ body {
   clip-path: polygon(0 0, 0 0, 0 100%, 0 100%);
   width: fit-content;
   position: relative;
-  text-transform: uppercase;
+  text-transform: capitalize;
 }
 #service-section1 p {
   width: 45%;
