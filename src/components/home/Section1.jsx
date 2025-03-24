@@ -32,11 +32,11 @@ const Section1 = () => {
 
   return (
     <div id='home-section1'>
-      <video autoPlay muted loop playsInline src="/videos/sky.mp4"></video>
+      <video autoPlay muted loop playsInline src="/videos/londonVid.mp4"></video>
       <div className="overlay-home1">
         <h2>Inspire by Legacy,</h2>
         <h2>Designed for Growth.</h2>
-        <button>Get in touch now <i className="ri-arrow-right-line"></i></button>
+        <button>Discover More <i className="ri-arrow-right-line"></i></button>
       </div>
     </div>
   )

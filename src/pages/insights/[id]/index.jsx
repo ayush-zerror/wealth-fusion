@@ -15,4 +15,6 @@ const InsightDetails = () => {
   )
 }
 
-export default InsightDetails
+export default InsightDetails;
+
+

@@ -4,8 +4,8 @@ export const MenuData =  [
         path:"/services"
     },
     {
-        name:"About Us",
-        path:"/about-us"
+        name:"About",
+        path:"/about"
     },
     {
         name:"Insights",
@@ -16,7 +16,7 @@ export const MenuData =  [
         path:"/impact"
     },
     {
-        name:"Contact Us",
-        path:"/contact-us"
+        name:"Contact",
+        path:"/contact"
     },
 ]

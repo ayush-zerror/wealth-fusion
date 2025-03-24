@@ -91,7 +91,7 @@ const Section5 = () => {
                         <Image src='https://wealthfusion.co.uk/wp-content/uploads/2020/11/AdobeStock_328877378.jpg?id=533' width={1000} height={1000} alt='section5' />
                     </div>
                     <div className="text-container-imp text-container2">
-                        <h4>Multi-Family Office – v2.0</h4>
+                        <h4>Multi-Family Office</h4>
                         <p>Providing UHNW families with bespoke services in Estate & Succession Planning, Risk Management, Financial Counsel, Wealth, and other administrative services.</p>
                     </div>
                 </div>

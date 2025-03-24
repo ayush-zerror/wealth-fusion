@@ -3,7 +3,7 @@ import gsap from 'gsap';
 import ScrollTrigger from 'gsap/dist/ScrollTrigger';
 import Image from 'next/image'
 import Link from 'next/link';
-import React, { useEffect } from 'react'
+import React from 'react'
 gsap.registerPlugin(ScrollTrigger)
 
 const Section2 = () => {
@@ -20,7 +20,7 @@ const Section2 = () => {
                             <h4>{service.title}</h4>
                             <p>{service.description}</p>
                         </div>
-                        <Link href="/contact-us">Contact Us</Link>
+                        <Link href="/contact">Contact</Link>
                     </div>
                 </div>))}
             </div>

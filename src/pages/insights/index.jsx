@@ -1,14 +1,23 @@
 import Section1 from '@/components/insights/Section1'
 import Section2 from '@/components/insights/Section2'
+import { InsightsData } from '@/helpers/InsightsData'
 import React from 'react'
 
-const Insights = () => {
+const Insights = ({data}) => {
   return (
     <>
-    <Section1/>
-    <Section2/>
+      <Section1 />
+      <Section2 data={data} />
     </>
   )
 }
 
-export default Insights
+export default Insights;
+
+export async function getStaticProps() {
+  return {
+    props: {
+      data:InsightsData,
+    },
+  };
+}

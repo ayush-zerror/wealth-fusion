@@ -33,7 +33,7 @@ const Navbar = () => {
     <nav id='navbar' className={`${route.pathname === '' ? '' : 'white'}`}>
       <Link href='/'><Image width={1000} height={1000} src="/logo.png" alt='logo' /></Link>
       <div className='links'>
-        {MenuData.map((item, index) => <Link href={item.path} className={` ${item.name === "Contact Us" ? 'contact-btn':'underline'} `} key={index}>{item.name}</Link>)}
+        {MenuData.map((item, index) => <Link href={item.path} className={` ${item.name === "Contact" ? 'contact-btn':'underline'} `} key={index}>{item.name}</Link>)}
       </div>
       <span className='menu' onClick={()=>{setMenu(!menu)}}><i className={` ${menu ? 'ri-close-line':'ri-menu-3-line'}`}></i></span>
       <div id="navigation">

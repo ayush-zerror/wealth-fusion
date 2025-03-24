@@ -7,16 +7,16 @@ const Footer = () => {
             <div className='footer-pt1'>
                 <div className="ft-left">
                     <div className="ft-pt">
-                        <p className='more'>CONTACT US</p>
+                        <p className='more'>Contact</p>
                         <div className='ft-link'>
-                            <p className='underline'>info@wealthfusion.co.uk</p>
-                            <p className='underline'>+44 (0) 208 154 7030</p>
+                            <p className='underline'>Email: info@wealthfusion.co.uk</p>
+                            <p className='underline'>Phone: +44 (0) 208 154 7030</p>
                             <p className='underline'>70 Baker Street, Marylebone,<br />
                                 London W1U 7DL</p>
                         </div>
                     </div>
                     <div className="ft-pt">
-                        <p className='more'>LEGAL</p>
+                        <p className='more'>Legal</p>
                         <div className='ft-link'>
                             <Link href="/privacy-policy" className='underline'>Privacy Policy</Link>
                             <Link href="/terms" className='underline'>Terms & Conditions</Link>
