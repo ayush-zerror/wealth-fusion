@@ -48,30 +48,35 @@ const Section4 = () => {
 
     useGSAP(() => {
         if (!containerRef.current) return;
-            let tl = gsap.timeline({
-                scrollTrigger: {
-                    trigger: containerRef.current,
-                    scroller: "body",
-                    start: "top 0%",
-                    end: "top -150%",
-                    // markers: true,
-                    pin: true,
-                    scrub: 1,
-                }
-            });
-
-            tl.to(containerRef.current.querySelectorAll(".container-section5-slide"), {
-                top: "0%",
-                stagger: { amount: 1 },
-                duration: 1,
-            });
-
-
+    
+        let tl = gsap.timeline({
+            scrollTrigger: {
+                trigger: containerRef.current,
+                scroller: "body",
+                start: "top top",
+                end: "top -150%",
+                pin: true,
+                scrub: 1,
+            }
+        });
+    
+        tl.to(gsap.utils.toArray(".container-section5-slide"), {
+            top: "0%",
+            stagger: { amount: 1 },
+            duration: 1,
+        });
+    
+        // Ensure ScrollTrigger recalculates after mount
+        setTimeout(() => {
+            ScrollTrigger.refresh();
+        }, 100);
+    
         return () => {
-            tl.kill()
-            ScrollTrigger.getAll().forEach((trigger) => trigger.kill()); 
+            if (tl) tl.kill();
+            ScrollTrigger.getAll().forEach(trigger => trigger.kill());
         };
     }, []);
+    
 
     return (
         <div ref={containerRef}  id='impact-section5'>

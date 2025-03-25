@@ -61,8 +61,7 @@ const Section1 = () => {
                 <div id="left">
                     <div>
                         <h2>Contact</h2>
-                        <h5 className='contact-p'>We believe in the power of digital, and we love collaborating with brands that feel the same.
-                            Let's connect.</h5>
+                        <h5 className='contact-p'>We value smart finance and partnerships that drive wealth. Let’s connect.</h5>
                     </div>
                     <div className="elem">
                         <div className="add">
@@ -108,7 +107,7 @@ const Section1 = () => {
                             <div className="linei"></div>
                         </div>
                         <div className="textarea lineanime">
-                            <h6>MESSAGAE*</h6>
+                            <h6>MESSAGE*</h6>
                             <div className="linei"></div>
                             <textarea name="" id=""></textarea>
                         </div>
