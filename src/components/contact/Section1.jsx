@@ -59,19 +59,19 @@ const Section1 = () => {
         <section id="page1">
             <div id="form">
                 <div id="left">
-                    <div>
+                    <div className='contact-title'>
                         <h2>Contact</h2>
                         <h5 className='contact-p'>We value smart finance and partnerships that drive wealth. Let’s connect.</h5>
                     </div>
                     <div className="elem">
                         <div className="add">
                             <h6>Business enquiries</h6>
-                            <h5>Email: info@wealthfusion.co.uk</h5>
-                            <h5>Phone: +44 (0) 208 154 7030</h5>
+                            <a target="_blank" href="mailto:info@wealthfusion.co.uk">Email: info@wealthfusion.co.uk</a>
+                            <a target="_blank" href="tel:+442081547030">Phone: +44 (0) 208 154 7030</a>
                         </div>
                         <div className="add">
                             <h6>Address</h6>
-                            <h5>70 Baker Street, Marylebone, <br /> London W1U 7DL</h5>
+                            <a href='https://maps.app.goo.gl/xkC2zERs2ztvfT7GA' target='_blank'>70 Baker Street, Marylebone, <br /> London W1U 7DL</a>
                         </div>
                         <div className="add">
                             <h6>Working Hours</h6>
@@ -112,7 +112,7 @@ const Section1 = () => {
                             <textarea name="" id=""></textarea>
                         </div>
                     </form>
-                        <button id='submit-btn'>Submit</button>
+                    <button id='submit-btn'>Submit</button>
                 </div>
             </div>
         </section>

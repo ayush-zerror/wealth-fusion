@@ -45,30 +45,30 @@ export const Services = [
     title: "Risk Management",
     description:
       "Risk is an inherent part of investing, but effective risk management can help secure long-term financial success.",
-    image: "https://www.mirabaud.com/fileadmin/_processed_/1/9/csm_mountain1-3679891_1920_f0b52ca353.jpg",
+    image: "https://wealthfusion.co.uk/wp-content/uploads/2021/12/view.jpg",
   },
   {
     title: "The Family Office",
     description:
       "Wealth creation is an art, and at WealthFusion, we excel in it. Our expert Wealth Managers craft tailored financial solutions to achieve your goals.",
-    image: "https://www.mirabaud.com/fileadmin/_processed_/1/9/csm_mountain1-3679891_1920_f0b52ca353.jpg",
+    image: "https://wealthfusion.co.uk/wp-content/uploads/2020/11/ho.jpg",
   },
   {
     title: "Wealth Management",
     description:
       "At Wealthfusion, our Financial Advisors start with you, focusing on your success and remaining committed to helping you grow your wealth.",
-    image: "https://www.mirabaud.com/fileadmin/_processed_/1/9/csm_mountain1-3679891_1920_f0b52ca353.jpg",
+    image: "https://wealthfusion.co.uk/wp-content/uploads/2020/11/hh.jpg",
   },
   {
     title: "Fiduciary Services",
     description:
       "WealthFusion simplifies succession planning, handling inheritance, estates, and business transitions across global jurisdictions.",
-    image: "https://www.mirabaud.com/fileadmin/_processed_/1/9/csm_mountain1-3679891_1920_f0b52ca353.jpg",
+    image: "https://wealthfusion.co.uk/wp-content/uploads/2020/11/AdobeStock_107324845.jpg",
   },
   {
     title: "Property Private Office",
     description:
       "Real Estate can potentially provide an alternative source of return, and are often more stable than most asset classes.",
-    image: "https://www.mirabaud.com/fileadmin/_processed_/1/9/csm_mountain1-3679891_1920_f0b52ca353.jpg",
+    image: "https://wealthfusion.co.uk/wp-content/uploads/2020/11/AdobeStock_190277201.jpg",
   },
 ];

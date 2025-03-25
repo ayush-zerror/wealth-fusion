@@ -587,13 +587,23 @@ svg {
   font-family: heading2;
   font-weight: 500;
   font-size: 25px;
-  margin-top: 20px;
 }
 
 .team-container p {
   font-family: paraLight;
   line-height: 140%;
   font-size: 13.5px;
+}
+.name-container{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 20px;
+
+}
+.name-container a{
+  text-decoration: none;
+  color: #0a1e37;
 }
 .team-container .tag {
   display: flex;
@@ -607,7 +617,7 @@ svg {
   line-height: normal;
   font-weight: 500;
 }
-.team-container .tag i {
+.team-container .name-container i {
   font-size: 20px;
   line-height: normal;
 }
@@ -1244,7 +1254,7 @@ svg {
 #page1 {
   height: 100vh;
   width: 100%;
-  padding: 150px 110px;
+  padding: 130px 110px;
   padding-bottom: 20px;
   display: flex;
   flex-direction: column;
@@ -1273,7 +1283,6 @@ svg {
   height: inherit;
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
 }
 #left h2 {
   font-size: 55px;
@@ -1282,10 +1291,18 @@ svg {
   font-weight: 500;
   margin-bottom: 20px;
 }
-.contact-p{
-  font-family: paraLight !important;
+.contact-title{
+  height: 92px;
 }
-#left h5 {
+#left .contact-p{
+  font-family: paraLight !important;
+  font-size: 16px;
+  font-weight: 500;
+}
+#left a {
+  display: inline-block;
+  text-decoration: none;
+  color: #0a1e37;
   width: 80%;
   font-family: paraMedium;
   font-weight: 500;
@@ -1297,8 +1314,7 @@ svg {
   height: 100%;
   display: flex;
   flex-direction: column;
-  justify-content: flex-end;
-  gap: 60px;
+  padding-top: 121px;
 }
 
 #right form {
