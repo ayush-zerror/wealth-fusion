@@ -75,7 +75,7 @@ const Section1 = () => {
                         </div>
                         <div className="add">
                             <h6>Working Hours</h6>
-                            <h5>Monday to Saturday 10:00 am to 6:00 pm , Sunday Closed</h5>
+                            <h5>Monday to Saturday 10:00 am to 6:00 pm , <br /> Sunday Closed</h5>
                         </div>
                     </div>
                 </div>

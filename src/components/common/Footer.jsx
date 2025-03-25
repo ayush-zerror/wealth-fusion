@@ -9,10 +9,10 @@ const Footer = () => {
                     <div className="ft-pt">
                         <p className='more'>Contact</p>
                         <div className='ft-link'>
-                            <p className='underline'>Email: info@wealthfusion.co.uk</p>
-                            <p className='underline'>Phone: +44 (0) 208 154 7030</p>
-                            <p className='underline'>70 Baker Street, Marylebone,<br />
-                                London W1U 7DL</p>
+                            <a target='_black' href='mailto:info@wealthfusion.co.uk' className='underline'>Email: info@wealthfusion.co.uk</a>
+                            <a target='_black' href='tel:+442081547030' className='underline'>Phone: +44 (0) 208 154 7030</a>
+                            <a target='_black' href='https://maps.app.goo.gl/xkC2zERs2ztvfT7GA' className='underline'>70 Baker Street, Marylebone,<br />
+                                London W1U 7DL</a>
                         </div>
                     </div>
                     <div className="ft-pt">
