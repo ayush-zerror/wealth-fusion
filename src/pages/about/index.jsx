@@ -15,8 +15,8 @@ const About = () => {
       <HowWeIn/>
       <Section4/>
       <Section5/>
-      <Map/>
       <Section3/>
+      <Map/>
     </>
   )
 }
