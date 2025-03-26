@@ -59,7 +59,7 @@ const Section2 = () => {
                     <Image src="https://strapi-bus-eng-prod.s3.amazonaws.com/Cucina_new_77d11e3997.png" alt="Marque" width={1000} height={1000} />
                 </div>
             </div>
-            <p>At WealthFusion, we are a true Family Oce, where
+            <p>At WealthFusion, we are a true Family Office, where
                 time-honoured traditions meet bold, innovative thinking. Rooted
                 in the legacy of traditional Private Banking, we bring a fresh
                 perspective to the management of your wealth, combining

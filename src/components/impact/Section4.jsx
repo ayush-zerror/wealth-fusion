@@ -80,7 +80,7 @@ const Section4 = () => {
 
     return (
         <div ref={containerRef}  id='impact-section5'>
-            <h2>WF Give Back Day</h2>
+            <h2>Creating Prosperity, One Plan at a Time.</h2>
             <div className='container-section5-wrapper'>
                 <div className='container-section5-imp container-section5-imp1 '>
                     <div className="text-container-imp">
@@ -90,12 +90,12 @@ const Section4 = () => {
                         <p>True to our core founding values, the WF Give Back Day embodies the best of who we are – helping the world grow with us. As part of the WF Give Back Day, we pledge to donate the entire revenue generated from this day to the charities and causes we support.</p>
                     </div>
                     <div className="img-container-imp">
-                        <img src='https://images.unsplash.com/photo-1484863137850-59afcfe05386?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='section5' />
+                        <Image width={1000} height={1000}  src='/images/ig6.jpg' alt='section5' />
                     </div>
                 </div>
                 <div className='container-section5-imp container-section5-slide '>
                     <div className="img-container-imp">
-                        <Image src='https://wealthfusion.co.uk/wp-content/uploads/2020/11/AdobeStock_328877378.jpg?id=533' width={1000} height={1000} alt='section5' />
+                        <Image src='/images/ig3.jpg' width={1000} height={1000} alt='section5' />
                     </div>
                     <div className="text-container-imp text-container2">
                         <h4>Supporting Community at</h4>

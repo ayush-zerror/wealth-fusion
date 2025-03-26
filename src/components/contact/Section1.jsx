@@ -61,7 +61,8 @@ const Section1 = () => {
                 <div id="left">
                     <div className='contact-title'>
                         <h2>Contact</h2>
-                        <h5 className='contact-p'>We value smart finance and partnerships that drive wealth. Let’s connect.</h5>
+                        <h5 className='contact-p'>We value partnerships that drive wealth. <br />
+                            Let’s connect</h5>
                     </div>
                     <div className="elem">
                         <div className="add">
@@ -74,8 +75,10 @@ const Section1 = () => {
                             <a href='https://maps.app.goo.gl/xkC2zERs2ztvfT7GA' target='_blank'>70 Baker Street, Marylebone, <br /> London W1U 7DL</a>
                         </div>
                         <div className="add">
-                            <h6>Working Hours</h6>
-                            <h5>Monday to Saturday 10:00 am to 6:00 pm , <br /> Sunday Closed</h5>
+                            <h6>Work Hours</h6>
+                            <h5>10:00 – 18:00 <br />
+                                Monday to Saturday <br />
+                                Sunday: Closed</h5>
                         </div>
                     </div>
                 </div>

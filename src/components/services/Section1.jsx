@@ -17,7 +17,6 @@ const Section1 = () => {
   return (
     <div id='service-section1'>
       <div id='service-section1-over'></div>
-      
       <h2>Our Services</h2>
       <p>At Wealthfusion, we are a True Family Office, deeply rooted in the rich traditions of the Old Private Banker while embracing fresh, creative, and bold new ideas. Our approach blends heritage with innovation, ensuring our clients receive the best of both worlds.</p>
     </div>

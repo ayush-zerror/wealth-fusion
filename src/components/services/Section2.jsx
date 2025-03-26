@@ -11,7 +11,7 @@ const Section2 = () => {
     return (
         <div id='service-section2'>
             <div className="service-container">
-                {Services.map((service, index) => (<div key={index} className="service-card">
+                {Services.map((service, index) => (<Link href="/contact" key={index} className="service-card">
                     <div className='img-container'>
                         <Image width={1000} height={1000} src={service.image} alt={service.title} />
                     </div>
@@ -20,9 +20,9 @@ const Section2 = () => {
                             <h4>{service.title}</h4>
                             <p>{service.description}</p>
                         </div>
-                        <Link href="/contact">Contact</Link>
+                        <span>Contact</span>
                     </div>
-                </div>))}
+                </Link>))}
             </div>
         </div>
     )

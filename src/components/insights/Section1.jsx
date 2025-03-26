@@ -34,13 +34,13 @@ const Section1 = () => {
       <h4>Coverage around the world</h4>
       <div className='insight-sec1'>
         <div className="side1">
-          <img src="https://plus.unsplash.com/premium_photo-1708110920881-635419c3411f?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="insight1" width={1000} height={1000} />
+          <Image width={1000} height={1000} src="/images/ig10.jpg" alt="insight1"/>
         </div>
         <div className="side2">
           <span>announcements</span>
           <div>
-            <h2>Vogue Arabia and GQ Middle East Join Condé</h2>
-            <h2>Nast Owned and Operated Portfolio</h2>
+            <h2>Financial Growth Through Strategic Acquisitions</h2>
+            <h2>and  Market Expansion</h2>
           </div>
           <span>Jan 9, 2025</span>
         </div>

@@ -36,7 +36,7 @@ const Section3 = () => {
 
             </div>
             <div className="pt1">
-                <Image src="/bigLogo.png" width={1000} height={1000} alt="banner" />
+                <Image src="/images/ig2.jpg" width={1000} height={1000} alt="banner" />
             </div>
 
         </div>

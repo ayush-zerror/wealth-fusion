@@ -36,7 +36,7 @@ const Section4 = () => {
       <h2>Discover Similar Insights</h2>
       <p>Every day, our experts deliver fresh insights on trending topics, sectors and markets to help you stay ahead of the curve.</p>
       <div className='insights-container'>
-      {latestInsight.map((service, index) => (<div key={index} className="service-card">
+      {latestInsight.map((service, index) => (<Link href={`/insights/${index}`} key={index} className="service-card">
           <div className='img-container'>
             <Image width={1000} height={1000} src={service.image} alt={service.title} />
           </div>
@@ -45,9 +45,9 @@ const Section4 = () => {
               <h4>{service.title}</h4>
               <p>{service.description.substring(0, 125)}...</p>
             </div>
-            <Link href={`/insights/${index}`}>Read More</Link>
+            <span>Read More</span>
           </div>
-        </div>))}
+        </Link>))}
       </div>
     </div>
   )

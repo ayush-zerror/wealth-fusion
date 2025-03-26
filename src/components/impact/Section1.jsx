@@ -28,7 +28,7 @@ const Section1 = () => {
     <div id='impact-section1'>
         {/* <h2>We are committed to reducing our impact on the planet</h2> */}
         <div className='impact-banner'>
-            <img  src="https://images.unsplash.com/photo-1626735245717-2c65fa225e06?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt='about-banner'/>
+            <Image width={1000} height={1000}  src="/images/ig7.jpg" alt='about-banner'/>
         </div>
     </div>
   )

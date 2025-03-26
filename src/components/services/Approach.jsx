@@ -41,7 +41,7 @@ const Approach = () => {
         <p>Our commitment extends beyond the present, focusing on providing stability and continuity for future generations.</p>
       </div>
       <div className='pt1'>
-        <Image width={1000} height={1000} src="/bigLogo.png" alt='background-img' />
+        <Image width={1000} height={1000} src="/images/ig18.jpg" alt='background-img' />
       </div>
     </div>
   )

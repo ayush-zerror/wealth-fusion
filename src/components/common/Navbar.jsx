@@ -31,7 +31,7 @@ const Navbar = () => {
 
   return (
     <nav id='navbar' className={`${route.pathname === '' ? '' : 'white'}`}>
-      <Link href='/'><Image width={1000} height={1000} src="/logo.png" alt='logo' /></Link>
+      <Link href='/'><Image width={1000} height={1000} src="/blue-logo.png" alt='logo' /></Link>
       <div className='links'>
         {MenuData.map((item, index) => <Link href={item.path} className={` ${item.name === "Contact" ? 'contact-btn':'underline'} `} key={index}>{item.name}</Link>)}
       </div>

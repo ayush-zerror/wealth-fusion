@@ -48,7 +48,7 @@ const Section5 = () => {
 
     useGSAP(() => {
         if (!containerRef2.current) return;
-    
+
         let tl = gsap.timeline({
             scrollTrigger: {
                 trigger: containerRef2.current,
@@ -59,28 +59,28 @@ const Section5 = () => {
                 scrub: 1,
             }
         });
-    
+
         tl.to(containerRef2.current.querySelectorAll(".container-section5-slide"), {
             top: "0%",
             stagger: { amount: 3 },
             duration: 1,
         });
-    
+
         // Ensure ScrollTrigger recalculates on mount
         setTimeout(() => {
             ScrollTrigger.refresh();
         }, 100);
-    
+
         return () => {
             if (tl) tl.kill();
             ScrollTrigger.getAll().forEach(trigger => trigger.kill());
         };
     }, []);
-    
-    
+
+
 
     return (
-        <div ref={containerRef2}  id='impact-section5'>
+        <div ref={containerRef2} id='impact-section5'>
             <h2>Investment Philosophy</h2>
             <div className='container-section5-wrapper'>
                 <div className='container-section5-imp container-section5-imp1 '>
@@ -89,12 +89,12 @@ const Section5 = () => {
                         <p>A one-stop solution provider for all of our clients’ financial and non-financial needs, spanning portfolio management, wealth planning, ESG-responsible investing, all handheld by subject matter experts.</p>
                     </div>
                     <div className="img-container-imp">
-                        <img src='https://images.unsplash.com/photo-1484863137850-59afcfe05386?q=80&w=2071&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='section5' />
+                        <Image width={1000} height={1000} src='/images/ig16.jpg' alt='section5' />
                     </div>
                 </div>
                 <div className='container-section5-imp container-section5-slide '>
                     <div className="img-container-imp">
-                        <Image src='https://wealthfusion.co.uk/wp-content/uploads/2020/11/AdobeStock_328877378.jpg?id=533' width={1000} height={1000} alt='section5' />
+                        <Image width={1000} height={1000} src='/images/ig12.jpg' alt='section5' />
                     </div>
                     <div className="text-container-imp text-container2">
                         <h4>Multi-Family Office</h4>
@@ -107,12 +107,12 @@ const Section5 = () => {
                         <p>We recognise that our clients are unique in how they operate their businesses, but most importantly in the way they think, feel and act. At Wealthfusion, we operate not only with a focus on strategies that drive financial returns, but also with Optimised Emotional Intelligence to connect strategy with Creativity, Relationships with Aspirations, Centred Around our Client Goals.</p>
                     </div>
                     <div className="img-container-imp">
-                        <img src='https://images.unsplash.com/photo-1598257006458-087169a1f08d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='section5' />
+                        <Image width={1000} height={1000} src='/images/ig13.jpg' alt='section5' />
                     </div>
                 </div>
                 <div className='container-section5-imp container-section5-slide'>
-                <div className="img-container-imp">
-                        <img src='https://images.unsplash.com/photo-1598257006458-087169a1f08d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='section5' />
+                    <div className="img-container-imp">
+                        <Image width={1000} height={1000} src='/images/ig14.jpg' alt='section5' />
                     </div>
                     <div className="text-container-imp text-container2">
                         <h4>High Quality Service and</h4>
@@ -126,7 +126,7 @@ const Section5 = () => {
                         <p>In a world of complex tax regimes, all Wealthfusion investment management discussions begin with asset structuring for our client’s household.  Our team of investment managers are here to constantly manage and review regulatory guidelines and developments across international jurisdictions, to keep your international portfolio compliant and agile to deliver you the best possible results</p>
                     </div>
                     <div className="img-container-imp">
-                        <img src='https://images.unsplash.com/photo-1598257006458-087169a1f08d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' alt='section5' />
+                        <Image width={1000} height={1000} src='/images/ig17.jpg' alt='section5' />
                     </div>
                 </div>
             </div>

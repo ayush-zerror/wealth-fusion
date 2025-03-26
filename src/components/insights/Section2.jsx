@@ -26,7 +26,7 @@ const Section2 = ({data}) => {
                 ))}
             </div>
             <div className='product-container'>
-                {data.map((service, index) => (<div key={index} className="service-card">
+                {data.map((service, index) => (<Link href={`/insights/${index}`} key={index} className="service-card">
                     <div className='img-container'>
                         <Image width={1000} height={1000} src={service.image} alt={service.title} />
                     </div>
@@ -35,9 +35,9 @@ const Section2 = ({data}) => {
                             <h4>{service.title}</h4>
                             <p>{service.description.substring(0,125)}...</p>
                         </div>
-                        <Link href={`/insights/${index}`}>Read More</Link>
+                        <span>Read More</span>
                     </div>
-                </div>))}
+                </Link>))}
             </div>
         </div>
     )

@@ -39,7 +39,7 @@ const Section4 = () => {
         <p>We do not use the term ‘traditional’ loosely. Wealthfusion is built from the silhouette of good old private banking, the kind of which places the upmost importance on personable client kinship in homage of the true historic values of wealth management, combining this with forward-thinking contemporary service models.</p>
       </div>
       <div className='pt1'>
-        <Image width={1000} height={1000} src="/bigLogo.png" alt='background-img' />
+        <Image width={1000} height={1000} src="/images/ig3.jpg" alt='background-img' />
       </div>
     </div>
   )
