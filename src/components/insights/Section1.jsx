@@ -31,7 +31,7 @@ const Section1 = () => {
 
   return (
     <div id='insight-section1'>
-      <h4>Coverage around the world</h4>
+      <h4>Where Wealth Meets Wisdom.</h4>
       <div className='insight-sec1'>
         <div className="side1">
           <Image width={1000} height={1000} src="/images/ig10.jpg" alt="insight1"/>

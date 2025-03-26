@@ -61,8 +61,9 @@ const Section1 = () => {
                 <div id="left">
                     <div className='contact-title'>
                         <h2>Contact</h2>
-                        <h5 className='contact-p'>We value partnerships that drive wealth. <br />
-                            Let’s connect</h5>
+                        <h5 className='contact-p'>Navigating Your Financial Success.
+                            Tailored Wealth Solutions for a Brighter Future. <br />
+                            We value our partnerships, let’s connect. </h5>
                     </div>
                     <div className="elem">
                         <div className="add">

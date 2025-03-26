@@ -75,7 +75,7 @@ const Section1 = () => {
       <video autoPlay muted loop playsInline src="/videos/london.mp4"></video>
       <div className="overlay-home1">
         <div className='home-title home-title1'>
-          <h2>Inspire by Legacy,</h2>
+          <h2>Inspired by Legacy,</h2>
           <h2>Smart Strategies.</h2>
           <h2>Invest with Confidence,</h2>
         </div>

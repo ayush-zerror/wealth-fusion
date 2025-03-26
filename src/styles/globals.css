@@ -276,7 +276,7 @@ body {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
-  gap: 3%;
+  gap: 3.5%;
 }
 .service-card {
   position: relative;
@@ -489,7 +489,7 @@ svg {
 
 #about-section1 {
   width: 100%;
-  height: 130vh;
+  height: 120vh;
   padding: 0;
   padding-top: 85px;
   background-color: #0a1e37;
@@ -506,10 +506,14 @@ svg {
   background: linear-gradient(to bottom, #0a1e37ef 5%, transparent);
 }
 
-#about-section1 h2 {
+
+.about-title-wrap{
   position: absolute;
   left: 110px;
   top: 30%;
+}
+
+#about-section1 h2 {
   font-family: heading2;
   font-size: 85px;
   font-weight: 500;
@@ -517,6 +521,7 @@ svg {
   line-height: 1;
   color: white;
   z-index: 2;
+  clip-path: polygon(0 0, 0 0, 0 100%, 0 100%);
 }
 
 .about-banner {
@@ -798,18 +803,34 @@ svg {
   padding: 0;
   padding-top: 85px;
   overflow: hidden;
+  position: relative;
+}
+.impact-overlay1{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background: linear-gradient(to bottom, #0a1e37ef 5%, transparent);
+
 }
 
-/* #impact-section1 h2 {
+.impact-title-wrap{
+  position: absolute;
+  left: 110px;
+  top: 30%;
+}
+
+#impact-section1 h2 {
   font-family: heading2;
-  font-size: 40px;
+  font-size: 85px;
   font-weight: 500;
-  margin-bottom: 20px;
-  color: #0a1e37;
-  margin-left: 110px;
   width: fit-content;
-  clip-path: polygon(0 0, 0 0, 0 100%, 0% 100%);
-} */
+  line-height: 1;
+  color: white;
+  z-index: 2;
+  clip-path: polygon(0 0, 0 0, 0 100%, 0 100%);
+}
 
 .impact-banner {
   height: 100%;
@@ -1101,7 +1122,7 @@ svg {
   height: 100%;
   display: flex;
   flex-wrap: wrap;
-  gap: 2%;
+  gap: 3.5%;
 }
 
 .product-card {
@@ -1148,6 +1169,7 @@ svg {
 #details-ig1 {
   width: 100%;
   min-height: 100vh;
+  padding: 0 110px;
   padding-top: 180px;
 }
 #details-ig1 h2 {
@@ -1158,14 +1180,12 @@ svg {
   width: fit-content;
   color: #0a1e37;
   margin-bottom: 30px;
-  padding-left: 110px;
 }
 #details-ig1 span {
   font-size: 13px;
   font-family: paraMedium;
   text-transform: uppercase;
   opacity: 0.7;
-  padding-left: 110px;
 }
 #details-ig1 > img {
   width: 100%;
@@ -1178,7 +1198,6 @@ svg {
   font-family: paraLight;
   font-size: 16px;
   line-height: 1.5;
-  padding: 0 110px;
   margin-bottom: 25px;
 }
 #details-ig2 {
@@ -1202,6 +1221,7 @@ svg {
   margin: 20px auto;
   width: 100%;
   padding: 0 110px;
+  padding-bottom: 110px;
 }
 .details-ig3-wrap p {
   font-family: paraLight;
@@ -1248,6 +1268,9 @@ svg {
   align-items: flex-start;
   justify-content: space-between;
 }
+.ft-left a{
+  font-size: 13px !important;
+}
 .ft-pt {
   width: 50%;
   display: flex;
@@ -1293,7 +1316,7 @@ svg {
 #page1 {
   min-height: 50vh;
   width: 100%;
-  padding: 130px 110px;
+  padding: 170px 110px;
   padding-bottom: 70px;
   display: flex;
   align-self: flex-start;
