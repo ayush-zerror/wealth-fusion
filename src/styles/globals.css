@@ -225,8 +225,8 @@ body {
   top: 0;
   left: 0;
   opacity: 0.56;
-  background-image: url("/images/ig20.jpg");
-  background-position: 0 12%;
+  background-image: url("/images/ig21.jpg");
+  background-position: bottom;
   background-size: cover;
 }
 #service-section1 h2 {
@@ -496,6 +496,15 @@ svg {
   overflow: hidden;
   position: relative;
 }
+.about-overlay1{
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 2;
+  background: linear-gradient(to bottom, #0a1e37ef 5%, transparent);
+}
 
 #about-section1 h2 {
   position: absolute;
@@ -513,7 +522,7 @@ svg {
 .about-banner {
   width: 100%;
   height: 100%;
-  filter: brightness(50%);
+  background-color: #fff;
 }
 .about-banner img {
   width: 100%;
@@ -1313,13 +1322,13 @@ svg {
 }
 #left h2 {
   font-size: 55px;
-  line-height: 1;
+  line-height: .8;
   font-family: heading2;
   font-weight: 500;
   margin-bottom: 20px;
 }
 .contact-title {
-  height: 102px;
+  height: 110px;
 }
 #left .contact-p {
   font-family: paraLight !important;
@@ -1341,7 +1350,7 @@ svg {
   height: 100%;
   display: flex;
   flex-direction: column;
-  padding-top: 121px;
+  padding-top: 63px;
 }
 
 #right form {

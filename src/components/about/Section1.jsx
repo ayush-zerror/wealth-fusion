@@ -24,7 +24,9 @@ const Section1 = () => {
   // },[])
   return (
     <div id='about-section1'>
-        <h2>Your Vision, <br /> Our Expertise.</h2>
+       <div className='about-overlay1'>
+       <h2>Your Vision, <br /> Our Expertise.</h2>
+       </div>
         <div className='about-banner'>
             <Image width={1000} height={1000}  src="/images/ig15.jpg" alt='about-banner'/>
         </div>
