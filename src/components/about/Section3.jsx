@@ -36,7 +36,7 @@ const Section3 = () => {
             <div className='team-container'>
                 {Team.map((member, index) => (<div key={index} className="member">
                     <div className='profile'>
-                        <img src={member.image} alt={member.name} />
+                        <Image width={1000} height={1000} src={member.image} alt={member.name} />
                     </div>
                     <div className='name-container'>
                         <h4>{member.name}</h4>
@@ -53,7 +53,7 @@ const Section3 = () => {
             <div className='team-container'>
                 {Committee.map((member, index) => (<div key={index} className="member">
                     <div className='profile'>
-                        <img src={member.image} alt={member.name} />
+                        <Image width={1000} height={1000} src={member.image} alt={member.name} />
                     </div>
                     <div className='name-container'>
                         <h4>{member.name}</h4>
