@@ -1392,6 +1392,9 @@ svg {
   line-height: 160%;
   text-decoration: none;
 }
+.explore-btn:hover {
+  background-color: #1c3d64;
+}
 
 /* contact css */
 #page1 {
