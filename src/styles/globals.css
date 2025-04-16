@@ -683,7 +683,8 @@ svg {
 }
 .team-container .profile img {
   width: 100%;
-  height: auto;
+  height: 395px;
+  object-fit: cover;
   transition: all 0.4s ease-in-out;
   filter: grayscale(100%) ;
 }
