@@ -9,7 +9,7 @@ const Approach = () => {
   useEffect(() => {
     var tl = gsap.timeline({
       scrollTrigger: {
-        trigger: "#about-section4",
+        trigger: "#approach",
         scroller: "body",
         start: "top 60%",
         end: "top 30%",
@@ -17,7 +17,7 @@ const Approach = () => {
       }
     })
     tl
-      .to("#about-section4 h2", {
+      .to("#approach h2", {
         clipPath: "polygon(0 0, 100% 0, 100% 100%, 0% 100%)",
         stagger: {
           amount: 0.5
@@ -32,7 +32,7 @@ const Approach = () => {
   }, [])
 
   return (
-    <div id='about-section4' className='approach-section'>
+    <div id='approach' className='approach-section'>
       <div className="pt2">
         <h2>Our Approach</h2>
         <p>At WealthFusion, our approach to wealth management is deeply rooted in cultivating long-term partnerships and making it more personal. We believe that once we truly understand your unique circumstances and aspirations, we can create a bespoke solution that aligns with your goals and aspirations.</p>

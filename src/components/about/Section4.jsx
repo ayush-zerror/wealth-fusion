@@ -9,7 +9,7 @@ const Section4 = () => {
   useEffect(() => {
     var tl = gsap.timeline({
       scrollTrigger: {
-        trigger: "#about-section4",
+        trigger: "#approach",
         scroller: "body",
         start: "top 60%",
         end: "top 30%",
@@ -17,7 +17,7 @@ const Section4 = () => {
       }
     })
     tl
-      .to("#about-section4 h2", {
+      .to("#approach h2", {
         clipPath: "polygon(0 0, 100% 0, 100% 100%, 0% 100%)",
         stagger: {
           amount: 0.5
@@ -32,7 +32,7 @@ const Section4 = () => {
   }, [])
 
   return (
-    <div id='about-section4'>
+    <div id='approach'>
       <div className="pt2">
         <h2>Our Blueprint</h2>
         <p>Wealthfusion is a Multi Family Office in its most traditional form. We – fuse epoch-defining values and strong personal relationships with bold futuristic ideas and wealth creation strategies defined to create long-term, sustained results for our clients.</p>

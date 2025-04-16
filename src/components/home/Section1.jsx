@@ -1,5 +1,6 @@
 import { useGSAP } from '@gsap/react'
 import gsap from 'gsap'
+import Link from 'next/link'
 import React, { useEffect } from 'react'
 
 const Section1 = () => {
@@ -17,7 +18,7 @@ const Section1 = () => {
         duration: 1.2,
         delay: .1
       })
-      .fromTo(".overlay-home1 button", {
+      .fromTo(".overlay-home1 a", {
         y: 20,
         opacity: 0
       }, {
@@ -84,7 +85,7 @@ const Section1 = () => {
           <h2>Lasting Wealth.</h2>
           <h2>Grow with Purpose.</h2>
         </div>
-        <button>Discover More <i className="ri-arrow-right-line"></i></button>
+        <Link href="/about">Discover More <i className="ri-arrow-right-line"></i></Link>
       </div>
     </div>
   )

@@ -80,39 +80,38 @@ export const Team = [
 
 export const Committee = [
     {
-        name:"JANE GRIER",
-        role:"Co-founder & Chairman of the Board",
-        image:"https://wealthfusion.co.uk/wp-content/uploads/2023/05/jane-grier-2.jpg",
-        linkedin:"",
-        bio:"Nia ensures smooth day-to-day operations, optimizing processes and improving efficiency across departments for business success."
+        name: "Jane Grier",
+        role: "Co-founder & Chairman of the Board",
+        image: "https://wealthfusion.co.uk/wp-content/uploads/2023/05/jane-grier-2.jpg",
+        linkedin: "",
+        bio: "Nia ensures smooth day-to-day operations, optimizing processes and improving efficiency across departments for business success."
     },
     {
-        name:"RAJESH JOGI",
-        role:"Co-Founder & Managing Director",
-        image:"https://wealthfusion.co.uk/wp-content/uploads/2021/07/rakesh-jogi.jpg",
-        linkedin:"",
-        bio:"Kemi is a dynamic professional contributing to various operational and administrative tasks, ensuring seamless execution of company projects."
+        name: "Rajesh Jogi",
+        role: "Co-Founder & Managing Director",
+        image: "https://wealthfusion.co.uk/wp-content/uploads/2021/07/rakesh-jogi.jpg",
+        linkedin: "",
+        bio: "Kemi is a dynamic professional contributing to various operational and administrative tasks, ensuring seamless execution of company projects."
     },
     {
-        name:"DIVYA GARG",
-        role:"Member of the Board",
-        image:"https://wealthfusion.co.uk/wp-content/uploads/2024/01/divya-garg.jpg",
-        linkedin:"",
-        bio:"Varsini manages office operations and compliance protocols, ensuring regulatory adherence and smooth internal processes."
+        name: "Divya Garg",
+        role: "Member of the Board",
+        image: "https://wealthfusion.co.uk/wp-content/uploads/2024/01/divya-garg.jpg",
+        linkedin: "",
+        bio: "Varsini manages office operations and compliance protocols, ensuring regulatory adherence and smooth internal processes."
     },
     {
-        name:"SANJIV SHAH",
-        role:"Member of the Board",
-        image:"https://wealthfusion.co.uk/wp-content/uploads/2024/01/sanjiv-shah.jpg",
-        linkedin:"",
-        bio:"Jane leads human resources, risk management, and compliance, ensuring a strong corporate culture and regulatory adherence."
+        name: "Sanjiv Shah",
+        role: "Member of the Board",
+        image: "https://wealthfusion.co.uk/wp-content/uploads/2024/01/sanjiv-shah.jpg",
+        linkedin: "",
+        bio: "Jane leads human resources, risk management, and compliance, ensuring a strong corporate culture and regulatory adherence."
     },
     {
-        name:"AMIT PURI",
-        role:"Member of the Board",
-        image:"https://wealthfusion.co.uk/wp-content/uploads/2024/02/Amit-Puri.jpg",
-        linkedin:"",
-        bio:"Amer specializes in market research and investment analysis, assisting in portfolio management and financial decision-making."
+        name: "Amit Puri",
+        role: "Member of the Board",
+        image: "https://wealthfusion.co.uk/wp-content/uploads/2024/02/Amit-Puri.jpg",
+        linkedin: "",
+        bio: "Amer specializes in market research and investment analysis, assisting in portfolio management and financial decision-making."
     }
-   
 ]

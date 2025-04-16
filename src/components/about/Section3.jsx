@@ -9,7 +9,7 @@ gsap.registerPlugin(ScrollTrigger)
 const Section3 = () => {
 
     useEffect(() => {
-        var headings = document.querySelectorAll("#about-section3 h2")
+        var headings = document.querySelectorAll("#team h2")
         headings.forEach((h) => {
             gsap.to(h, {
                 clipPath: "polygon(0 0, 100% 0, 100% 100%, 0% 100%)",
@@ -31,7 +31,7 @@ const Section3 = () => {
     }, [])
 
     return (
-        <div id='about-section3'>
+        <div id='team'>
             <h2>The Team</h2>
             <div className='team-container'>
                 {Team.map((member, index) => (<div key={index} className="member">
