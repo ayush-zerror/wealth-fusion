@@ -37,7 +37,7 @@ export const Team = [
     {
         name: "Rachana Rathod",
         role: "Vice President",
-        image: "/team/Rachana Rathod.webp",
+        image: "/team/Rachana Rathod.jpg",
         linkedin: "",
         bio: "Rachana oversees key business operations and strategic initiatives, driving organizational efficiency and expansion efforts."
     },
