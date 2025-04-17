@@ -31,11 +31,11 @@ const Section2 = ({ isHome }) => {
                 ))}
             </div>
 
-            <div className='explore-btn-wrap'>
+            {isHome && (<div className='explore-btn-wrap'>
                 <Link href="/services" className="explore-btn">
                     Explore All Services
                 </Link>
-            </div>
+            </div>)}
         </div>
     )
 }

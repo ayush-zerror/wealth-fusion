@@ -540,11 +540,12 @@ svg {
   font-family: paraMedium;
 }
 
-.contact-card-service p {
+.contact-card-service p ,.contact-card-service a{
   font-family: paraLight;
   font-size: 16px;
   font-size: 500;
   color: #0a1e37;
+  text-decoration: none;
 }
 
 /* about css */
@@ -630,6 +631,16 @@ svg {
   animation-duration: 30s;
   animation-iteration-count: infinite;
   animation-timing-function: linear;
+}
+.client-marquee{
+  background-color: #f7f3ed !important;
+  padding: 100px 0  0!important;
+}
+.client-marquee .marque-about{
+  margin-bottom: 0 !important;
+}
+.client-marquee .marque-about img{
+  filter: invert(1) !important;
 }
 @keyframes marquee {
   0% {
