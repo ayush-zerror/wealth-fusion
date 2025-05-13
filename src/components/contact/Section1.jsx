@@ -67,7 +67,7 @@ const Section1 = () => {
                     </div>
                     <div className="elem">
                         <div className="add">
-                            <h6>Business enquiries</h6>
+                            <h6>Business Enquiries</h6>
                             <a target="_blank" href="mailto:info@wealthfusion.co.uk">Email: info@wealthfusion.co.uk</a>
                             <a target="_blank" href="tel:+442081547030">Phone: +44 (0) 208 154 7030</a>
                         </div>
@@ -77,9 +77,8 @@ const Section1 = () => {
                         </div>
                         <div className="add">
                             <h6>Work Hours</h6>
-                            <h5>10:00 – 18:00 <br />
-                                Monday to Saturday <br />
-                                Sunday: Closed</h5>
+                            <h5>9:00 AM – 18:00 PM <br />
+                                Monday - Friday</h5>
                         </div>
                     </div>
                 </div>
@@ -87,31 +86,31 @@ const Section1 = () => {
                     <form action="">
                         <div className="input lineanime">
                             <input type="text" />
-                            <h6>NAME*</h6>
+                            <h6>Name*</h6>
                             <div className="linei"></div>
                         </div>
                         <div className="input lineanime">
                             <input type="text" />
-                            <h6>EMAIL*</h6>
+                            <h6>Email*</h6>
                             <div className="linei"></div>
                         </div>
                         <div className="input lineanime">
                             <input type="text" />
-                            <h6>PHONE NUMBER*</h6>
+                            <h6>Phone Number*</h6>
                             <div className="linei"></div>
                         </div>
                         <div className="input lineanime">
                             <input type="text" />
-                            <h6>COMPANY NAME*</h6>
+                            <h6>Company Name*</h6>
                             <div className="linei"></div>
                         </div>
                         <div className="input lineanime input-full">
                             <input type="text" />
-                            <h6>SUBJECT*</h6>
+                            <h6>Subject*</h6>
                             <div className="linei"></div>
                         </div>
                         <div className="textarea lineanime">
-                            <h6>MESSAGE*</h6>
+                            <h6>Message*</h6>
                             <div className="linei"></div>
                             <textarea name="" id=""></textarea>
                         </div>

@@ -46,7 +46,7 @@ const Section1 = () => {
         <p>To the extent that any provision of these Terms of Use is found by any competent court or authority to be invalid, unlawful or unenforceable in any jurisdiction, that provision shall be deemed to be severed from these Terms of Use but such finding shall not affect the validity, lawfulness or enforceability of the remainder of these Terms of Use in that jurisdiction, nor shall it affect the validity, lawfulness or enforceability of these Terms of Use in any other jurisdiction.</p>
         <h4>Conflict with Additional Terms</h4>
         <p>Certain web pages or areas on the Wealthfusion Website may contain additional terms, conditions, disclosures and disclaimers (collectively, the “Additional Terms”). In the event of a conflict between these Terms of Use and the Additional Terms, the Additional Terms will govern for those web pages or areas.</p>
-        <p>Last updated in December 2024.</p>
+        <p>Last updated in May 2025.</p>
 
     </div>
   )

@@ -33,47 +33,52 @@ const Section1 = () => {
 
   }, [])
 
-  useGSAP(() => {
-    let index = 0; // Keep track of the current active title
-    const title1 = document.querySelectorAll(".home-title1 h2");
-    const title2 = document.querySelectorAll(".home-title2 h2");
+useGSAP(() => {
+  let index = 0;
+  const title1 = document.querySelectorAll(".home-title1 h2");
+  const title2 = document.querySelectorAll(".home-title2 h2");
 
-    if (title1.length === 0 || title2.length === 0) return;
+  if (title1.length === 0 || title2.length === 0) return;
 
-    setInterval(() => {
-        let current1 = title1[index];
-        let next1 = title1[(index + 1) % title1.length];
+  const animateTitles = () => {
+    const current1 = title1[index];
+    const next1 = title1[(index + 1) % title1.length];
 
-        let current2 = title2[index];
-        let next2 = title2[(index + 1) % title2.length];
+    const current2 = title2[index];
+    const next2 = title2[(index + 1) % title2.length];
 
-        // Animate current elements out
-        gsap.to([current1, current2], {
-            top: "-100%",
-            ease: "power2.inOut",
-            duration: 0.8,
-            onComplete: () => {
-                gsap.set([current1, current2], { top: "100%" }); // Reset previous elements
-            }
-        });
+    // Reset next elements below
+    gsap.set([next1, next2], { top: "100%" });
 
-        // Animate next elements in
-        gsap.to([next1, next2], {
-            top: "0%",
-            ease: "power2.inOut",
-            duration: 0.8,
-            delay: 0.2 // Slight delay for a smoother effect
-        });
+    // Animate current out
+    gsap.to([current1, current2], {
+      top: "-100%",
+      ease: "power2.inOut",
+      duration: 0.8,
+    });
 
-        index = (index + 1) % title1.length; // Increment index properly
-    }, 3000);
+    // Animate next in
+    gsap.to([next1, next2], {
+      top: "0%",
+      ease: "power2.inOut",
+      duration: 0.8,
+      delay: 0.2,
+      onComplete: () => {
+        index = (index + 1) % title1.length;
+        gsap.delayedCall(1.8, animateTitles); // Ensures full animation cycle completes
+      },
+    });
+  };
+
+  animateTitles(); // Start the loop
 }, []);
+
 
 
 
   return (
     <div id='home-section1'>
-      <video autoPlay muted loop playsInline src="/videos/london.mp4"></video>
+      <video autoPlay muted loop playsInline src="/videos/skyline.mp4"></video>
       <div className="overlay-home1">
         <div className='home-title home-title1'>
           <h2>Inspired by Legacy,</h2>

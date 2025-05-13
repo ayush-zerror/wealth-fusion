@@ -18,9 +18,10 @@ const Footer = () => {
                     <div className="ft-pt">
                         <p className='more'>Legal</p>
                         <div className='ft-link'>
-                            <Link href="/privacy-policy" className='underline'>Privacy Policy</Link>
+                            <Link href="/privacy-policy" className='underline'>Privacy Notice</Link>
                             <Link href="/terms" className='underline'>Terms & Conditions</Link>
-                            <Link href="/modern-slavery-policy" className='underline'>Modern Slavery Linkolicy</Link>
+                            <Link href="/modern-slavery-policy" className='underline'>Modern Day Slavery</Link>
+                            <Link href="/mifidpru-notice" className='underline'>MiFIDPRU Notice</Link>
                             <Link href="/disclaimer" className='underline'>Disclaimer</Link>
                         </div>
                     </div>

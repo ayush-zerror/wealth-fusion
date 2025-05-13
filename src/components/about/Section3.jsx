@@ -35,7 +35,7 @@ const Section3 = () => {
             <h2>The Team</h2>
             <div className='team-container'>
                 {Team.map((member, index) => (<div key={index} className="member">
-                    <div className='profile'>
+                    <div className={`profile ${index === 1 ? 'unfilter':index === 5 ? 'unfilter' : index === 9 ? 'unfilter':''} `}>
                         <Image width={1000} height={1000} src={member.image} alt={member.name} />
                     </div>
                     <div className='name-container'>

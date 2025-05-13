@@ -8,7 +8,7 @@ const Section2 = ({data}) => {
     const router = useRouter();
     const { filterby } = router.query;
 
-    const filters = ['all', 'announcements', 'coverage', 'people'];
+    const filters = ['all', 'announcements', 'coverage', 'archive'];
     const [activeFilter, setActiveFilter] = useState(filterby || 'all');
 
     const handleFilterClick = (filter) => {

@@ -3,7 +3,7 @@ import React from 'react'
 const Section1 = () => {
   return (
     <div id='privacy-section1'>
-      <h2>PRIVACY POLICY</h2>
+      <h2>Privacy Notice</h2>
       <p>Wealthfusion appreciates your visit to this web site (“Wealthfusion Website”) and your interest in our services and products. Your privacy is important to us and we want you to feel comfortable visiting our site. We take care to protect your personal data collected, processed and used during visits to the Wealthfusion Website.</p>
       <p>Please note that Wealthfusion is registered with the ICO with the below mentioned details:</p>
       <p>70 Baker Street, <br />
@@ -68,7 +68,7 @@ const Section1 = () => {
         London, W1U 7DL</p>
       <p>e: Info@wealthfusion.co.uk</p>
       <p>t: +44 (0) 208 154 7030</p>
-      <p>Last update in December 2024.</p>
+      <p>Last update in May 2025.</p>
 
     </div>
   )

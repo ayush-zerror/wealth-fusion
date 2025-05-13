@@ -9,7 +9,7 @@ export const Services = [
     title: "Fiduciary / Estate Planning",
     description:
       "WealthFusion simplifies succession planning, handling inheritance, estates, and business transitions across global jurisdictions.",
-    image: "https://wealthfusion.co.uk/wp-content/uploads/2020/11/AdobeStock_107324845.jpg",
+    image: "https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg",
   },
   {
     title: "Plotpoint / Property Private Office",
@@ -21,7 +21,7 @@ export const Services = [
     title: "The Family Office",
     description:
       "Wealth creation is an art, and at WealthFusion, we excel in it. Our expert Wealth Managers craft tailored financial solutions to achieve your goals.",
-    image: "https://wealthfusion.co.uk/wp-content/uploads/2020/11/ho.jpg",
+    image: "https://wealthfusion.co.uk/wp-content/uploads/2023/12/view-from-window-2024-1024x685.jpg",
   },
   
 ];

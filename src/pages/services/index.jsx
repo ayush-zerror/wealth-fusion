@@ -13,8 +13,8 @@ const Services = () => {
       <Section11/>
       <Section2/>
       <Approach/>
-      <Map/>
       <Section3/>
+      <Map/>
     </>
   )
 }

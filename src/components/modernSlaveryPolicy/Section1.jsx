@@ -3,7 +3,7 @@ import React from 'react'
 const Section1 = () => {
   return (
     <div id='mpolicy-section1'>
-      <h2>MODERN SLAVERY POLICY</h2>
+      <h2>Modern Day Slavery</h2>
       <p>In 2015 new legislation was introduced entitled the Modern Slavery Act 2015. Modern slavery encompasses slavery, servitude, human trafﬁcking and forced labour.</p>
       <p>We are committed to acting ethically, with integrity and transparency in all business dealings and to continually improving our policies and practices in order to safeguard against any form of modern slavery taking place within the business or our supply chain.</p>
       <p>For financial planning firms within Wealthfusion, business activities cover a wide range of financial products and services including financial advice across life and health protection, savings and investments, retirement planning, tax planning and mortgage advice.</p>
