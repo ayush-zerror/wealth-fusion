@@ -254,7 +254,7 @@ body {
 #company-map {
   width: 100%;
   height: 90vh;
-  padding: 70px 110px 0;
+  padding: 70px 110px;
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -576,7 +576,7 @@ iframe {
   justify-content: space-between;
   margin-top: 40px;
 }
-svg {
+.contact-box  svg {
   width: 35px !important;
 }
 .number {
