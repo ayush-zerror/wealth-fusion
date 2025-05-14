@@ -16,10 +16,10 @@ const Home = () => {
       <Section1 />
       <ClientMarquee/>
       <Section2 isHome={true}/>
-      <HowWeIn/>
-      <Approach/>
-      <Section5/>
+      {/* <HowWeIn/> */}
+      {/* <Approach/> */}
       <CompanyMap/>
+      <Section5/>
       {/* <Section3/> */}
       <Map/>
     </>

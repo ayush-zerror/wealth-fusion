@@ -143,7 +143,7 @@ body {
   opacity: 0;
   pointer-events: none;
   transition: opacity 0.2s ease, transform 0.2s ease;
-  padding: .6rem 0 0;
+  padding: 0.6rem 0 0;
   z-index: 10;
   min-width: 180px;
   transform: translateY(10px);
@@ -169,7 +169,6 @@ body {
   background-color: #0a1e37;
   color: white !important;
 }
-
 
 /* home css  */
 
@@ -234,7 +233,7 @@ body {
   width: fit-content;
   line-height: 1;
 }
-.letter{
+.letter {
   display: inline-block;
 }
 .home-title {
@@ -252,7 +251,7 @@ body {
   left: 0;
 }
 
-#company-map{
+#company-map {
   width: 100%;
   height: 90vh;
   padding: 70px 110px 0;
@@ -260,8 +259,8 @@ body {
   flex-direction: column;
   align-items: center;
 }
-#company-map h2{
-    font-family: heading2;
+#company-map h2 {
+  font-family: heading2;
   font-size: 55px;
   font-weight: 500;
   margin-bottom: 30px;
@@ -269,10 +268,10 @@ body {
   width: fit-content;
   line-height: 1;
 }
-#company-map img{
+#company-map img {
   width: auto;
   height: 100%;
-  margin:0  auto;
+  margin: 0 auto;
 }
 /* service css */
 #service-section1 {
@@ -333,7 +332,6 @@ body {
   min-height: 100vh;
   background-color: #f7f3ed;
   padding: 100px 110px;
-  padding-bottom: 50px;
   color: #0a1e37;
 }
 
@@ -348,7 +346,7 @@ body {
   position: relative;
   text-transform: capitalize;
 }
-#service-section2  > p {
+#service-section2 > p {
   width: 60%;
   font-family: paraLight;
   font-size: 16px;
@@ -359,9 +357,34 @@ body {
 
 .service-container {
   width: 100%;
+  height: 100%;
   display: flex;
   flex-wrap: wrap;
   gap: 3.5%;
+}
+.service-container-main {
+  justify-content: space-between;
+  align-items: center;
+}
+.service-container-main .service-card {
+  width: 48%;
+  height: 500px;
+  margin-bottom: 0;
+}
+.service-container-main .service-card:nth-child(1){
+  margin-bottom: 4%;
+}
+.service-container-main .service-card:nth-child(2){
+  margin-bottom: 4%;
+}
+.service-container-main .img-container {
+  height: 270px;
+}
+.service-container-main .card-text-wrap {
+  height: 180px;
+}
+.service-container-main .desc-service {
+  padding: 40px;
 }
 .service-card {
   position: relative;
@@ -563,7 +586,8 @@ svg {
   font-family: paraMedium;
 }
 
-.contact-card-service p ,.contact-card-service a{
+.contact-card-service p,
+.contact-card-service a {
   font-family: paraLight;
   font-size: 16px;
   font-size: 500;
@@ -582,7 +606,7 @@ svg {
   overflow: hidden;
   position: relative;
 }
-.about-overlay1{
+.about-overlay1 {
   width: 100%;
   height: 100%;
   position: absolute;
@@ -592,8 +616,7 @@ svg {
   background: linear-gradient(to bottom, #0a1e37ef 5%, transparent);
 }
 
-
-.about-title-wrap{
+.about-title-wrap {
   position: absolute;
   left: 110px;
   top: 30%;
@@ -655,14 +678,14 @@ svg {
   animation-iteration-count: infinite;
   animation-timing-function: linear;
 }
-.client-marquee{
+.client-marquee {
   background-color: #f7f3ed !important;
-  padding: 100px 0  0!important;
+  padding: 100px 0 0 !important;
 }
-.client-marquee .marque-about{
+.client-marquee .marque-about {
   margin-bottom: 0 !important;
 }
-.client-marquee .marque-about img{
+.client-marquee .marque-about img {
   filter: invert(1) !important;
 }
 @keyframes marquee {
@@ -678,10 +701,10 @@ svg {
   height: auto;
   aspect-ratio: 4/3;
   object-fit: contain;
-  filter: grayscale(100%)  contrast(100%) brightness(0%) invert(1)  !important;
+  filter: grayscale(100%) contrast(100%) brightness(0%) invert(1) !important;
 }
 #about-section2.client-marquee .marque-about img {
-  filter: grayscale(100%)  contrast(100%) brightness(0%) !important;
+  filter: grayscale(100%) contrast(100%) brightness(0%) !important;
 }
 
 #team {
@@ -726,9 +749,9 @@ svg {
   object-fit: cover;
   object-position: bottom;
   transition: all 0.4s ease-in-out;
-  filter: grayscale(100%) ;
+  filter: grayscale(100%);
 }
-.team-container .profile.unfilter img{
+.team-container .profile.unfilter img {
   filter: none;
 }
 .team-container h4 {
@@ -783,7 +806,6 @@ svg {
   position: relative;
   background-color: #0a1e37;
 }
-
 
 .approach-section {
   padding: 60px 110px !important;
@@ -913,17 +935,16 @@ svg {
   overflow: hidden;
   position: relative;
 }
-.impact-overlay1{
+.impact-overlay1 {
   width: 100%;
   height: 100%;
   position: absolute;
   top: 0;
   left: 0;
   background: linear-gradient(to bottom, #0a1e37ef 5%, transparent);
-
 }
 
-.impact-title-wrap{
+.impact-title-wrap {
   position: absolute;
   left: 110px;
   top: 30%;
@@ -1376,7 +1397,7 @@ svg {
   align-items: flex-start;
   justify-content: space-between;
 }
-.ft-left a{
+.ft-left a {
   font-size: 13px !important;
 }
 .ft-pt {
@@ -1421,7 +1442,7 @@ svg {
 }
 
 /* Explore btn */
-.explore-btn-wrap{
+.explore-btn-wrap {
   width: 100%;
   display: flex;
   justify-content: center;
@@ -1473,7 +1494,7 @@ svg {
 }
 #left h2 {
   font-size: 55px;
-  line-height: .8;
+  line-height: 0.8;
   font-family: heading2;
   font-weight: 500;
   margin-bottom: 20px;
@@ -2247,7 +2268,7 @@ svg {
   #details-ig1 h2 {
     padding-left: 0;
   }
-  #details-ig1 span{
+  #details-ig1 span {
     padding-left: 0;
   }
   #details-ig1 p {
@@ -2283,49 +2304,49 @@ svg {
     margin-bottom: 20px;
   }
   #service-map {
-    padding:20px;
-}
-#wrapper-map {
-  flex-direction: column;
-  gap: 30px;
-}
-#service-map .contact-card-service {
-  width: 100%;
-  padding: 70px 30px;
-}
-#service-map iframe{
-  width: 100%;
-}
-.footer-pt1 {
-  width: 100%;
-  flex-direction: column;
-  gap: 30px;
-}
-.ft-pt {
-  width: 45%;
-}
-#footer > p{
-  text-align: left;
-}
+    padding: 20px;
+  }
+  #wrapper-map {
+    flex-direction: column;
+    gap: 30px;
+  }
+  #service-map .contact-card-service {
+    width: 100%;
+    padding: 70px 30px;
+  }
+  #service-map iframe {
+    width: 100%;
+  }
+  .footer-pt1 {
+    width: 100%;
+    flex-direction: column;
+    gap: 30px;
+  }
+  .ft-pt {
+    width: 45%;
+  }
+  #footer > p {
+    text-align: left;
+  }
 
-#page1 {
-  padding: 170px 20px;
-  padding-bottom: 30px;
-}
-#form {
-  flex-direction: column;
-}
-#left {
-  width: 100%;
-}
-#right{
-  width: 100%;
-}
-#contact-section2 {
-  width: 100%;
-  padding: 60px 20px;
-  padding-top: 30px;
-}
+  #page1 {
+    padding: 170px 20px;
+    padding-bottom: 30px;
+  }
+  #form {
+    flex-direction: column;
+  }
+  #left {
+    width: 100%;
+  }
+  #right {
+    width: 100%;
+  }
+  #contact-section2 {
+    width: 100%;
+    padding: 60px 20px;
+    padding-top: 30px;
+  }
 }
 
 /* Small devices (phones & tablets) */
@@ -3384,5 +3405,3 @@ svg {
 /* Extra large devices (large desktops) */
 @media (min-width: 1200px) {
 }
-
-

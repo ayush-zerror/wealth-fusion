@@ -5,7 +5,7 @@ const Section1 = () => {
         <div id='privacy-section1'>
             <h2>MiFIDPRU Notice </h2>
             <h4>MiFIDPRU 8.6 Disclosure</h4>
-            <p>(Based on audited financial statements for the year ending 2025)</p>
+            <p>(Based on audited financial statements for the year ending 2024)</p>
             <h4>Scope and Purpose</h4>
             <p>This disclosure relates to Wealthfusion Limited, which is classified as a 'Small and Non-Interconnected' (SNI) MiFIDPRU Investment Firm and is therefore required under MiFIDPRU 8.6 to disclose information relating to remuneration policies and practices.  In accordance with the rules, the disclosures herein are appropriate to the size, internal organisation, nature, scope and complexity of the Firm's activities.</p>
             <h4>Approach to Remuneration</h4>

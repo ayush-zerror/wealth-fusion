@@ -14,7 +14,7 @@ const Section2 = ({ isHome }) => {
                 <h2>Our Services</h2>
                 <p>At Wealthfusion, we are a True Family Office, deeply rooted in the rich traditions of the Old Private Banker while embracing fresh, creative, and bold new ideas. Our approach blends heritage with innovation, ensuring our clients receive the best of both worlds.</p>
             </>}
-            <div className="service-container">
+            <div className={`service-container ${!isHome ? 'service-container-main' : ''}`}>
                 {(isHome ? Services.slice(0, 3) : Services).map((service, index) => (
                     <Link href="/contact" key={index} className="service-card">
                         <div className='img-container'>
