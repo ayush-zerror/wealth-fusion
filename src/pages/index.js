@@ -20,9 +20,9 @@ const Home = () => {
       {/* <HowWeIn/> */}
       {/* <Approach/> */}
       <CompanyMap/>
+      <WorldMap/>
       <Section5/>
       {/* <Section3/> */}
-      {/* <WorldMap/> */}
       <Map/>
     </>
   )
