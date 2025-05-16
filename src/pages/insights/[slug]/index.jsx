@@ -4,6 +4,8 @@ import { InsightData } from "@/helpers/InsightData";
 import React from "react";
 
 const InsightDetails = ({ insight, similarInsights }) => {
+
+
   return (
     <>
       <Section1 insight={insight} />

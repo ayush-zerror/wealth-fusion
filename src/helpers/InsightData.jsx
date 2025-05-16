@@ -237,7 +237,7 @@ enough money to them."`,
       },
       {
         type: `image`,
-        src: `https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg`,
+        src: `/coverage/c11.webp`,
         alt: `AI Diagram`,
       },
       {
@@ -478,8 +478,8 @@ charge in 2027.`,
       },
       {
         type: `image`,
-        src: `https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg`,
-        alt: `AI Diagram`,
+        src: `/coverage/c31.webp`,
+        alt: `image`,
       },
       {
         type: `paragraph`,
@@ -562,8 +562,8 @@ donor’s death`,
       },
       {
         type: `image`,
-        src: `https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg`,
-        alt: `AI Diagram`,
+        src: `/coverage/c32.webp`,
+        alt: `image`,
       },
       {
         type: `paragraph`,
@@ -635,8 +635,8 @@ would not apply.`,
       },
       {
         type: `image`,
-        src: `https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg`,
-        alt: `AI Diagram`,
+        src: `/coverage/c33.webp`,
+        alt: `image`,
       },
       {
         type: `paragraph`,
@@ -731,8 +731,8 @@ September 2024, the relative appeal of these stocks should increase.`,
       },
       {
         type: `image`,
-        src: `https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg`,
-        alt: `AI Diagram`,
+        src: `/coverage/c41.webp`,
+        alt: `image`,
       },
       {
         type: `paragraph`,
@@ -815,8 +815,8 @@ combination of regular income and capital appreciation.`,
       },
       {
         type: "image",
-        src: `https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg`,
-        alt: `AI Diagram`,
+        src: `/coverage/c42.webp`,
+        alt: `image`,
       },
       {
         type: `paragraph`,
@@ -1190,8 +1190,8 @@ decade`,
       },
       {
         type: `image`,
-        src: `https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg`,
-        alt: `AI Diagram`,
+        src: `/coverage/c61.webp`,
+        alt: `image`,
       },
       {
         type: `paragraph`,
@@ -1321,8 +1321,8 @@ pandemic`,
       },
       {
         type: `image`,
-        src: `https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg`,
-        alt: `AI Diagram`,
+        src: `/coverage/c71.webp`,
+        alt: `image`,
       },
       {
         type: `paragraph`,
@@ -1545,8 +1545,8 @@ to go forward. Like previous presidents, the market surged under both Trump and 
       },
       {
         type: "image",
-        src: `https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg`,
-        alt: `AI Diagram`,
+        src: `/coverage/c81.webp`,
+        alt: `image`,
       },
       {
         type: "description",
@@ -1627,8 +1627,8 @@ be higher "reciprocal" rates for specific trade partners thought to have excessi
       },
       {
         type: "image",
-        src: `https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg`,
-        alt: `AI Diagram`,
+        src: `/coverage/c91.webp`,
+        alt: `image`,
       },
       {
         type: `description`,
@@ -1810,8 +1810,8 @@ performance and valuation metrics.`,
       },
       {
         type: "image",
-        src: `https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg`,
-        alt: `AI Diagram`,
+        src: `/coverage/c101.webp`,
+        alt: `image`,
       },
       {
         type: `heading`,
@@ -1827,13 +1827,13 @@ outsized impact of a few major players on the overall index.`,
       },
       {
         type: "image",
-        src: `https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg`,
-        alt: `AI Diagram`,
+        src: `/coverage/c102.webp`,
+        alt: `image`,
       },
       {
         type: "image",
-        src: `https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg`,
-        alt: `AI Diagram`,
+        src: `/coverage/c103.webp`,
+        alt: `image`,
       },
       {
         type: `heading`,
@@ -1850,8 +1850,8 @@ Seven" stocks is 31.8%, compared to a 7.7% YTD change for the remaining 493 stoc
       },
       {
         type: "image",
-        src: `https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg`,
-        alt: `AI Diagram`,
+        src: `/coverage/c104.webp`,
+        alt: `image`,
       },
       {
         type: `heading`,
@@ -2718,8 +2718,8 @@ spending were carried out in Chancellor Reeves’ Autumn Budget. `,
       },
       {
         type: `image`,
-        src: `https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg`,
-        alt: `AI Diagram`,
+        src: `/coverage/c141.webp`,
+        alt: `image`,
       },
       {
         type: "heading",
@@ -2864,8 +2864,8 @@ as companies are likely to absorb a part of the associated costs elsewhere. `,
       },
       {
         type: `image`,
-        src: `https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg`,
-        alt: `AI Diagram`,
+        src: `/coverage/c142.webp`,
+        alt: `image`,
       },
       {
         type: "description",
@@ -3046,8 +3046,8 @@ should lead US equities higher through to the year-end and into the next year.`,
       },
       {
         type: `image`,
-        src: `https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg`,
-        alt: `AI Diagram`,
+        src: `/coverage/c151.webp`,
+        alt: `image`,
       },
       {
         type: `paragraph`,
@@ -3182,8 +3182,8 @@ Monday morning, in the markets–`,
       },
       {
         type: `image`,
-        src: `https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg`,
-        alt: `AI Diagram`,
+        src: `/coverage/c161.webp`,
+        alt: `image`,
       },
       {
         type: `description`,
@@ -3279,8 +3279,8 @@ strength of the US dollar is expected to persist in the near future and possibly
       },
       {
         type: `image`,
-        src: `https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg`,
-        alt: `AI Diagram`,
+        src: `/coverage/c162.webp`,
+        alt: `image`,
       },
       {
         type: `description`,
@@ -3357,8 +3357,8 @@ inheritance disputes and governance challenges`,
       },
       {
         type: `image`,
-        src: `https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg`,
-        alt: `AI Diagram`,
+        src: `/coverage/c171.webp`,
+        alt: `image`,
       },
       {
         type: `description`,
@@ -3756,8 +3756,8 @@ gift it, have a ball.”`,
       },
       {
         type: `image`,
-        src: `https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg`,
-        alt: `AI Diagram`,
+        src: `/coverage/c181.webp`,
+        alt: `image`,
       },
       {
         type: `description`,

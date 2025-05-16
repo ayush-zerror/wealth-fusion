@@ -1337,6 +1337,12 @@ iframe {
   align-items: center;
   justify-content: center;
 }
+.insight-image img{
+  display: block;
+  margin: 0 auto;
+  max-width: 60%;
+  height: auto;
+}
 
 #details-ig1 p {
   font-family: paraLight;
