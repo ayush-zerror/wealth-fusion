@@ -19,7 +19,7 @@ const Home = () => {
       <Section2 isHome={true}/>
       {/* <HowWeIn/> */}
       {/* <Approach/> */}
-      <CompanyMap/>
+      {/* <CompanyMap/> */}
       <WorldMap/>
       <Section5/>
       {/* <Section3/> */}
