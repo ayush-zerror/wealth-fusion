@@ -1889,24 +1889,24 @@ take over, but need help from private banks to meet the succession challenge.`,
         type: `parabold`,
         content: [
           `While most family business owners, who account for a significant share of the private
-banking client base, aspire to pass the reins to the`,
+banking client base, aspire to pass the reins to the `,
           {
             link: "https://www.pwmnet.com/private-banks-prepare-for-next-gen-revolution",
-            text: " next generation",
+            text: "next generation",
           },
           ` many delay addressing
-the complexities of`,
+the complexities of `,
           {
             link: "https://www.pwmnet.com/lessons-in-succession-planning",
-            text: " succession planning",
+            text: "succession planning",
           },
-          `until it is too late. This is where wealth managers
+          ` until it is too late. This is where wealth managers
 and `,
           {
             link: "https://www.pwmnet.com/do-big-private-banks-only-need-to-play-it-safe-to-stay-on-top",
-            text: " private banks",
+            text: "private banks",
           },
-          `can provide meaningful support, helping clients navigate this crucial
+          ` can provide meaningful support, helping clients navigate this crucial
 transition.
 `,
         ],
@@ -1937,7 +1937,7 @@ business.`,
       },
       {
         type: `heading`,
-        content: `Passing it on`,
+        content: `Passing it on `,
       },
       {
         type: `parabold`,
@@ -1952,8 +1952,8 @@ too much to give it up`,
         type: `parabold`,
         content: [
           { bold: true, text: `91 per cent ` },
-          `of private business owners say that it is important for their business to remain in
-the family for the next generation, but`,
+          ` of private business owners say that it is important for their business to remain in
+the family for the next generation, but `,
           { bold: true, text: ` 29 per cent` },
           `are still struggling to pick a successor`,
         ],
@@ -1981,7 +1981,7 @@ vision and stewardship, rather than being direct managers.`,
             text: `“Family members can play critical roles as engaged owners, helping shape the
 strategic direction and ensuring the business reflects shared family values,”  `,
           },
-          `he says.`,
+          ` he says.`,
         ],
       },
       {
@@ -2000,7 +2000,7 @@ define their roles, whether as active managers or engaged owners, adds Mr Persof
         content: [
           `The foundation of this preparation is `,
           { bold: true, text: ` “fostering an affinity” ` },
-          `for the business early on.
+          ` for the business early on.
 Regardless of the industry, the younger generation must develop an understanding of the
 company’s value. This could mean showing how their products or services meet timeless
 needs or connecting them to the business's impact on customers and the world.`,
@@ -2016,14 +2016,14 @@ communicated, according to the recent BBH survey on US family business owners.`,
       {
         type: `parabold`,
         content: [
-          `One challenge is reconciling trade-offs between familial loyalty and external expertise.`,
+          `One challenge is reconciling trade-offs between familial loyalty and external expertise. `,
           {
             bold: true,
             text: ` “In a
 family business, you don't necessarily need to be the best qualified individual to be
 the most successful,”`,
           },
-          `says Mr Persofsky. The emotional attachment of family members to
+          ` says Mr Persofsky. The emotional attachment of family members to
 the business, even if not the most experienced candidates, can sometimes outweigh
 external qualifications, he explains.`,
         ],
@@ -2045,7 +2045,7 @@ may not align with the family’s long-term vision.`,
         content: [
           `While conflict is a natural part of any organisation, in family businesses the presence of
 close relationships and shared histories can make disagreements feel more dramatic, adds
-Mr Persofsky.`,
+Mr Persofsky. `,
           {
             bold: true,
             text: ` "The key to managing conflict effectively lies in having a robust
@@ -2089,7 +2089,7 @@ while they are still in charge.”
       {
         type: `parabold`,
         content: [
-          `Business owners should recognise that`,
+          `Business owners should recognise that `,
           {
             bold: true,
             text: `“passing on the family business is not a
@@ -2108,7 +2108,7 @@ involvement while still maintaining control.`,
 `,
           {
             bold: true,
-            text: `“Are they primarily interested in the continuity of the family business? Or are they
+            text: ` “Are they primarily interested in the continuity of the family business? Or are they
 more concerned with finding the right, next, family leader for the business? These are
 seemingly similar, but they are different objectives that can drive quite different
 approaches to family business succession,” `,
@@ -2160,7 +2160,7 @@ the US.`,
             text: `“When they return, they can contribute in a thoughtful and respectful way, enriched
 by their own unique voice and experiences,”   `,
           },
-          `she says.`,
+          ` she says.`,
         ],
       },
       {
@@ -2204,7 +2204,7 @@ assembling a team of experts is the best solution, believes Ms Montgomery.`,
 important to tailor solutions to the family’s values, the business’s needs, and the
 capabilities of individual family members,” `,
           },
-          `she says.`,
+          ` she says.`,
         ],
       },
       {
@@ -2232,7 +2232,7 @@ and remain clients.`,
             text: `“For many successful families, their business represents not only their largest asset,
 but also a deeply personal legacy,"`,
           },
-          `says Sara Montgomery from Plante Moran`,
+          ` says Sara Montgomery from Plante Moran`,
         ],
       },
       {
@@ -2242,12 +2242,12 @@ but also a deeply personal legacy,"`,
       {
         type: `parabold`,
         content: [
-          `But private banks must avoid waiting for`,
+          `But private banks must avoid waiting for `,
           {
             bold: true,
             text: `“crisis moments”`,
           },
-          `” before they step in, he warns.
+          ` ” before they step in, he warns.
 Early involvement ensures smoother transitions and better outcomes for all stakeholders.`,
         ],
       },
@@ -2261,7 +2261,7 @@ mortality. Advisers should aim to reframe the conversation, presenting successio
             bold: true,
             text: `“transition up, not out”,`,
           },
-          `and highlighting opportunities for growth and evolution rather than
+          ` and highlighting opportunities for growth and evolution rather than
 endings.
 `,
         ],
@@ -2275,7 +2275,7 @@ endings.
 success of the firm without continuing their role as president. Leading a good board
 of directors is one example of such a role,”`,
           },
-          `says Mr McGrann.`,
+          ` says Mr McGrann.`,
         ],
       },
       {
@@ -2295,13 +2295,13 @@ are made by a group of impartial professionals.`,
         content: [
           `Bankers should also help business owner clients develop passions and interests beyond the
 business. This broadens their sense of identity and makes it easier for them to step away
-from day-to-day management.`,
+from day-to-day management. `,
           {
             bold: true,
             text: `“If the entire identity of a client is tied up in the business,
 it can be very difficult to let go of the reins,” `,
           },
-          `he warns.`,
+          ` he warns.`,
         ],
       },
       {
@@ -2312,12 +2312,12 @@ it can be very difficult to let go of the reins,” `,
         type: `parabold`,
         content: [
           `Some entrepreneurs may find the technical aspects of succession planning overwhelming.
-More than a third are concerned about the true sale value of the company, while`,
+More than a third are concerned about the true sale value of the company, while `,
           {
             bold: true,
             text: `29 per cent`,
           },
-          `are worried about how to structure the transaction, according to the HSBC survey.`,
+          ` are worried about how to structure the transaction, according to the HSBC survey.`,
         ],
       },
       {
@@ -2330,7 +2330,7 @@ an estimated `,
             bold: true,
             text: `20m business owners aged over 50 in the US, and 2,300 retiring daily,`,
           },
-          `demand for informed succession planning is more pressing than ever, he says.`,
+          ` demand for informed succession planning is more pressing than ever, he says.`,
         ],
       },
       {
@@ -2345,7 +2345,7 @@ transitioning to family members, selling to private equity, or exiting to strate
 Unlocking of information is critically important to those decisions. Yet, many
 business owners struggle with disorganised or inaccessible data,”`,
           },
-          `says Mr Early.`,
+          ` says Mr Early.`,
         ],
       },
       {
@@ -2357,6 +2357,1438 @@ business owners struggle with disorganised or inaccessible data,”`,
 asset.”`,
           },
         ],
+      },
+    ],
+  },
+  {
+    slug: `take-insurance-to-protect-against-iht`,
+    title: `Take Insurance to Protect Against IHT`,
+    category: `coverage`,
+    thumbnail: `https://wealthfusion.co.uk/wp-content/uploads/2024/11/Team-PP.jpg`,
+    blocks: [
+      {
+        type: `paragraph`,
+        content: `Families turn to life assurance to swerve inheritance tax reforms.`,
+      },
+      {
+        type: `paragraph`,
+        content: `Labour executes ‘economic own goal’ as taxpayers shield cash in death policies`,
+      },
+      {
+        type: `paragraph`,
+        content: `Tax planning has taken a large part of families’ inheritance discussions since Rachel Reeves’s Budget, experts
+say Credit: Kirsty O'Connor / Treasury
+`,
+      },
+      {
+        type: `parabold`,
+        content: [
+          `Britain’s wealthy are being pushed towards `,
+          {
+            link: "https://www.telegraph.co.uk/money/consumer-affairs/types-of-life-insurance/",
+            text: "“whole of life” cover",
+          },
+          ` to reduce the pain of inheritance tax in an
+“economic own goal” for Labour, tax experts have said.
+`,
+        ],
+      },
+      {
+        type: `parabold`,
+        content: [
+          `Wealth managers said they are preparing for a surge of life assurances being set up in trusts, `,
+          {
+            link: "https://www.telegraph.co.uk/money/tax/inheritance/how-avoid-inheritance-tax-with-life-insurance-policy-uk/",
+            text: `reducing the
+pressure of inheritance tax on taxpayers and their descendants.
+`,
+          },
+        ],
+      },
+      {
+        type: `parabold`,
+        content: [
+          `So-called “whole of life” cover set up in a trust sits outside a person’s estate and is therefore not `,
+          {
+            link: "https://www.telegraph.co.uk/money/tax/inheritance/how-much-inheritance-tax-pay-uk-reduce-bill/",
+            text: `liable for
+death duties`,
+          },
+          ` at a rate of 40pc.`,
+        ],
+      },
+      {
+        type: `paragraph`,
+        content: `Unlike life insurance, which only covers a set term, life assurance covers an entire life. It pays out a
+guaranteed amount of cash to beneficiaries upon death, giving it “major benefits” for tax purposes, tax
+experts said.`,
+      },
+      {
+        type: `paragraph`,
+        content: `Jo Eccles, of London buying agency Eccord, said: “Since the Budget, tax planning is a bigger piece of the
+conversation than it’s ever been among our high-net-worth clients buying property.`,
+      },
+      {
+        type: `paragraph`,
+        content: `“It’s now practically unheard of for us to acquire a property over £10m without working closely with the
+client’s tax adviser to ensure the purchase is structured in the most tax-efficient way.
+`,
+      },
+      {
+        type: `paragraph`,
+        content: `“Our clients like life assurance to be part of their overall tax planning because they’re comforted by the fact it
+will give their beneficiaries breathing space, without the need to fire-sale assets to cover inheritance tax
+bills.”`,
+      },
+      {
+        type: `paragraph`,
+        content: `Nicholas Hyett, of investment firm Wealth Club, said that by paying out a lump sum in the case of an
+unexpected death, life assurance can be used to ensure there is enough cash around to pay inheritance tax
+bills without having to sell assets.`,
+      },
+      {
+        type: `paragraph`,
+        content: `He added: “That’s particularly important in the case of things like family businesses or farms, where selling
+assets is difficult or perhaps impossible at short notice.”
+`,
+      },
+      {
+        type: `paragraph`,
+        content: `However, Mr Hyett warned that a move to life assurance represented “a bit of economic own goal” from
+Labour, as “instead of being invested in productive assets, creating jobs and boosting growth, money is being
+tied up in tax management products”.`,
+      },
+      {
+        type: `parabold`,
+        content: [
+          `The Chancellor announced in her maiden Budget that unused pension pots would be treated as part of a
+person’s estate from April 2027 and therefore be subject to inheritance tax. Rachel Reeves also `,
+          {
+            link: "https://www.telegraph.co.uk/money/tax/inheritance/how-farmers-dodge-labour-inheritance-tax-raid/",
+            text: `capped
+inheritance tax relief for farmland`,
+          },
+          ` at £1m, to much uproar from British farmers.
+`,
+        ],
+      },
+      {
+        type: `paragraph`,
+        content: `Peter Ferrigno, of advisory firm Henley & Partners, said: “The recent changes have highlighted how
+inheritance tax is not working in practice. The rates are among the highest in the world and cut in at a very
+low level.`,
+      },
+      {
+        type: `parabold`,
+        content: [
+          `“The probate process is also too slow, and `,
+          {
+            link: "https://www.telegraph.co.uk/money/tax/families-face-near-record-late-fees-inheritance-tax-bills/",
+            text: `inheritance tax needs to be paid before the beneficiaries can get
+access to the assets`,
+          },
+          ` to sell. Life insurance is the only way to unblock that.”.
+`,
+        ],
+      },
+    ],
+  },
+  {
+    slug: `trust-scandal-leaves-heirs-with-huge-death-taxes`,
+    title: `Trust scandal leaves heirs with huge death taxes`,
+    category: `coverage`,
+    thumbnail: `https://wealthfusion.co.uk/wp-content/uploads/2024/11/Team-PP.jpg`,
+    blocks: [
+      {
+        type: `paragraph`,
+        content: `‘Sham’ schemes sold to vulnerable pensioners affect thousands, reports Charlotte Gifford
+`,
+      },
+      {
+        type: `heading`,
+        content: `The Costly Pitfalls of Family Protection Trusts`,
+      },
+      {
+        type: `paragraph`,
+        content: `Many families have fallen into financial and legal trouble
+after being sold misleading estate planning products,
+believing they were protecting their assets. Instead, these
+so-called “family protection trusts” have left them unable
+to sell their properties, burdened with unexpected
+inheritance tax bills, and forced to pay thousands in legal
+fees to correct costly mistakes.`,
+      },
+      {
+        type: `heading`,
+        content: `A Trust That Backfired`,
+      },
+      {
+        type: `paragraph`,
+        content: `Annette Riding’s parents were not wealthy. Her father,
+Michael Nixon, was a retired builder, and her mother,
+Carole, had worked at John Lewis. They owned a modest
+home in Newcastle worth around £150,000. Like
+thousands of others, they were convinced by estate
+planners that placing their home in a trust would protect
+their estate and ease inheritance matters.
+In 2011, after a routine visit to the Newcastle Building
+Society, Carole was introduced to the Will Writing
+Company, which later persuaded the couple to put their
+home into a trust managed by McClure Solicitors. They
+believed this would safeguard their home, but in reality, it became an expensive burden.`,
+      },
+      {
+        type: `paragraph`,
+        content: `When Michael passed away and Carole moved into a nursing home in 2021, the trust prevented their
+daughter from selling or renting out the property. Over the next two years, Ms. Riding incurred
+£10,000 in maintenance costs for the empty home and had to spend an additional £3,700 on legal fees
+to unwind the trust.`,
+      },
+      {
+        type: `paragraph`,
+        content: `“From my perspective, the past few years have been an absolute nightmare,” she said. “All because my
+mum and dad put their faith in their building societies and solicitors – those they had been taught to
+respect and believe in.”`,
+      },
+      {
+        type: `paragraph`,
+        content: `She is far from alone. Thousands of families who set up similar trusts with McClure have found
+themselves in difficult financial situations, facing legal roadblocks and unexpected tax bills.`,
+      },
+      {
+        type: `heading`,
+        content: `The Inheritance Tax Trap`,
+      },
+      {
+        type: `paragraph`,
+        content: `John Hopkins’s family experienced a significant financial blow after his passing in 2023. His estate,
+valued at £420,000, should not have been subject to inheritance tax. Normally, estates worth under
+£500,000—including the £175,000 residence nil-rate band—are tax-free when passed to children.
+However, because his property was held in a McClure trust, his family lost the £175,000 exemption,
+leaving only £325,000 protected from inheritance tax. As a result, they were hit with a £35,000 tax bill
+that could have been entirely avoided had the property remained in his name.`,
+      },
+      {
+        type: `paragraph`,
+        content: `Beyond the tax bill, the family had to spend thousands in legal fees just to remove McClure’s solicitors
+from the property title deeds. Mr. Hopkins had set up the trust thinking it would simplify things for his
+family and ensure tax efficiency. Instead, it caused unnecessary financial strain.
+`,
+      },
+      {
+        type: `paragraph`,
+        content: `To make matters worse, Mr. Hopkins was not introduced to McClure through an estate planner or
+building society but via a local charity—Age Concern in Exmouth. Documents later revealed that McClure marketed its services to charities, promising they could "boost" their fundraising efforts by
+partnering with the firm’s will-writing services.`,
+      },
+      {
+        type: `heading`,
+        content: `Misleading Sales Tactics`,
+      },
+      {
+        type: `paragraph`,
+        content: `One of the biggest concerns surrounding McClure was the way these trusts were sold. Many clients
+were introduced through building societies and charities, unaware that sales staff were financially
+incentivized to push these products.
+`,
+      },
+      {
+        type: `paragraph`,
+        content: `A former Dunfermline Building Society employee revealed that between 2008 and 2012, branch staff
+received commissions for every trust sold. “We were told to target people from the age of 60 and up,
+reaching out through client lists and encouraging them to come in for a chat,” the employee said. “If I
+knew then what I know now, I’d have never sold it to any of my customers. Absolutely none of them.”
+McClure marketed the trusts as a way to shield assets from care home fees. However, many local
+councils refused to recognize them as legitimate, meaning families who thought they were protecting
+their homes ended up spending thousands on legal fees to challenge council decisions.`,
+      },
+      {
+        type: `paragraph`,
+        content: `For instance, Paul Pygott’s parents were persuaded by the Will Writing Company to place their home
+and savings into two separate trusts. Years later, Leeds City Council refused to cover his mother’s
+nursing home fees, claiming the trust was a deliberate attempt to avoid paying for care. Paul was left
+with a £26,000 bill from the care home and had to spend an additional £6,000 in legal fees to resolve
+the matter.`,
+      },
+      {
+        type: `paragraph`,
+        content: `Similarly, Brett Porter’s 96-year-old grandmother placed her home in a trust with McClure when she
+was 84, under the promise that it would protect her property. Now that she is in a nursing home,
+Oxford County Council has refused to recognize the trust, meaning the home must be sold to cover her
+care fees. “They promised there wouldn’t be any future charges – that’s not true,” Mr. Porter said.`,
+      },
+      {
+        type: `heading`,
+        content: `McClure’s Collapse and the Aftermath`,
+      },
+      {
+        type: `paragraph`,
+        content: `McClure, which set up over 18,000 trusts, went into administration in 2021. Philips Trust Corporation,
+another firm that specialized in wills and trusts, followed suit in 2022. After McClure collapsed, its
+client files were transferred to Jones Whyte Solicitors. However, the transition has been plagued with
+delays. `,
+      },
+      {
+        type: `paragraph`,
+        content: `The Solicitors Regulation Authority (SRA) stated that the process had “not been carried out to the
+standards we and clients would normally expect.” Many families are frustrated by slow responses and
+additional fees. Jones Whyte has been charging £400 just to review cases before offering any advice.
+The SRA is investigating potential mis-selling and the quality of advice given to clients but cannot take
+enforcement action against former McClure partners who are no longer registered solicitors.
+Meanwhile, banks and building societies have directed affected customers to the Legal Ombudsman or
+the Scottish Legal Complaints Commission.`,
+      },
+      {
+        type: `paragraph`,
+        content: `Police Scotland recently dropped a four-year investigation into McClure, stating that no criminality
+had been established. However, many families remain frustrated, with their estates tied up in costly
+legal battles.
+`,
+      },
+      {
+        type: `heading`,
+        content: `Lessons for Families`,
+      },
+      {
+        type: `paragraph`,
+        content: `Many people were told these trusts would involve a one-time fee, yet they have found themselves
+paying ongoing legal costs to correct mistakes. In some cases, families have been left unable to sell or
+access their properties, forced to pay inheritance tax that should have been avoided, or burdened with
+unexpected care fees.`,
+      },
+      {
+        type: `paragraph`,
+        content: `For those who have set up similar trusts, it is essential to seek independent legal advice to understand
+their implications. Estate planning should be handled carefully, with clear and transparent guidance,
+to ensure that families do not face unnecessary financial strain.`,
+      },
+      {
+        type: `parabold`,
+        content: [
+          `Article Name: `,
+          {
+            bold: true,
+            text: ` Trust scandal leaves heirs with huge death taxes
+`,
+          },
+        ],
+      },
+      {
+        type: `parabold`,
+        content: [
+          `Publication: `,
+          {
+            bold: true,
+            text: `  The Sunday Telegraph
+`,
+          },
+        ],
+      },
+    ],
+  },
+  {
+    slug: `the-labour-governments-first-budget-since-2010`,
+    title: `The Labour Government's First Budget Since 2010`,
+    category: `coverage`,
+    thumbnail: `https://wealthfusion.co.uk/wp-content/uploads/2024/11/Team-PP.jpg`,
+    blocks: [
+      {
+        type: `heading`,
+        content: `Key Highlights and Implications for Investors`,
+      },
+      {
+        type: `heading`,
+        content: `Introduction `,
+      },
+      {
+        type: `paragraph`,
+        content: `The Autumn budget is aimed to enhance UK growth while modestly raising inflation. In this short
+note, we look at the announced measures and the potential impact it may have on UK assets. `,
+      },
+      {
+        type: `paragraph`,
+        content: ``,
+      },
+      {
+        type: `paragraph`,
+        content: `On October 30, the new Labour government delivered its first Budget after it came into power in July
+with a sizable majority and pledged to boost the economy. Many of Labour's campaign promises to
+invest in infrastructure and public services as well as to establish clear guidelines for taxation and
+spending were carried out in Chancellor Reeves’ Autumn Budget. `,
+      },
+      {
+        type: `image`,
+        src: `https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg`,
+        alt: `AI Diagram`,
+      },
+      {
+        type: "heading",
+        content: `Key talking points`,
+      },
+      {
+        type: `list`,
+        items: [
+          [
+            {
+              bold: true,
+              text: `Employer National Insurance contributions: `,
+            },
+            ` The Chancellor opted to increase the employer’s
+national insurance contributions from 13.8% to 15% from April 2025. This has been combined
+with a lowering of the secondary threshold for employer’s national insurance from £9,100 to
+£5,000. However, the employment allowance has been increased from £5,000 to £10,500. The
+tax receipt from these changes is expected to be around £20bn - a large chunk of the £40bn the
+Chancellor is targeting from tax increases.`,
+          ],
+          [
+            { bold: true, text: `Capital Gains Tax (CGT) rates: ` },
+            ` with immediate effect, the CGT will rise from 10% to 18% for
+the lower rate and from 20% to 24% for the higher rate, aligning it with the rates that apply to
+residential property disposals. In addition, rates for Investor's Relief and Business Asset
+Disposal Relief will rise from 10% to 14% for disposals completed on or after April 6, 2025, and
+from 14% to 18% for disposals completed on or after April 6, 2026. Reeves also declared that
+the CGT on carried interest would rise to 32% starting in April 2025. `,
+          ],
+          [
+            { bold: true, text: `Tax Cut Triumph (Stocks Up, Yields Up): ` },
+            ` A large-scale tax cut is enacted, fuelling
+consumer spending, economic growth, and corporate earnings. This benefits smallcap and domestically focused large-cap stocks. However, the increased fiscal deficit
+pushes bond yields higher. Despite ongoing trade tensions, international stocks
+remain relatively resilient but are constrained by a stronger dollar and slowing global
+growth.`,
+          ],
+          [
+            {
+              bold: true,
+              text: `No further freezing of personal tax thresholds:  `,
+            },
+            ` there will be no further freeze on personal tax
+thresholds with these being updated in line with inflation from 2028 to 2029. `,
+          ],
+          [
+            { bold: true, text: `Domicile changes:   ` },
+            `  the Chancellor affirmed that the existing regulations governing the taxation
+of non-UK-domiciled individuals would be repealed starting in April 2025. A new residencebased program "with internationally competitive arrangements for those coming to the UK on a
+temporary basis" will take its place. A Temporary Repatriation Facility (TRF) will be implemented
+to incentivize people to send their Foreign Income and Gains (FIG) that originated in earlier
+periods and were not subject to UK taxation in prior years back to the UK. Beginning in April
+2025, Reeves extended the TRF from the 2-year period to 3 tax years. For the first two tax
+years, 2025–2026 and 2026–2027, the allocated sums will be subject to 12% tax, with the rate
+increasing to 15% for the third year, 2027–2028.  `,
+          ],
+          [
+            { bold: true, text: ` Inheritance tax (IHT) changes: ` },
+            `  the current freeze on IHT thresholds will be extended by a
+further 2 years up to 2030. 
+ `,
+          ],
+        ],
+      },
+      {
+        type: "paragraph",
+        content: `Perhaps the biggest surprise was a decision to bring inherited pensions (i.e. unused pension
+funds and death benefits) into the 40% IHT death estate from April 2027. Furthermore, starting in
+April 2026, the Business and Agricultural property relief programs will undergo modification. For
+the first £1 million of combined business and agricultural assets, the rate of relief will remain at
+100%; beyond that, it will drop to 50%. Families passing on their companies to the next
+generation will be greatly impacted by this.`,
+      },
+      {
+        type: "paragraph",
+        content: `Additionally, starting in April 2026, shares that are classified as "not listed" on the markets of a
+recognized stock exchange, such as AIM, will have their rate of business property relief reduced
+to 50% in all situations. 
+`,
+      },
+      {
+        type: `list`,
+        items: [
+          [
+            {
+              bold: true,
+              text: `Stamp Duty Land Tax for additional dwellings / second homes: `,
+            },
+            `starting from October 31,
+2024, the Stamp Duty Land Tax on Additional Dwellings will rise from 3% to 5% for secondhome acquisitions, buy-to-let residential properties, and businesses residential properties.`,
+          ],
+        ],
+      },
+      {
+        type: "heading",
+        content: `Impact on UK growth & Inflation `,
+      },
+      {
+        type: "paragraph",
+        content: `The majority of the Budget's pronouncements, including several tax-raising initiatives and
+modifications to the nation's fiscal regulations, were widely anticipated. Value-added tax (VAT) and
+income tax rates were left untouched. Rather, Chancellor Reeves increased businesses'
+contributions to workers' National Insurance payments, which support pensions and other state
+benefits, from 13.8% to 15%. Capital gains tax were also raised from 10% to 18% for the lower rate
+payers and from 20% to 24% for the higher rate payers. The Budget upheld most of Labour’s
+campaign promises including not to increase employees' National Insurance premiums. 
+`,
+      },
+      {
+        type: "paragraph",
+        content: `The Budget comes against the background where the nominal Gross Domestic Product (GDP)
+increased due to somewhat stronger-than-expected growth and rather high inflation, which made
+this year's budget easier for the government to spend. Crucially, in order to increase public
+investment at a time when debt is already high, the Chancellor also modified the government's selfimposed "fiscal rules," which is closely monitored by the independent Office for Budget
+Responsibility (OBR). `,
+      },
+      {
+        type: "paragraph",
+        content: `Existing fiscal rules specify that government debt should be on schedule to reduce as a share of
+national revenue in five years. Under the Chancellor's new "investment rule," the concept of debt
+declining as a proportion of GDP is maintained, but the timeline is adjusted to this term in parliament, which is normally five years, and the debt metric is modified to take into account illiquid
+financial assets like loans and stock holdings. By the end of this decade, the government estimates
+that it will have an additional £50 billion for infrastructure. The Chancellor also announced that
+separate governmental bodies will be formed to monitor the expenditures. A new "stability rule" that
+mandates daily government expenditures and the interest on the national debt be balanced by tax
+increases. 
+`,
+      },
+      {
+        type: "paragraph",
+        content: `With a focus on public spending, the new budget measures should boost overall growth in the near
+term -- as projected by the OBR estimates in the Chart below. The measures are likely to boost
+industries, such as infrastructure, transportation, and renewable energy, as well as the NHS. The
+budget is also aimed at addressing a longer-term issue the UK economy is facing -- the high rates of
+long-term illness and absence from work, which have increased significantly since the pandemic.
+Overall, the measures announced by the Chancellor last week will have limited inflationary impact
+as companies are likely to absorb a part of the associated costs elsewhere. `,
+      },
+      {
+        type: "description",
+        content: `Near-term boost to growth thanks to increases in government spending – OBR estimates `,
+      },
+      {
+        type: `image`,
+        src: `https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg`,
+        alt: `AI Diagram`,
+      },
+      {
+        type: "description",
+        content: `Data as of 31 Oct 2024 in % points, Source: Office for Budget Responsibility (OBR)`,
+      },
+      {
+        type: "heading",
+        content: `Budget against a better economic backdrop`,
+      },
+      {
+        type: "paragraph",
+        content: `In 2024, the UK's inflation and growth patterns have already surprised to the upside. With the
+potential boost from the Budget, growth next year could surpass 1.5%. Indeed, the UK economy
+saw one of the biggest growth upgrades of any country in the IMF’s World Economic Outlook that
+was published before the budget - 22 October. `,
+      },
+      {
+        type: "paragraph",
+        content: `Dynamics of lower-than-expected inflation has allowed the Bank of England (BoE) greater leeway to
+loosen policy, while better nominal growth has given the Labour government more fiscal headroom.
+As headline inflation drops below the BoE's objective, we anticipate a further reduction of 25 basis
+points at the two remaining BoE meetings this year, in November and December. Governor Bailey
+has acknowledged that inflation has fallen faster than the central bank had expected lately. The
+balanced approach of the Reeves’ budget should provide the BoE ample room to ease until it
+reaches a terminal rate, of around 2.5%. However, the path to that will depend on how the BoE
+evaluates inflation risks from the Budget. `,
+      },
+      {
+        type: "heading",
+        content: `Potential implications for UK assets `,
+      },
+      {
+        type: "paragraph",
+        content: `From investors’ perspective, UK gilts and equities are likely to be impacted by the budget. The
+outlook for the latter depends in the overall boost to growth from the budget and global macro
+backdrop, which has improved since the summer. Outlook for UK gilts is more nuanced we think.
+While we expect gilt issuance to show a small rise given the new spending announced in the
+Budget- bad for prices; however, we think the market can easily absorb the extra supply as
+institutional buyers seek good quality safe haven assets. Gilt’s relative valuations are more
+favourable versus other safe-haven bonds including German bunds and US Treasuries. The
+potential for a more aggressive BoE rate-cutting cycle than the Federal Reserve, along with resilient
+UK growth prospects favour gilts. Ongoing disinflation and normalising labour markets are added
+boost to gilt. `,
+      },
+      {
+        type: "paragraph",
+        content: `However, the outlook for sterling is less promising. Due to the Budget uncertainties and dollar haven
+demand before the US elections, the currency had depreciated against the US dollar in the weeks
+preceding the budget. However, with better-than-expected GDP, rapidly declining inflation, and a
+new government, it had been among the top-performing major currencies early in the year, boosting
+investor morale. Still, weak current account, foreign direct, and portfolio investment patterns indicate
+that speculative inflows were primarily responsible for this currency support. If the BoE drops rates
+more aggressively sterling will find it hard to rally meaningfully from its current level of about 1.30
+despite the growth boost from the Budget. `,
+      },
+    ],
+  },
+  {
+    slug: `welcome-back-mr-president`,
+    title: `Welcome Back Mr President! `,
+    category: `coverage`,
+    thumbnail: `https://wealthfusion.co.uk/wp-content/uploads/2024/11/Team-PP.jpg`,
+    blocks: [
+      {
+        type: `heading`,
+        content: `Introduction`,
+      },
+      {
+        type: `paragraph`,
+        content: `Donald Trump will become the 47th president of the United States. The past president is only the
+second person in American history to be re-elected to non-consecutive terms after obtaining the 270
+Electoral College votes required.`,
+      },
+      {
+        type: `paragraph`,
+        content: `Republicans will restore majority control of the Senate with at least 51 seats while final votes are
+being counted. Meanwhile, due to close contests in the House of Representatives, the general
+makeup of Congress can take a few more days or weeks to decide. Nevertheless, the election
+outcome is clear, and we think investors should base their investment strategies on what the Trump
+2.0 era may shape up to be. `,
+      },
+      {
+        type: `paragraph`,
+        content: `Immediate market reaction, US equities were up strongly on Wednesday with S&P 500 2.5% and
+the Russell 2000 small-cap index was up by around 6%. Tech-heavy Nasdaq was up 3% yesterday.
+All rising on anticipation of stronger domestic growth, increased M&A activity, an extension to
+personal tax cuts, and hopes of lower corporate taxes. By contrast, bond yields rose sharply with 10-
+year US Treasury yields rising by 18 basis points to 4.44% in anticipation of larger budget deficits
+and nominal GDP growth. In relation to the euro, the US dollar has gained 1.7% power and gold is
+down over 3%. Bitcoin rose over 10% to its highest level. 
+`,
+      },
+      {
+        type: `paragraph`,
+        content: `With a possible increase in trade tariffs under a Trump 2.0 presidency, Chinese assets fell sharply
+with the Hang Seng index falling by as much as 2% and the Chinese yuan also weakening by 0.5%
+against the US dollar. Elsewhere in Asia, Japan's Nikkei 225 index rose 2.6% and the yen slipped by
+1.5%. The Euro Stoxx 50 is up 0.9%. The Mexican peso was also in the firing line as it traded down
+by 3% against the US dollar. `,
+      },
+      {
+        type: `heading`,
+        content: `Implications for the policy, the economy, and geopolitics `,
+      },
+      {
+        type: `paragraph`,
+        content: `Trump ran on a platform of deregulation, trade tariffs, immigration controls, lowering corporate taxes,
+extending personal income tax cuts, and re-asserting the USA’s place in the world. A lot will also
+depend on what the Trump administration may look like, and who he appoints at the key positions.
+And this may take some time. Anyhow, he would have more freedom to implement his policy
+agenda if the Republicans were able to take control of Congress, and this may not get clear until a
+few days. However, given the already significant government budget deficits, several policy
+initiatives may be constrained by small congressional majorities. 
+`,
+      },
+      {
+        type: `paragraph`,
+        content: `We believe that the policy that has the most ability to affect the economy is tariffs. Global trade will
+be impacted by the planned 60% tariff on Chinese imports and 10% tax on all imports. Inversely, this
+might limit global growth and reduce domestic demand and corporate profits in the US. An additional
+round of inflationary pressures could be triggered by higher tariffs. 
+`,
+      },
+      {
+        type: `paragraph`,
+        content: `It is still too early to call what tariffs will truly pass through. In past discussions, trade or other
+concessions, or legal challenges have had a significant impact on the final tariffs to get
+implemented. Lastly, the introduction of fresh tariffs will take time to take hold and may not come
+into force until the second half of 2025 or even 2026. 
+`,
+      },
+      {
+        type: `paragraph`,
+        content: `In terms of fiscal policy, we believe that the election outcome lowers short-term fiscal risks related to
+government funding (20 December deadline) and the debt ceiling suspension's expiration (2 January
+deadline). Fiscal hawks in Congress may decide to thwart or curtail legislation that would further
+increase the deficit, particularly if Congressional majorities are limited, given that the deficit as a
+percentage of GDP is now twice as big as it was at the beginning of Trump's first term and that
+interest rates are higher. In that context, it will be interesting to see if Trump is able to do all of his
+campaign promises – lower corporate taxes to 15% from 21%, extend the expiring personal tax cuts
+until the end of 2025, and provide a number of other earned income tax exemptions. 
+`,
+      },
+      {
+        type: `paragraph`,
+        content: `Given the significant level of uncertainty around policy execution, we do not anticipate the Fed
+changing its outlook anytime soon. Instead, we expect it to continue moving toward a neutral policy
+stance. We anticipate a 25 bps rate decrease later today and in December as well with another 100
+bps of easing in 2025. If the Fed believes that changes in trade, migration, or fiscal policy will lead to
+higher inflation, it may, at the margin, reduce the rate-cutting pace. `,
+      },
+      {
+        type: `paragraph`,
+        content: `In other areas, we anticipate policies that facilitate the rapid deregulation of the financial services
+and fossil fuel energy sectors. From a geopolitical standpoint, we believe that a Trump presidency
+would likely result in a more confrontational approach with China, test transatlantic relations
+regarding trade and the conflict in Ukraine, and go for maximum pressure toward Iran, all of which
+would keep the risk of Middle East escalation high. `,
+      },
+      {
+        type: `heading`,
+        content: `What will it mean for markets? `,
+      },
+      {
+        type: `subHeading`,
+        content: `Equities `,
+      },
+      {
+        type: `paragraph`,
+        content: `The weeks after a presidential election have historically seen a surge in US stocks. As political
+uncertainty reduces, investor optimism is reflected in this post-election rally pattern (table below).
+Also, the benign US growth outlook, lower interest rates, and the ongoing structural tailwind from AI
+should lead US equities higher through to the year-end and into the next year.`,
+      },
+      {
+        type: `description`,
+        content: `How stocks have done from election day till the end of the year (source: Carson Research)`,
+      },
+      {
+        type: `image`,
+        src: `https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg`,
+        alt: `AI Diagram`,
+      },
+      {
+        type: `paragraph`,
+        content: `Under Trump, lower corporate taxes and/or deregulation will be a further boost to certain sectors
+including tech, banking, and energy. By contrast, concerns about how tariffs would affect the
+profitability of the semiconductor and hardware sector will linger in the near term. In the medium run,
+however, we think the structural growth narrative will lead these sectors higher as the supply of
+semiconductor components required for AI will likely continue to be limited. Relatedly, utilities could
+also benefit from higher power demand with the substantial expansion of AI data centers. `,
+      },
+      {
+        type: `paragraph`,
+        content: `Trump's win is an immediate plus for banks as deregulation is likely to be a theme for the
+administration. Furthermore, a strong economy and the possibility of an uptick in M&A activity will all
+be positive for large banks. Banks were the best-performing sector on Wednesday rising by 11%. 
+`,
+      },
+      {
+        type: `paragraph`,
+        content: `In stark contrast, the Trump win puts the outlook for Chinese stocks in jeopardy and increases the
+likelihood of extremely high tariffs on Chinese exports to the US. The conclusion of Friday's meeting
+of the National People's Congress (NPC) Standing Committee will be watched by markets to
+determine whether Beijing will boost and frontload stimulus spending. `,
+      },
+      {
+        type: `paragraph`,
+        content: `The outlook for European stocks is also less rosy as businesses fear the possibility of tariffs. The US
+is a large trading partner for Europe. The impact on European stocks could be limited by the fact
+that the majority of the products sold by European companies in the US are made in the US,
+meaning that only a small percentage of goods are actually exported. The exposure to China is of
+greater concern to European businesses. `,
+      },
+      {
+        type: `subHeading`,
+        content: `Bonds`,
+      },
+      {
+        type: `paragraph`,
+        content: `Expectations of stronger nominal GDP growth and bigger fiscal deficits have caused ten-year US
+Treasury rates to increase by about 18 basis points to 4.44% on Wednesday. Even while there is
+still a lot of ambiguity over whether Trump's policy program can actually be implemented or how it
+will affect inflation, the market seems to be taking a strong stance on its possible inflationary effects. `,
+      },
+      {
+        type: `paragraph`,
+        content: `We believe yesterday’s moves along with the rise in bond yields since early October have made
+bonds attractively valued. Investors with large cash balances should look to exploit the current high
+yields to lock in yields for the upcoming year. Also from a portfolio standpoint, bonds are particularly
+appealing since they have the potential to yield substantial returns in the unlikely event that the US
+enters a recession. `,
+      },
+      {
+        type: `subHeading`,
+        content: `Currencies`,
+      },
+      {
+        type: `paragraph`,
+        content: `On Wednesday, the Dollar Index (DXY) rose 1.6%. The possibility of reduced taxes, more nominal
+growth, and tariffs—all of which might support the dollar—seems to be the main focus of investors. `,
+      },
+      {
+        type: `paragraph`,
+        content: `The dollar may hold steady in the very short term, however, we continue to anticipate that the dollar
+will weaken over the next 12 months. The US's large twin budget and current account deficits, along
+with the dollar's overvaluation, will weigh on the currency. Other reserve currencies including the
+euro, yen, and sterling are likely to recoup the lost ground over the coming year. By contrast, the
+outlook for the Chinese yuan and the Mexican peso is marred by tariff wars. 
+`,
+      },
+      {
+        type: `subHeading`,
+        content: `Commodities`,
+      },
+      {
+        type: `paragraph`,
+        content: `Gold fell 3.0% on Wednesday on US dollar strength and as investors flocked to cryptos. Higher
+deficits, geopolitical unpredictability, and ongoing central bank purchases, in our opinion, should all
+contribute to future gains in the yellow metal. `,
+      },
+      {
+        type: `paragraph`,
+        content: `Oil is likely to remain under pressure from the potential deregulation in the fracking space by the
+Trump administration. Weaker Chinese demand is likely to balance out the risk premia linked to
+Middle-East tensions. `,
+      },
+    ],
+  },
+  {
+    slug: `trump-presses-ahead-with-tariffs-what-now`,
+    title: `Trump Presses Ahead with Tariffs. What Now? `,
+    category: `coverage`,
+    thumbnail: `https://wealthfusion.co.uk/wp-content/uploads/2024/11/Team-PP.jpg`,
+    blocks: [
+      {
+        type: `paragraph`,
+        content: `Over the weekend, Trump issued executive orders to impose a 25% tariff on the majority of imports
+from Canada and Mexico and an additional 10% levy on all imports from China. Mexican energy
+imports will be subject to the full 25% duty, but duties on Canadian oil imports will be much reduced
+to 10%. President Donald Trump also reaffirmed his stance warning to increase tariffs on the EU citing
+the "tremendous deficit" with the EU. Additionally, he declared that he would "eventually" impose
+taxes on pharmaceuticals, steel, copper, aluminium, and semiconductors. `,
+      },
+      {
+        type: `paragraph`,
+        content: `As expected in response, the Canadian government has announced a 25% duty on some US imports
+starting from February 4. Canada is also considering putting some restrictions on vital mineral and
+energy exports to the US. Mexico has also wowed punitive actions with tariff and non-tariff measures
+in response. China condemned the tariff hikes, claiming they were against international trade
+regulations. It also said it would contest the levies at the WTO and take "countermeasures," which
+have not yet been defined.`,
+      },
+      {
+        type: `heading`,
+        content: `How Has the Market Reacted, So Far!`,
+      },
+      {
+        type: `paragraph`,
+        content: `Investors did not take Trump's tariff threats seriously until Friday, which is why the initial market
+reaction to the news has been so negative. Some market participants continue to believe that these
+tariffs are a negotiating weapon, and they may be lifted if they believe that their trading partners are
+complying. In that context, Trump's remarks on Friday, relating the tariffs to the US's bilateral trade
+imbalances and implying that they were "purely economic," are more worrisome. Deficits are more a
+complicated beast and are not as easily "negotiated" away as other non-trade issues including drug
+trafficking and immigration. `,
+      },
+      {
+        type: `paragraph`,
+        content: `How significant the market reaction will be to the announcement will depend on how sustainable and
+effective these tariffs are and whether they are quickly rescinded as an agreement is reached or if will
+this lead to a tit-for-tat measure by the trading partners and lead into an all-out trade war. As of
+Monday morning, in the markets–`,
+      },
+      {
+        type: `image`,
+        src: `https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg`,
+        alt: `AI Diagram`,
+      },
+      {
+        type: `description`,
+        content: `Source: Bloomberg `,
+      },
+      {
+        type: `list`,
+        items: [
+          [
+            {
+              bold: true,
+              text: `Currencies. `,
+            },
+            `USD and JPY have both straightened. The dollar has traded about
+1.5% higher versus the Canadian dollar and the euro. The Mexican peso is expected to
+gap lower versus the USD on the open. The Chinese renminbi has remained firm for
+now, but China is on holiday until Wednesday. `,
+          ],
+          [
+            {
+              bold: true,
+              text: `Equities. `,
+            },
+            ` Following Friday's losses, US futures have plummeted this morning (S&P 500
+futures -1.93%, Nasdaq futures -2.46%, and Dow futures -1.0%). As the market gets ready for a
+big earnings week that includes Alphabet, Amazon, AMD, and Palantir, as well as Friday's
+Nonfarm Payrolls report, volatility may continue to be a focus. European markets began the day
+significantly lower, with the STOXX 50 down 2.4%, but by lunchtime, they had levelled off at 11
+a.m. London time, the German DAX was down 1.7%. Asian stocks plummeted with South
+Korea's KOSPI down 2.5%, and Japan's Nikkei fell 2.7%. Chinese markets closed for the Lunar
+New Year holiday but are set for tumultuous reopening on Wednesday`,
+          ],
+          [
+            {
+              bold: true,
+              text: `Bonds: `,
+            },
+            ` US treasury yields have been rangebound so far, possibly caught between the risk of
+inflation and their attraction as a safe haven, which prevented an early sell-off. On the other
+hand, European rates plummeted on Friday and opened significantly lower following the
+unexpected decline in German inflation. `,
+          ],
+          [
+            {
+              bold: true,
+              text: `Commodities: `,
+            },
+            `  Oil is the only notable asset class that traded higher on Monday morning
+on concerns that tariffs will lead to higher gasoline and diesel costs at the pumps. Meanwhile,
+gold attracted fresh safe-haven demand, reaching record highs.`,
+          ],
+          [
+            {
+              bold: true,
+              text: `Crypto. `,
+            },
+            `  Cryptocurrencies suffered over the weekend. Bitcoin -3.44% ($94,321), Ethereum -
+12.72% ($2,517), XRP -10.06%),`,
+          ],
+        ],
+      },
+      {
+        type: `heading`,
+        content: `Where Should Investors Focus?`,
+      },
+      {
+        type: `paragraph`,
+        content: `The recent round of tariffs and the looming threat towards the EU are likely to keep volatility high in
+the coming weeks, at least until investors have a better idea of where US trade policy is headed.
+`,
+      },
+      {
+        type: `paragraph`,
+        content: `More volatile markets require an increased focus on portfolios. Within equities, investors should look
+at larger companies with strong cash flows and maintain focus in the US. It is still too early to bottom
+fish, and capital preservation should be the key. At the same time, high-quality bonds including US
+Treasury and German bunds offer some insulation against uncertainty and can help diversify
+portfolios. `,
+      },
+      {
+        type: `paragraph`,
+        content: `Currency markets are likely to react strongly to changes in trade policy, giving investors the chance to
+take advantage of volatility spikes to increase portfolio income. While trade uncertainty is still quite
+high, the euro is likely to remain under pressure over the next few months. Swiss frac’s fortunes are
+closely tied to the euro, so is likely to remain weak against the USD. Sterling might end up strangely
+winning all of this, particularly if Starmer were to strike a deal with the US. All things considered, the
+strength of the US dollar is expected to persist in the near future and possibly throughout 2025.`,
+      },
+      {
+        type: `heading`,
+        content: `DXY Index
+`,
+      },
+      {
+        type: `image`,
+        src: `https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg`,
+        alt: `AI Diagram`,
+      },
+      {
+        type: `description`,
+        content: `Source: Bloomberg `,
+      },
+      {
+        type: `paragraph`,
+        content: `Gold also remains an effective hedge against geopolitical and inflation risks. Oil could also remain well
+bid in the near term.`,
+      },
+      {
+        type: `heading`,
+        content: `Disclaimer`,
+      },
+      {
+        type: `paragraph`,
+        content: `This document has been produced solely for information purposes by WealthFusion Limited with the
+greatest of care and to the best of its knowledge and belief for use by its legal entities. The information
+contained herein constitutes a marketing communication and should not be construed as financial
+research or analysis, an offer, a public offer, investment advice, a recommendation or solicitation to
+buy, sell or subscribe to financial instruments and/or to the provision of a financial service. Further,
+this document is not intended to provide any financial, legal, accounting or tax advice and should not
+be relied upon in this regard. The information provided herein is for the exclusive use of the recipient
+and may not be reproduced, disclosed or distributed, neither in part nor in full. This document is not
+directed at, or intended for distribution to or use by, any person or entity domiciled or resident in any
+jurisdiction where such distribution, publication, availability or use would be contrary to applicable
+laws or regulations of such jurisdictions. `,
+      },
+      {
+        type: `paragraph`,
+        content: `Any investment decision must be based on a prior study of the offering documentation and in
+particular the terms and conditions and key information documents. This information can be obtained
+on request and will be free of charge from your relationship manager. The content of this document is
+intended only for persons who understand and are capable of assuming all risks involved. This
+document has been prepared without taking into account the investor classification, specific
+investment objectives, financial situation, tax situation or the needs of the recipient. Products and
+services are not suitable for all investors and may not be available to investors residing in certain
+jurisdictions or with certain nationalities. Before entering into any transaction, the recipient should
+consider the suitability of the transaction to individual circumstances and objectives. WealthFusion
+Limited recommends that investors independently assess, with a professional financial advisor, the
+specific financial risks as well as the legal, regulatory, credit, tax and accounting consequences.
+Investment products may be subject to investment risks involving, but not limited to, possible loss of
+all or part of the principal investment. `,
+      },
+      {
+        type: `paragraph`,
+        content: `This document is not intended to be exhaustive on all risks related to financial instruments. Therefore,
+the recipient should consult the specific product documentation and discuss any queries with their
+relationship manager prior to entering into an investment decision. The information and views
+expressed at the time of writing are subject to change at any time without notice and there is no
+obligation to update or remove outdated information. Historical data on the performance of the
+securities and financial instruments or the underlying assets in this document is no indication for
+future performance and the value of investments may fall as well as rise. This document is based on
+publicly available information and data. Although information in this document has been obtained
+from sources believed to be reliable, WealthFusion Limited provides no guarantee with regard to the
+timeliness, accuracy or completeness of the information and does not accept any liability for any loss
+and/or damage, either directly or indirectly, arising out of or in connection with the use of all or part
+of this information or from the omission of certain information. Recipients should be aware that the
+terms and conditions and key information documents constitute the sole binding basis for the
+purchase of investment funds. Some investments may foresee restrictions to target group of investors.`,
+      },
+    ],
+  },
+  {
+    slug: `the-trust-lessons-from-the-ear-of-yarmouts-£85-million-estate-Row`,
+    title: `The Trust Lessons from the Earl of Yarmouth's £85 Million Estate Row`,
+    category: `coverage`,
+    thumbnail: `https://wealthfusion.co.uk/wp-content/uploads/2024/11/Team-PP.jpg`,
+    blocks: [
+      {
+        type: `description`,
+        content: `A family’s bitter court battle over their £85 million estate raises complex
+inheritance disputes and governance challenges`,
+      },
+      {
+        type: `image`,
+        src: `https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg`,
+        alt: `AI Diagram`,
+      },
+      {
+        type: `description`,
+        content: `The family's ancestral seat, Ragley Hall in Warwickshire / Image: Shutterstock`,
+      },
+      {
+        type: `heading`,
+        content: `Trust Lessons from the Earl of Yarmouth’s Estate Dispute`,
+      },
+      {
+        type: `paragraph`,
+        content: `A recent high-profile legal battle within the Seymour family has highlighted key lessons on trust
+governance and inheritance planning. The dispute over an £85 million estate serves as a
+cautionary tale for wealthy families managing intergenerational wealth.
+`,
+      },
+      {
+        type: `parabold`,
+        content: [
+          { bold: true, text: `Background of the Dispute` },
+          ` William Seymour, the Earl of Yarmouth, has taken legal action
+against his parents, the Marquess and Marchioness of Hertford, over the inheritance of the
+family’s ancestral estate, Ragley Hall. This historic estate, spanning farmland, woodlands, and
+multiple properties, has been passed down through generations. William expected to inherit
+the estate at 30 but claims his parents have withheld it unfairly.`,
+        ],
+      },
+      {
+        type: `parabold`,
+        content: [
+          { bold: true, text: `Family Conflicts and Legal Claims` },
+          ` The dispute appears to stem from long-standing tensions,
+particularly after William married Kelsey Wells, a former Goldman Sachs banker. His father
+claims that their relationship deteriorated sharply before the marriage, and the court heard
+that William sent inflammatory emails questioning his father’s mental capacity. These
+communications have contributed to the legal complexities of the case.`,
+        ],
+      },
+      {
+        type: "paragraph",
+        content: `Adding to the tensions, William and his wife allege that estate trustees refused to release funds
+for their children's private school fees and that they were evicted from their property on the
+6,000-acre estate with little notice. They are now challenging the structure of the family trusts
+and seeking to replace the trustees, accusing them of aligning with their parents rather than
+acting impartially.
+`,
+      },
+      {
+        type: `parabold`,
+        content: [
+          { bold: true, text: `Role of Trustees and Governance Challenges ` },
+          ` The case underscores the critical role trustees
+play in balancing the interests of beneficiaries while adhering to the original intentions of the
+trust. Trustees must manage assets responsibly, ensure fair distribution, and navigate conflicts
+without favouritism. However, disputes arise when beneficiaries feel excluded or believe
+trustees are exercising excessive control.`,
+        ],
+      },
+      {
+        type: "paragraph",
+        content: `Legal experts emphasise that trustees must uphold their fiduciary duties, invest assets
+prudently, and act in the best interests of all beneficiaries. If beneficiaries believe trustees have
+acted improperly, they may pursue legal claims, including seeking trustee removal.
+`,
+      },
+      {
+        type: `parabold`,
+        content: [
+          {
+            bold: true,
+            text: `Lessons for Wealth Planning and Succession Management `,
+          },
+          ` This case highlights key
+considerations for wealthy families in trust and estate planning:`,
+        ],
+      },
+      {
+        type: `list`,
+        items: [
+          [
+            {
+              bold: true,
+              text: `Clear Succession Planning `,
+            },
+            ` – Establishing well-documented succession plans helps
+minimise disputes and ensures expectations are aligned across generations.`,
+          ],
+          [
+            {
+              bold: true,
+              text: `Effective Communication `,
+            },
+            `– Open dialogue between family members and trustees can
+prevent misunderstandings and resolve concerns before they escalate.`,
+          ],
+          [
+            {
+              bold: true,
+              text: `Trustee Selection and Oversight  `,
+            },
+            ` – Appointing neutral, professional trustees or ensuring
+fair governance structures can help maintain objectivity and reduce conflicts.`,
+          ],
+          [
+            {
+              bold: true,
+              text: `Dispute Resolution Strategies `,
+            },
+            `– Legal battles can be costly and damaging. Mediation
+and private discussions should be the first course of action before resorting to litigation.`,
+          ],
+        ],
+      },
+      {
+        type: `parabold`,
+        content: [
+          { bold: true, text: `Navigating Family Wealth Disputes ` },
+          ` While most family trust disputes are resolved privately to
+preserve confidentiality and avoid prolonged legal costs, some cases escalate when
+relationships break down irreparably. In such situations, courts may intervene to address
+breaches of trust or appoint new trustees.`,
+        ],
+      },
+      {
+        type: "paragraph",
+        content: `The judgment in the Seymour family case remains pending, and it will serve as an important
+precedent for similar estate disputes. This case reinforces the need for well-structured
+governance, proactive planning, and open family discussions to avoid costly and public legal
+battles. For families managing significant wealth, ensuring clear legal structures and fostering
+strong relationships between trustees and beneficiaries is essential to preserving financial
+legacies across generations.
+`,
+      },
+    ],
+  },
+  {
+    slug: `wealthy-britons-embrace-creative-tactics-to-beat-inheritance-tax`,
+    title: `Wealthy Britons Embrace Creative Tactics to Beat Inheritance Tax`,
+    category: `coverage`,
+    thumbnail: `https://wealthfusion.co.uk/wp-content/uploads/2024/11/Team-PP.jpg`,
+    blocks: [
+      {
+        type: `heading`,
+        content: `Businessman Steve Perez is paying a high price to ensure
+his company survives once he’s no longer around.`,
+      },
+      {
+        type: "paragraph",
+        content: `The 68-year-old owner of a drinks and hotel chain in
+northern England is readying to hand over the princely
+sum of £100,000($130,000) a year for life insurance
+that will cover the estimated £10 million inheritance
+tax his heirs will need to pay on the business if he dies
+within the next decade.`,
+      },
+      {
+        type: "paragraph",
+        content: `The payments, which he’ll finance by taking
+dividends from his company, will cover a tax bill that
+he says his firm would otherwise struggle to pay. And
+he’s not alone.`,
+      },
+      {
+        type: "paragraph",
+        content: `“It’s about protecting the business going forward and
+to some extent my own legacy of what I’ve built up,”
+he said.`,
+      },
+      {
+        type: "paragraph",
+        content: `Across the UK, entrepreneurs and more affluent
+Britons are grappling with changes to inheritance tax
+that are upending traditional strategies for transferring
+family wealth. The ability to pass on pensions and
+businesses mostly tax free will soon be gone,leaving
+the prospect of tax at as much as 40% and the
+unappetizing possibility of forced asset sales or the
+breakup of a business to cover the potential costs.
+`,
+      },
+      {
+        type: "paragraph",
+        content: `“Suddenly [people are] looking at a large inheritance
+tax bill when they weren’t planning to look at an
+inheritance tax bill at all,” said Clare Munro, a senior
+tax adviser at Weatherbys Private Bank in London.`,
+      },
+      {
+        type: "heading",
+        content: `“People are sort of thinking, ‘Well,
+actually, I may not totally trust my
+relatives but I dislike the government
+rather more.”`,
+      },
+      {
+        type: "paragraph",
+        content: `Major changes by the Labour government include
+new levies on businesses, pensions and farmlands
+and the freezing of thresholds at which inheritance tax kicks in as part of plans to strengthen the
+country’s finances. From April next year farms and
+businesses will be taxed at 20% above £1 million. A
+year later, pensions will also be included in a person’s
+estate and taxed accordingly.`,
+      },
+      {
+        type: "paragraph",
+        content: `The government is also keeping the rate on which no
+inheritance tax is due at £325,000 until 2030. After
+that amount, the levy is 40%. That means that
+inflation and rising property values are likely to bring
+more estates into the tax net.
+`,
+      },
+      {
+        type: "paragraph",
+        content: `Right now, only about 4% of the UK population is
+liable for inheritance tax, which in 2024 raised about
+£7.5 billion. But there’s few more emotive topics in
+personal finance — or more disliked taxes. Pension
+changes especially have irked older Britons who say
+they’ve saved for decades only to see their plans for
+passing on their assets overturned. The government
+and those in favor of the reforms say there’s no good
+reason why pensions should even have been used as
+a wealth-planning strategy in the first place.`,
+      },
+      {
+        type: "paragraph",
+        content: `Small business owners are confronted with a range of
+challenges, ranging from the shareholder structures
+when it comes to inheritance and, in some cases, how
+to value the company to prepare for the day when the
+tax becomes due.`,
+      },
+      {
+        type: "paragraph",
+        content: `The uncertainty is proving a boon for financial
+advisers and wealth managers. They’re reporting a
+surge in interest from those looking to understand the
+changes and explore options. But even they say it’s
+going to hurt.`,
+      },
+      {
+        type: "paragraph",
+        content: `“I’m sitting there, hoping that the government
+doesn’t go through with it. It’s put me in a really
+difficult position.”
+`,
+      },
+      {
+        type: "heading",
+        content: `“Right now, only about 4% of the UK population is liable for
+inheritance tax, which in 2024 raised about £7.5 billion.”`,
+      },
+      {
+        type: "paragraph",
+        content: `“We’ve been incredibly busy,” said Helen Clarke, a
+partner at full-service law firm Irwin Mitchell. She
+said she’s seen an unprecedented amount of clients
+calling with assets over £2 million.`,
+      },
+      {
+        type: "paragraph",
+        content: `The policy changes are expected to raise £2.3 billion
+per year by 2029, according to government estimates,
+though it’s unclear by how much that amount could
+be reduced as people examine strategies.`,
+      },
+      {
+        type: "paragraph",
+        content: `Those range from simply drawing more on pensions,
+which allow 25% to be taken tax-free as a one-off , to
+establishing a trust to pass on assets to children, to
+gifting property and even, as with hotel owner Perez,
+to take on outsized life insurance policies to help
+cover the cost of the tax.`,
+      },
+      {
+        type: "paragraph",
+        content: `Pensions are at the heart of the changes. One popular
+strategy advisors are already seeing is people taking
+more from them since they will soon form part of a
+person’s estate.`,
+      },
+      {
+        type: "paragraph",
+        content: `“The best inheritance tax planning in the world is
+enjoying what you’ve accumulated,” said Munro,
+“Spend it, gift it, have a ball.” People taking more
+money out of their pension pots are either gifting it to
+family members, or spending it all now, she said. In
+the UK, a gift is exempt provided it occurs at least
+seven years before the person dies.`,
+      },
+      {
+        type: "paragraph",
+        content: `Jim Everard, a 64-year old Somerset-based retiree, is
+taking the advice on spending to heart. He recently
+doubled the amount of money he takes from his
+pension and is splashing out on holidays and a new
+car.
+`,
+      },
+      {
+        type: "paragraph",
+        content: `The former IT manager, who retired six years ago,
+has taken long-haul trips in the past year to ski in
+Japan and visit family in Australia. He has three more
+similar vacations booked and plans to spend 15-to-20
+weeks of the year abroad. He’s also eyeing up a
+Polestar Volvo electric car to replace his BMW.`,
+      },
+      {
+        type: "paragraph",
+        content: `“As there’s no tax benefit, I just spend it for a good
+time, basically mainly foreign holidays,” he said.`,
+      },
+      {
+        type: "paragraph",
+        content: `Besides exotic travels, some well-heeled Britons are
+contemplating giving more of their wealth — and
+earlier — to family, compared to when they hoped to
+transfer it when they passed, Munro said.`,
+      },
+      {
+        type: "paragraph",
+        content: `“People are sort of thinking, ‘Well, actually, I may
+not totally trust my relatives but I dislike the
+government rather more.”`,
+      },
+      {
+        type: "paragraph",
+        content: `Lak Sidhu, a 59-year old finance director in
+Maidenhead, Berkshire,is well on that path already. `,
+      },
+      {
+        type: "heading",
+        content: `“Pensions are at the
+heart of the changes.”`,
+      },
+      {
+        type: "paragraph",
+        content: `He plans to give more away to his three children, all
+in their twenties, and has already paid off their
+student debt. He’s started putting cash into their
+tax-efficient stock accounts and is also planning to
+help them onto the property ladder.`,
+      },
+      {
+        type: "paragraph",
+        content: `“This budget has made us think a lot harder about
+what we plan to do with our pension,” he said. “I’ll
+probably start handing down my wealth to my
+children sooner, making sure there’s enough in the
+kitty for the wife and I.”`,
+      },
+      {
+        type: "paragraph",
+        content: `In the case of business owners, there are particular
+problems for those with younger heirs. Hotel owner
+Perez is considering gifting some of his assets to his
+25-year-old son, but believes he’s too young to take
+over the firm. “Perhaps in ten years’ time or so, he
+might hopefully be in a position where he could run
+the business.”`,
+      },
+      {
+        type: "paragraph",
+        content: `Individuals are also shifting their assets from pension
+pots and businesses to trusts and some mid-size UK
+company stocks exempt from tax, said Liviu Ratoi, a
+financial adviser with wealth firm Flying Colours.`,
+      },
+      {
+        type: "paragraph",
+        content: `Still, the changes and general uncertainty underscore
+the already challenging strategy of inheritance
+planning given the difficulties of predicting life
+expectancy, end-of-life healthcare costs and changes
+to family dynamics, he said.`,
+      },
+      {
+        type: "paragraph",
+        content: `Some are instead taking more of a wait-and-see
+approach in the hope that a future government could
+reverse some of the new policies, Ratoi said.`,
+      },
+      {
+        type: "heading",
+        content: `“The best inheritance tax
+planning in the world is
+enjoying what you’ve
+accumulated, Spend it,
+gift it, have a ball.”`,
+      },
+      {
+        type: `image`,
+        src: `https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg`,
+        alt: `AI Diagram`,
+      },
+      {
+        type: `description`,
+        content: `“Individuals are also shifting their assets from pension
+pots and businesses to trusts and some mid-size UK
+company stocks exempt from tax”`,
+      },
+      {
+        type: "paragraph",
+        content: `That’s the case for Michael Brundle, a
+Rainham-based owner of a £80 million delivery
+service business that goes back five generations. The
+51-year-old reckons he’s looking at a £16 million tax
+bill from his business on his death, something that
+would effectively bankrupt the company — or force a
+breakup.`,
+      },
+      {
+        type: "paragraph",
+        content: `He’s considering selling his firm, leaving the country,
+putting assets in a trust or gifting it to his kids. But his
+children are still teenagers and he’s not wild about the
+other options either. `,
+      },
+      {
+        type: "paragraph",
+        content: `“The last thing I want to do is leave some enormous
+liability for my wife to work out,” he said, “But I’m
+sitting there, hoping that the government doesn’t go
+through with it. It’s put me in a really difficult
+position.”`,
       },
     ],
   },

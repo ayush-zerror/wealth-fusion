@@ -6,7 +6,7 @@ const Section1 = ({ insight }) => {
     <>
       <div id="details-ig1">
         <h1>{insight?.title}</h1>
-        <span>January 18, 2025 by Liam McCann</span>
+        <span>May 02, 2025</span>
         <img src={insight?.thumbnail} alt={insight?.title} />
         {insight.blocks.map((block, index) => RenderContentBlock(block, index))}
       </div>

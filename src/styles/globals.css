@@ -1311,7 +1311,7 @@ iframe {
 }
 #details-ig1 h2 {
   font-family: heading2;
-  font-size: 25px;
+  font-size: 30px;
   font-weight: 500;
   width: fit-content;
   color: #0a1e37;
@@ -1329,6 +1329,14 @@ iframe {
   object-fit: cover;
   margin: 60px 0;
 }
+.insight-image{
+  width: 100%;
+  height: auto;
+  margin-bottom: 25px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
 #details-ig1 p {
   font-family: paraLight;
@@ -1339,17 +1347,18 @@ iframe {
 
 #details-ig1 h4 {
   font-family: heading2;
-  font-size: 25px;
-  font-weight: 500;
-  line-height: 120%;
-  margin-bottom: 30px;
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 150%;
+  margin-bottom: 20px;
 }
 #details-ig1 h5 {
   font-family: heading2;
-  font-size: 22px;
-  font-weight: 500;
+  font-size: 18px;
+  font-weight: 600;
   line-height: 120%;
   margin-bottom: 30px;
+  text-align: center;
 }
 #details-ig1 strong{
   font-weight: 600;
