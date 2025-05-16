@@ -7,6 +7,14 @@ const Section1 = () => {
    useEffect(()=>{
       var tl = gsap.timeline();
       tl
+        .set("#impact-section1", {
+      y: -50,
+    })
+      .to("#impact-section1", {
+        opacity: 1,
+        y: 0,
+        duration: 1.6,
+      })
       .to('#impact-section1 h2', {
         clipPath:"polygon(0 0, 100% 0, 100% 100%, 0% 100%)",
         stagger: {
@@ -14,7 +22,7 @@ const Section1 = () => {
         },
         ease: "power2.out",
         duration: 1.2,
-        delay: .1
+        // delay: .1
         })
         return () => {
           tl.kill()

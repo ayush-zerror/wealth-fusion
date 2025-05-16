@@ -368,7 +368,7 @@ body {
 }
 .service-container-main .service-card {
   width: 48%;
-  height: 500px;
+  height: 530px;
   margin-bottom: 0;
 }
 .service-container-main .service-card:nth-child(1){
@@ -378,7 +378,7 @@ body {
   margin-bottom: 4%;
 }
 .service-container-main .img-container {
-  height: 270px;
+  height: 300px;
 }
 .service-container-main .card-text-wrap {
   height: 180px;
@@ -605,6 +605,7 @@ iframe {
   background-color: #0a1e37;
   overflow: hidden;
   position: relative;
+  opacity: 0;
 }
 .about-overlay1 {
   width: 100%;
@@ -934,6 +935,7 @@ iframe {
   padding-top: 85px;
   overflow: hidden;
   position: relative;
+  opacity: 0;
 }
 .impact-overlay1 {
   width: 100%;
@@ -1686,7 +1688,7 @@ iframe {
 }
 #privacy-section1 h4 {
   font-family: heading2;
-  font-size: 25px;
+  font-size: 30px;
   font-weight: 500;
   line-height: 100%;
   margin-bottom: 30px;
@@ -1725,7 +1727,7 @@ iframe {
 }
 #terms-section1 h4 {
   font-family: heading2;
-  font-size: 25px;
+  font-size: 30px;
   font-weight: 500;
   line-height: 100%;
   margin-bottom: 30px;
@@ -1764,7 +1766,7 @@ iframe {
 }
 #mpolicy-section1 h4 {
   font-family: heading2;
-  font-size: 25px;
+  font-size: 30px;
   font-weight: 500;
   line-height: 100%;
   margin-bottom: 30px;
@@ -1806,7 +1808,7 @@ iframe {
 }
 #disclaimer-section1 h4 {
   font-family: heading2;
-  font-size: 25px;
+  font-size: 30px;
   font-weight: 500;
   line-height: 100%;
   margin-bottom: 30px;

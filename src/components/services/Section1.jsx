@@ -13,6 +13,7 @@ const Section1 = () => {
       duration: 1.2,
     })
   }, [])
+  
 
   return (
     <div id='service-section1'>
