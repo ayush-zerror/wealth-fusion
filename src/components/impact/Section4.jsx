@@ -90,12 +90,12 @@ const Section4 = () => {
                         <p>True to our core founding values, the WF Give Back Day embodies the best of who we are – helping the world grow with us. As part of the WF Give Back Day, we pledge to donate the entire revenue generated from this day to the charities and causes we support.</p>
                     </div>
                     <div className="img-container-imp">
-                        <Image width={1000} height={1000}  src='/images/ig6.jpg' alt='section5' />
+                        <Image width={1000} height={1000}  src='/images/ig6.webp' alt='section5' />
                     </div>
                 </div>
                 <div className='container-section5-imp container-section5-slide '>
                     <div className="img-container-imp">
-                        <Image src='/images/ig3.jpg' width={1000} height={1000} alt='section5' />
+                        <Image src='/images/ig3.webp' width={1000} height={1000} alt='section5' />
                     </div>
                     <div className="text-container-imp text-container2">
                         <h4>Supporting Community at</h4>

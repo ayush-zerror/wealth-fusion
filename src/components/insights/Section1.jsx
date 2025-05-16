@@ -34,7 +34,7 @@ const Section1 = () => {
       <h4>Where Wealth Meets Wisdom.</h4>
       <div className='insight-sec1'>
         <div className="side1">
-          <Image width={1000} height={1000} src="/images/ig10.jpg" alt="insight1"/>
+          <Image width={1000} height={1000} src="/images/ig10.webp" alt="insight1"/>
         </div>
         <div className="side2">
           <span>announcements</span>

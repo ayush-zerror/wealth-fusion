@@ -29,7 +29,7 @@ const Section1 = () => {
       </div>
        </div>
         <div className='about-banner'>
-            <Image width={1000} height={1000}  src="/images/ig15.jpg" alt='about-banner'/>
+            <Image priority width={1000} height={1000}  src="/images/ig15.webp" alt='about-banner'/>
         </div>
     </div>
   )

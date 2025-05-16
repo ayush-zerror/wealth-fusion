@@ -31,7 +31,7 @@ const Section1 = () => {
         </div>
       </div>
       <div className='impact-banner'>
-        <Image width={1000} height={1000} src="/images/ig7.jpg" alt='about-banner' />
+        <Image width={1000} priority height={1000} src="/images/ig7.webp" alt='about-banner' />
       </div>
     </div>
   )

@@ -1247,7 +1247,7 @@ said.`,
     slug: `market-at-crossroads-scenarios-that-could-shape-the-next-big-move`,
     title: `Market At Crossroads Scenarios That Could Shape the Next Big Move`,
     category: `coverage`,
-    thumbnail: `https://wealthfusion.co.uk/wp-content/uploads/2024/11/Team-PP.jpg`,
+    thumbnail: `/coverage/c7t.webp`,
     blocks: [
       {
         type: `paragraph`,

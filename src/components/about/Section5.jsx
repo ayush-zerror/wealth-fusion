@@ -89,12 +89,12 @@ const Section5 = () => {
                         <p>A one-stop solution provider for all of our clients’ financial and non-financial needs, spanning portfolio management, wealth planning, ESG-responsible investing, all handheld by subject matter experts.</p>
                     </div>
                     <div className="img-container-imp">
-                        <Image width={1000} height={1000} src='/images/ig16.jpg' alt='section5' />
+                        <Image width={1000} height={1000} src='/images/ig16.webp' alt='section5' />
                     </div>
                 </div>
                 <div className='container-section5-imp container-section5-slide '>
                     <div className="img-container-imp">
-                        <Image width={1000} height={1000} src='/images/ig12.jpg' alt='section5' />
+                        <Image width={1000} height={1000} src='/images/ig12.webp' alt='section5' />
                     </div>
                     <div className="text-container-imp text-container2">
                         <h4>Multi-Family Office</h4>
@@ -107,12 +107,12 @@ const Section5 = () => {
                         <p>We recognise that our clients are unique in how they operate their businesses, but most importantly in the way they think, feel and act. At Wealthfusion, we operate not only with a focus on strategies that drive financial returns, but also with Optimised Emotional Intelligence to connect strategy with Creativity, Relationships with Aspirations, Centred Around our Client Goals.</p>
                     </div>
                     <div className="img-container-imp">
-                        <Image width={1000} height={1000} src='/images/ig13.jpg' alt='section5' />
+                        <Image width={1000} height={1000} src='/images/ig13.webp' alt='section5' />
                     </div>
                 </div>
                 <div className='container-section5-imp container-section5-slide'>
                     <div className="img-container-imp">
-                        <Image width={1000} height={1000} src='/images/ig14.jpg' alt='section5' />
+                        <Image width={1000} height={1000} src='/images/ig14.webp' alt='section5' />
                     </div>
                     <div className="text-container-imp text-container2">
                         <h4>High Quality Service and</h4>
@@ -126,7 +126,7 @@ const Section5 = () => {
                         <p>In a world of complex tax regimes, all Wealthfusion investment management discussions begin with asset structuring for our client’s household.  Our team of investment managers are here to constantly manage and review regulatory guidelines and developments across international jurisdictions, to keep your international portfolio compliant and agile to deliver you the best possible results</p>
                     </div>
                     <div className="img-container-imp">
-                        <Image width={1000} height={1000} src='/images/ig17.jpg' alt='section5' />
+                        <Image width={1000} height={1000} src='/images/ig17.webp' alt='section5' />
                     </div>
                 </div>
             </div>
