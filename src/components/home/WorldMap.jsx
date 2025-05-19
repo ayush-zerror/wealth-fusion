@@ -20,7 +20,7 @@ const markers = [
 
 const WorldMap = () => {
   return (
-    <div style={{ width: "100%", height: "100vh", overflow: "hidden",userSelect:"none" }}>
+    <div style={{ width: "100%", height: "100vh", overflow: "hidden",userSelect:"none",backgroundColor:'#F7F3ED' }}>
       <ComposableMap
         projectionConfig={{ scale: 170 }}
         width={1000}
@@ -34,8 +34,8 @@ const WorldMap = () => {
                 key={geo.rsmKey}
                 geography={geo}
                 style={{
-                  default: { fill: "#EAEAEC", outline: "none" },
-                  hover: { fill: "#0A1E37", outline: "none" },
+                  default: { fill: "white", outline: "none" },
+                  hover: { fill: "#D6D6DA", outline: "none" },
                   pressed: { fill: "#D6D6DA", outline: "none" },
                 }}
               />

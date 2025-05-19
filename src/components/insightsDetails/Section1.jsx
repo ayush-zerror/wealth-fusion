@@ -8,7 +8,11 @@ const Section1 = ({ insight }) => {
         <h1>{insight?.title}</h1>
         <span>May 02, 2025</span>
         <img src={insight?.thumbnail} alt={insight?.title} />
-        {insight.blocks.map((block, index) => RenderContentBlock(block, index))}
+        <div id="block-container">
+          {insight.blocks.map((block, index) =>
+            RenderContentBlock(block, index)
+          )}
+        </div>
       </div>
     </>
   );

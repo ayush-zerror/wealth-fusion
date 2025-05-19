@@ -15,8 +15,17 @@ const Section3 = ({InsightData}) => {
           </div>
           <div className='desc-service'>
             <div className='card-text-wrap'>
-                <h4>{insight?.title.substring(0,30)}...</h4>
-                <p>{`Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vero reprehenderit ipsa in mollitia repudiandae dolorem dicta numquam ex, saepe iusto. Quaerat maiores unde illo voluptas, ad omnis mollitia id, suscipit ratione itaque enim illum ipsa vitae. Animi reiciendis earum saepe laboriosam. Expedita excepturi doloremque, labore accusamus sed minus nemo aperiam et. A dicta numquam sapiente sequi earum illum dignissimos neque`.substring(0,105)}...</p>
+                <h4>{insight?.title.substring(0,39)}...</h4>
+                 <p>
+                  {(() => {
+                    const first = insight?.blocks[0]?.content || "";
+                    const second = insight?.blocks[1]?.content || "";
+                    const combined =
+                      first + (first && second ? " " : "") + second;
+                    const trimmed = combined.substring(0, 105);
+                    return trimmed + (combined.length > 105 ? "..." : "");
+                  })()}
+                </p>
                        
             </div>
             <span>Read More</span>

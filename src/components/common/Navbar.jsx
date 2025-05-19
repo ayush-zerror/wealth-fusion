@@ -58,7 +58,7 @@ const Navbar = () => {
       <div className='links'>
         {MenuData.map((item, index) => (
           <div key={index} className='nav-item'>
-            <Link href={item.path} className={`${item.name === "Contact" ? 'contact-btn' : 'underline'}`}>
+            <Link href={item.path} id={`${route.pathname === item.path ? 'active':''}`} className={`${item.name === "Contact" ? 'contact-btn' : 'underline'}`}>
               {item.name}
             </Link>
             {item.subItems && (
