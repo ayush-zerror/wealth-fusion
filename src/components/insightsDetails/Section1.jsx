@@ -1,5 +1,5 @@
 import { RenderContentBlock } from "@/utils/RenderContentBlock";
-import React from "react";
+import React, { Fragment } from "react";
 
 const Section1 = ({ insight }) => {
   return (
@@ -10,7 +10,9 @@ const Section1 = ({ insight }) => {
         <img src={insight?.thumbnail} alt={insight?.title} />
         <div id="block-container">
           {insight.blocks.map((block, index) =>
-            RenderContentBlock(block, index)
+           <Fragment key={index}>
+             {RenderContentBlock(block, index)}
+           </Fragment>
           )}
         </div>
       </div>

@@ -755,9 +755,7 @@ iframe {
   transition: all 0.4s ease-in-out;
   filter: grayscale(100%);
 }
-.team-container .profile.unfilter img {
-  filter: none;
-}
+
 .team-container h4 {
   font-family: heading2;
   font-weight: 500;

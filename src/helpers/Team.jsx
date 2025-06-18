@@ -1,17 +1,17 @@
 export const Team = [
     {
         name: "Kali Mulchandani",
-        role: "Co-founder & Chairman of the Board",
+        role: "Co-Founder & Chairman",
         image: "/team/Kali Mulchandani.webp",
         linkedin: "",
-        bio: "Kali brings decades of leadership experience in business strategy and corporate governance, ensuring the company's long-term growth and stability."
+        bio: "Strategic vision and global experience define Kali’s leadership, rooted in a legacy of values-driven wealth stewardship."
     },
     {
         name: "Udit Garg",
         role: "Co-Founder & Managing Director",
         image: "/team/Udit Garg.webp",
         linkedin: "",
-        bio: "Udit is a visionary entrepreneur with expertise in business development and financial strategy, driving the firm’s expansion and innovation."
+        bio: "Udit leads client strategy with a focus on long-term alignment and performance-driven personalization."
     },
     {
         name: "Rajesh Jogi",
@@ -75,39 +75,17 @@ export const Team = [
         image: "/team/Amer Samra.webp",
         linkedin: "",
         bio: "Amer specializes in market research and investment analysis, assisting in portfolio management and financial decision-making."
-    },
-    {
-        name: "Piyush Shah",
-        role: "Investment Analyst",
-        image: "/team/Piyush Shah.webp",
-        linkedin: "",
-        bio: "Amer specializes in market research and investment analysis, assisting in portfolio management and financial decision-making."
-    },
-    {
-        name: "Arya Taware",
-        role: "Investment Analyst",
-        image: "/team/Arya Taware.webp",
-        linkedin: "",
-        bio: "Amer specializes in market research and investment analysis, assisting in portfolio management and financial decision-making."
-    },
-    {
-        name: "Rahul Mulchandani",
-        role: "Investment Analyst",
-        image: "/team/Rahul Mulchandani.webp",
-        linkedin: "",
-        bio: "Amer specializes in market research and investment analysis, assisting in portfolio management and financial decision-making."
     }
-
 
 ];
 
 export const Committee = [
     {
         name: "Jane Grier",
-        role: "Co-founder & Chairman of the Board",
+        role: "Head of Risk Management, Member of the Board",
         image: "/team/Jane Grier.webp",
         linkedin: "",
-        bio: "Nia ensures smooth day-to-day operations, optimizing processes and improving efficiency across departments for business success."
+        bio: "Jane leads compliance and risk governance, ensuring WealthFusion’s advice remains ethical, secure, and future-ready."
     },
     {
         name: "Rajesh Jogi",
@@ -124,11 +102,11 @@ export const Committee = [
         bio: "Varsini manages office operations and compliance protocols, ensuring regulatory adherence and smooth internal processes."
     },
     {
-        name: "Shadaan Tabani",
-        role: "Member of the Board",
+        name: "Rajesh Yadav",
+        role: "Investment Director & Head of Investments",
         image: "/team/Shadaan Tabani.webp",
         linkedin: "",
-        bio: "Jane leads human resources, risk management, and compliance, ensuring a strong corporate culture and regulatory adherence."
+        bio: "Rajesh brings rigorous market insight and global portfolio structuring experience to drive client outcomes."
     },
     {
         name: "Amit Puri",

@@ -31,7 +31,7 @@ export async function getStaticProps({ params }) {
   const insight = InsightData.find((item) => item.slug === params.slug);
 
   const similarInsights = InsightData.filter(
-    (item) => item.slug !== params.slug && item.category === insight.category
+    (item) => item.slug !== params.slug  
   ).slice(0, 4); // get first 4
 
   return {

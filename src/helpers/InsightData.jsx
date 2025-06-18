@@ -2,7 +2,7 @@ export const InsightData = [
   {
     slug: `i-inherited-a-windfall-it-was-a-blessing-and-a-curse`,
     title: `I Inherited a windfall - it was a blessing and a curse`,
-    category: `coverage`,
+    category: [`archive`],
     thumbnail: `https://wealthfusion.co.uk/wp-content/uploads/2024/12/view-window-24.jpg`,
     blocks: [
       {
@@ -284,7 +284,7 @@ didn't".
   {
     slug: `market-correction-what-is-ahead-for-investors`,
     title: `Market Correction – What is Ahead for Investors!`,
-    category: `coverage`,
+    category: [`archive`],
     thumbnail: `https://wealthfusion.co.uk/wp-content/uploads/2024/11/Team-PP.jpg`,
     blocks: [
       { type: `heading`, content: `Introduction` },
@@ -442,260 +442,9 @@ air pocket in the ongoing recovery in the market.`,
     ],
   },
   {
-    slug: `the-tragic-inheritance-tax-quirk-that-could-save-you-£400k`,
-    title: `The tragic inheritance tax quirk that could save you £400k`,
-    category: `coverage`,
-    thumbnail: `https://wealthfusion.co.uk/wp-content/uploads/2024/11/Team-PP.jpg`,
-    blocks: [
-      {
-        type: `heading`,
-        content: `“Couples who die at the same time can pass on all of the
-older person’s assets free of inheritance tax.”
-`,
-      },
-      {
-        type: `paragraph`,
-        content: `The little-known rule can save relatives hundreds of
-thousands of pounds if their loved ones’ deaths were
-simultaneous or when it is unknown who died first.`,
-      },
-      {
-        type: `paragraph`,
-        content: `But the law only works this way in England and
-Wales, and not in Scotland and Northern Ireland.`,
-      },
-      {
-        type: `paragraph`,
-        content: `It comes as estates in the UK have already paid a
-record. £7bn in inheritance tax this financial year, up
-£700m on the same period last year, and it’s expected
-to rocket after Labour makes pensions liable for the
-charge in 2027.`,
-      },
-      {
-        type: `description`,
-        content: `Inheritance tax haul hits record levels`,
-      },
-      {
-        type: `image`,
-        src: `/coverage/c31.webp`,
-        alt: `image`,
-      },
-      {
-        type: `paragraph`,
-        content: `Known informally as the death duty, inheritance tax is
-charged at 40pc. Individual estates come with a
-“nil-rate band” of £325,000, which escapes the
-charge, and another £175,000 – the residence nil-rate
-band – can be claimed on a main property left to
-direct descendants.`,
-      },
-      {
-        type: `paragraph`,
-        content: `Married couples or civil partners can combine
-allowances to £1m, even if one has already died, and
-there’s no inheritance tax on anything they leave to
-each other.
-`,
-      },
-      {
-        type: `paragraph`,
-        content: `However, if a married or civil partnered couple both
-die, they have wills and it’s unknown who passed
-away first – such as if they are involved in an accident
-where they live plays a huge role in the inheritance tax
-due.`,
-      },
-      {
-        type: `paragraph`,
-        content: `In England and Wales, when the order of death is
-unknown, it’s legally presumed that the eldest passed
-away first. Where inheritance tax is a consideration,
-they are judged to have died simultaneously.`,
-      },
-      {
-        type: `paragraph`,
-        content: `This means if a married couple died together with
-£2m of assets including a home, it would first pass
-from the elder to the younger without any inheritance
-tax. `,
-      },
-      {
-        type: `paragraph`,
-        content: `When it was then passed on again, as the deaths are
-considered simultaneous, the elder person’s share is
-excluded and only the younger person’s half would be
-considered for inheritance tax. If it was left to the
-couple’s children, the available allowances mean the
-charge would be £0 in this case.`,
-      },
-      {
-        type: `paragraph`,
-        content: `The same would apply to any assets the older person
-held solely, such as Isas, shares or property – which
-can be substantial. They pass to their deceased spouse
-and then instantly to their children, but are not
-considered for inheritance tax.`,
-      },
-      {
-        type: `paragraph`,
-        content: `This is even more beneficial than if they had died a
-day apart, because in that situation the first person’s
-assets would also have been assessed and taxed.`,
-      },
-      {
-        type: `subHeading`,
-        content: `Estates in the UK have already paid a
-record. £7bn in inheritance tax this
-financial year, up £700m on the same
-period last year`,
-      },
-      {
-        type: `subHeading`,
-        content: `If a married couple died together with £2m of assets including a home, it would first pass from the elder to the
-younger without any inheritance tax.`,
-      },
-      {
-        type: `description`,
-        content: `Rate of inheritance tax paid on gifts, in the event of the
-donor’s death`,
-      },
-      {
-        type: `image`,
-        src: `/coverage/c32.webp`,
-        alt: `image`,
-      },
-      {
-        type: `paragraph`,
-        content: `In Scotland and Northern Ireland, however, both
-people are presumed to have died simultaneously,
-so their assets don’t pass to the other. Inheritance
-tax would be charged for each person, leaving their
-beneficiaries with a total bill of £400,000 in this
-scenario. The same applies to any individual assets.
-`,
-      },
-      {
-        type: `paragraph`,
-        content: `If the couples were not married or civil partners, there
-could be more inheritance tax to pay in each country as
-there would be no £175,000 residence nil rate bands.`,
-      },
-      {
-        type: `paragraph`,
-        content: `Clare Moffat, of Royal London, said: “If something
-like this happens, it’s so hard on families having to deal
-with not only one but two deaths. The fact that you’re
-going to have a bigger inheritance tax bill depending
-on where you live can make an already difficult time
-even harder.`,
-      },
-      {
-        type: `paragraph`,
-        content: `“For a couple whose wealth is passed on to their
-children, more tax would be paid in Scotland
-andNorthern Ireland. I don’t think there’s anything
-youcan do that’s going to change the situation, but it
-just shows how important planning is.
-`,
-      },
-      {
-        type: `paragraph`,
-        content: `“It’s vital to think about and talk through the things you
-actually can control.”`,
-      },
-      {
-        type: `paragraph`,
-        content: `Simultaneous deaths are rare, as is research on the
-topic. In 1994, the US-based Committee on Individual
-Life Insurance Experience Studies examined policies
-from 29 providers and found that in every 1,000
-deaths, 40 occurred from a common cause or within 30
-days of each other. The sample included four aviation
-accidents and three car crashes.`,
-      },
-      {
-        type: `paragraph`,
-        content: `Studies have also shown that people have a
-significantly higher risk of dying within the first 90
-days of losing their spouse, known as the “widowhood
-effect”.`,
-      },
-      {
-        type: `paragraph`,
-        content: `However, where the order of death is clear and there is
-a gap, or the eldest has a survivorship clause dictating
-that the beneficiary must outlive them by a certain
-number of days, the exemption for England and Wales
-would not apply.`,
-      },
-      {
-        type: `description`,
-        content: `Deaths triggerings inheritance tax to double`,
-      },
-      {
-        type: `image`,
-        src: `/coverage/c33.webp`,
-        alt: `image`,
-      },
-      {
-        type: `paragraph`,
-        content: `James Ward, of law firm Kingsley Napley, said: “This
-provision exists so that if, for example, a father and son
-die together and the father left his estate to his son, they
-are not subject to inheritance tax on the estate twice.`,
-      },
-      {
-        type: `paragraph`,
-        content: `“However, this is not applicable if the elder person dies
-without a will or there is a survivorship clause in their
-will, which would state that the beneficiary must live
-for a set amount of days to inherit the estate.
-`,
-      },
-      {
-        type: `paragraph`,
-        content: `“All the survivorship clauses we write have an
-exception for simultaneous deaths to provide for this
-scenario.”`,
-      },
-      {
-        type: `paragraph`,
-        content: `Alison Penny, of the Childhood Bereavement
-Network, said around 27,000 parents with children
-under 18 die each year.
-`,
-      },
-      {
-        type: `paragraph`,
-        content: `She added: “Sadly, in some rare cases, both parents
-die at the same time, leaving the children facing huge
-upheaval alongside their grief and devastation.`,
-      },
-      {
-        type: `paragraph`,
-        content: `“We encourage all parents to plan ahead to put things
-in place that would make things more comforting and
-comfortable for their children if one or both were to die
-before the children grow up. That could be appointing
-guardians, writing letters to their child’s future self, and
-planning their finances for all eventualities.”`,
-      },
-      {
-        type: `subHeading`,
-        content: `We encourage all parents to plan
-ahead to put things inplace that
-would make things more comforting
-and comfortable for their children if
-one or both were to die before the
-children grow up.`,
-      },
-    ],
-  },
-  {
     slug: `dividend-stocks-potential-to-outshine-bonds-in-a-low-interest-rate-environment`,
     title: `Dividend Stocks – potential to Outshine Bonds in a Low Interest Rate Environment`,
-    category: `coverage`,
+    category: [`archive`],
     thumbnail: `https://wealthfusion.co.uk/wp-content/uploads/2024/11/Team-PP.jpg`,
     blocks: [
       {
@@ -898,246 +647,9 @@ funds. Some investments may foresee restrictions to target group of investors.`,
     ],
   },
   {
-    slug: `europes-quiet-comeback`,
-    title: `Europe's Quiet Comeback`,
-    category: `coverage`,
-    thumbnail: `https://wealthfusion.co.uk/wp-content/uploads/2024/11/Team-PP.jpg`,
-    blocks: [
-      {
-        type: `heading`,
-        content: `Why the Continent Could
-Outshine US Equities`,
-      },
-      {
-        type: `heading`,
-        content: `Can European Stocks Stay in
-the Lead?`,
-      },
-      {
-        type: `paragraph`,
-        content: `For investors, the Trump 2.0 administration's
-roadmap hasn't gone as planned, with US stocks
-cooling due to a sluggish economy, changing
-economic policies, and increased AI competition
-from China. The S&P 500 and Nasdaq indexes have
-dropped by -3.20% YTD and -7.80% YTD,
-respectively, since Trump's inauguration on January
-20 due to the continued high level of political and
-economic uncertainty. Since the beginning of the
-year, consumer sentiment has also declined, and
-domestic manufacturing appears to be losing some
-of its pace. The Fed's hand is somewhat tied to
-lowering rates in the near future because tariffinduced inflationary risks are still high. `,
-      },
-      {
-        type: `paragraph`,
-        content: `Until recently, the US was the only option for
-investors. However, given the continued policy
-uncertainty, investors should be on the lookout for
-significant developments overseas, particularly in
-countries with significant room for fiscal and
-monetary expansions. In light of this, we think
-Europe is appealing for a number of reasons.`,
-      },
-      {
-        type: `heading`,
-        content: `Why Europe Looks Appealing`,
-      },
-      {
-        type: `paragraph`,
-        content: `Despite its modest growth, Europe's economy is doing
-well overall. After a 0.1% increase in 2023, real GDP in
-the eurozone was up 0.9% year over year and remained
-steady quarter over quarter in the fourth quarter of 2024.`,
-      },
-      {
-        type: `paragraph`,
-        content: `The labour market remains strong, with the eurozone
-unemployment rate at 6.3% in December 2024, close to
-an all-time low. Wages growth remains robust, at 4.4%
-year-over-year in the third quarter of 2024.`,
-      },
-      {
-        type: `paragraph`,
-        content: `Europe's inflation situation appears to be benign as well,
-with annual consumer prices increasing by 2.4% in the
-year ending in December 2024—much less than the US's
-3.0% increase. The European Central Bank can maintain
-more accommodating monetary policies as a result. The
-ECB lowered its deposit rate this month from a peak of
-4.0% in early 2024 to 2.50%. By the end of 2025,
-investors anticipate that ECB benchmark rates will be
-between 1.75 and 2 percent lower than the current CPI
-inflation rate. Since the European business sector
-depends more on bank funding than the US does, these
-lower rates should contribute to its growth. A low-cost
-euro might also help the economies of the Eurozone.`,
-      },
-      {
-        type: `paragraph`,
-        content: `The region as a whole has fiscal room to spend. The
-eurozone's gross government debt-to-GDP ratio is
-estimated by the IMF to be 73.9%, down from 76.4% ten
-years ago. This stands in contrast to the US, the UK and
-Japan all of whom have seen a sharp increase in this
-ratio over the past decade compared to eurozone. This
-allows governments across Europe to boost economic
-growth through fiscal spending in certain areas.`,
-      },
-      {
-        type: `paragraph`,
-        content: `European countries have pledged to make significant
-investments in strengthening NATO defence expenditure
-pledges, while the United States is considering
-withdrawing its support for the alliance. This could take
-total defence spending from roughly 2% of gross
-domestic product to 3.5% over the next several years.
-Defence spending in the region might reach EUR 1
-trillion, which would help the defence and aerospace
-sectors as well as the overall economy.`,
-      },
-      {
-        type: `paragraph`,
-        content: `Furthermore, the area will need to contribute and invest
-in Ukraine's reconstruction. It is estimated that over $400
-billion in additional engineering and construction work
-could result from the restoration initiatives over the
-course of the next ten years, according to some
-estimates. Lastly, European consumers remain in a
-healthy shape with household saving rates that are
-nearly 4x times that in the US (4.1%).`,
-      },
-      {
-        type: `heading`,
-        content: `European Valuations and Market
-Positioning`,
-      },
-      {
-        type: `paragraph`,
-        content: `Tech companies are underrepresented in European
-indexes, as a result, it has missed out on the surge in US
-mega-cap tech businesses over the past year or so but has also
-not suffered as much as the US in the last three months.`,
-      },
-      {
-        type: `paragraph`,
-        content: `The strongest case, however, for European equities is its
-cheap valuations. The MSCI Europe ex-UK had a forward
-P/E ratio of 14.7 times at the end of January, compared to
-21.8 times for the S&P500. Naturally, compositional
-effects account for a portion of the valuation discount, as
-highly valued technology stocks are far more heavily
-weighted in the S&P 500 than in the MSCI Europe. Even
-after considering this, the P/E ratios of the ten MSCI
-Europe sectors are all far lower than those of the S&P 500.
-Additionally, the region offers a larger dividend yield—
-3.3% as opposed to 1.3% for the S&P 500.`,
-      },
-      {
-        type: `heading`,
-        content: `Implications for Investors`,
-      },
-      {
-        type: `paragraph`,
-        content: `Europe has outperformed the US in terms of positive
-economic surprises. The purchasing managers' indices
-(PMIs) for the region and the increase in manufacturing
-activity over the last three months have shown
-improvement in hard data. There have been a lot of
-favourable profit revisions in the region this year.
-Additionally, return on equity (ROE), a measure of bank
-profitability in Europe, is reaching all-time highs. Over the
-last six months, European banks have performed better
-than most major asset classes.`,
-      },
-      {
-        type: `paragraph`,
-        content: `The fiscal and monetary policy environment also seems to
-be favourable. A more aggressive fiscal strategy that
-promotes economic growth and corporate profitability
-could result from the possibility of significant political
-change in major nations like the UK, France, and
-Germany. All things considered; Europe clearly possesses
-the collective capacity to accelerate its growth; it simply
-needs to set out on the path.`,
-      },
-      {
-        type: `paragraph`,
-        content: `The prospect of peace in Ukraine after three years of
-violence strengthens the argument for long-term prosperity
-in Europe. There is a hope that a resumption of natural gas
-deliveries from Russia, potentially relieve inflationary
-pressures on energy prices in several key industries
-lowering inflation expectations, and helping rates decline
-in the event of a ceasefire, as Russian supply returns more
-freely to global markets.`,
-      },
-      {
-        type: `paragraph`,
-        content: `Despite this, the European landscape has improved
-significantly since the beginning of the conflict in Ukraine.
-Recent developments from the White House and the
-Munich Security Conference about the US's stance on
-peace negotiations with Russia may be seen as a
-multigenerational change in global allegiances. Material
-uncertainty still exists since there is still much to be
-decided and because US policy views appear to be
-defined in real time. The possible US tariffs on European
-goods entering US present an extra risk to European
-exporters.
-`,
-      },
-      {
-        type: `paragraph`,
-        content: `The economy of Europe continues to load slowly but
-steadily. Gains in Europe could be a supplementary
-source of returns for the portfolio, since the continent
-continues to house prominent companies in the global
-market with strong brands and solid balance sheets in
-sectors including defence, engineering and consumers.`,
-      },
-      {
-        type: `heading`,
-        content: `Disclaimer`,
-      },
-      {
-        type: `paragraph`,
-        content: `This document has been produced solely for information purposes by Wealthfusion Limited with the greatest of care and to the
-best of its knowledge and belief for use by its legal entities. The information contained herein constitutes a marketing
-communication and should not be construed as financial research or analysis, an offer, a public offer, investment advice, a
-recommendation or solicitation to buy, sell or subscribe to financial instruments and/or to the provision of a financial service.
-Further, this document is not intended to provide any financial, legal, accounting or tax advice and should not be relied upon in
-this regard. The information provided herein is for the exclusive use of the recipient and may not be reproduced, disclosed or
-distributed, neither in part nor in full. This document is not directed at, or intended for distribution to or use by, any person or
-entity domiciled or resident in any jurisdiction where such distribution, publication, availability or use would be contrary to
-applicable laws or regulations of such jurisdictions. Any investment decision must be based on a prior study of the offering
-documentation and in particular the terms and conditions and key information documents. This information can be obtained on
-request and will be free of charge from your relationship manager. The content of this document is intended only for persons who
-understand and are capable of assuming all risks involved. This document has been prepared without taking into account the
-investor classification, specific investment objectives, financial situation, tax situation or the needs of the recipient. Products and
-services are not suitable for all investors and may not be available to investors residing in certain jurisdictions or with certain
-nationalities. Before entering into any transaction, the recipient should consider the suitability of the transaction to individual
-circumstances and objectives. Wealthfusion Limited recommends that investors independently assess, with a professional financial
-advisor, the specific financial risks as well as the legal, regulatory, credit, tax and accounting consequences. Investment products
-may be subject to investment risks involving, but not limited to, possible loss of all or part of the principal investment. This
-document is not intended to be exhaustive on all risks related to financial instruments. Therefore, the recipient should consult the
-specific product documentation and discuss any queries with their relationship manager prior to entering into an investment
-decision. The information and views expressed at the time of writing are subject to change at any time without notice and there is
-no obligation to update or remove outdated information. Historical data on the performance of the securities and financial
-instruments or the underlying assets in this document is no indication for future performance and the value of investments may
-fall as well as rise. This document is based on publicly available information and data. Although information in this document has
-been obtained from sources believed to be reliable, Wealthfusion Limited provides no guarantee with regard to the timeliness,
-accuracy or completeness of the information and does not accept any liability for any loss and/or damage, either directly or
-indirectly, arising out of or in connection with the use of all or part of this information or from the omission of certain information.
-Recipients should be aware that the terms and conditions and key information documents constitute the sole binding basis for the
-purchase of investment funds. Some investments may foresee restrictions to target group of investors.`,
-      },
-    ],
-  },
-  {
     slug: `hotel-tycoon-takes-£6m-life-insurance-to-shield-business-from-inheritance-tax-hike`,
     title: `Hotel Tycoon Takes £6m Life Insurance to Shield Business from Inheritance Tax Hike`,
-    category: `coverage`,
+    category: [`archive`],
     thumbnail: `https://wealthfusion.co.uk/wp-content/uploads/2024/11/Team-PP.jpg`,
     blocks: [
       {
@@ -1244,149 +756,9 @@ said.`,
     ],
   },
   {
-    slug: `market-at-crossroads-scenarios-that-could-shape-the-next-big-move`,
-    title: `Market At Crossroads Scenarios That Could Shape the Next Big Move`,
-    category: `coverage`,
-    thumbnail: `/coverage/c7t.webp`,
-    blocks: [
-      {
-        type: `paragraph`,
-        content: `Following the recent market downturn, investors are questioning when stability might return,
-whether a recession is imminent, and if a shift towards pro-growth policies could occur. While
-the future remains unpredictable, assessing both downside and upside market scenarios can
-help frame investment decisions.`,
-      },
-      {
-        type: `paragraph`,
-        content: `Broadly, there are four key market trajectories—equities moving higher or lower, combined
-with rising or falling bond yields. Below are potential scenarios, that helping investors
-evaluate how their portfolios may be impacted:`,
-      },
-      {
-        type: `list`,
-        items: [
-          [
-            {
-              bold: true,
-              text: `Trade War Fallout (Stocks Drop, Yields Surge): `,
-            },
-            ` An escalating trade war dampens
-business and consumer sentiment, leading to weaker growth and shrinking profit
-margins due to rising costs. Some of these costs are likely to be passed on to
-consumers, fuelling inflation. Consequently, equities could decline, while bond yields
-rise at the same time as inflation edges higher. Safe haven buying and higher rates
-should push the US dollar higher.`,
-          ],
-          [
-            { bold: true, text: `Trade Truce (Stocks Up, Yields Down): ` },
-            ` The US successfully negotiates trade
-agreements with key partners, removing uncertainty. This boosts growth and
-encourages stock buybacks, M&A activity, and capital investment. Stocks should rally
-even as the US dollar weakens. The reduction in tariff-driven inflationary pressures
-should allow the Federal Reserve to resume its cutting cycle. Bond yields will decline
-in such a scenario.`,
-          ],
-          [
-            { bold: true, text: `Tax Cut Triumph (Stocks Up, Yields Up): ` },
-            ` A large-scale tax cut is enacted, fuelling
-consumer spending, economic growth, and corporate earnings. This benefits smallcap and domestically focused large-cap stocks. However, the increased fiscal deficit
-pushes bond yields higher. Despite ongoing trade tensions, international stocks
-remain relatively resilient but are constrained by a stronger dollar and slowing global
-growth.`,
-          ],
-          [
-            { bold: true, text: `Tech Tumble (Stocks Down, Yields Down): ` },
-            ` The dominance of US technology firms in
-AI faces challenges from emerging competitors and technological shifts. The risk is that
-heavy capital expenditures fail to translate into expected returns, leading to profit
-disappointments and a market correction. While tech stocks struggle, international
-and value stocks prove more resilient. Investors seek safety, driving bond yields lower.`,
-          ],
-        ],
-      },
-      {
-        type: `paragraph`,
-        content: `Since the start of the year, elements of each of these scenarios have surfaced, contributing to
-market volatility and unexpected trends. Previously overlooked asset classes—such as longduration bonds, value stocks, and stocks outside of the US —have demonstrated resilience
-and outperformance. `,
-      },
-      {
-        type: `heading`,
-        content: `Policy uncertainty has reached its highest levels since the
-pandemic`,
-      },
-      {
-        type: `description`,
-        content: `US Economic Policy Uncertainty Index`,
-      },
-      {
-        type: `image`,
-        src: `/coverage/c71.webp`,
-        alt: `image`,
-      },
-      {
-        type: `paragraph`,
-        content: `Given the sell-off in stocks and the decline in US real rates, it seems that investors have
-interpreted tariff news as growth-negative, which will keep equity market volatility high in the
-near future. The effect on economic growth will mostly depend on the type of medium-term
-tax cut plan that is approved and how long and high tariffs are maintained. `,
-      },
-      {
-        type: `paragraph`,
-        content: `Our major takeaway is still to continue investing in stocks, albeit sparingly. Trade policy
-changes and tariff uncertainty underscore the significance of risk management and portfolio
-diversification. Techniques for capital preservation can help reduce stock market volatility. We
-continue to favour high-quality fixed income, such as investment-grade corporate bonds,
-because they can serve as a buffer against trade concerns. A well-diversified multi-asset
-portfolio should include alternative investments, such as gold if cash rates continue to decline
-due to looser monetary policy.`,
-      },
-      {
-        type: `heading`,
-        content: `Disclaimer`,
-      },
-      {
-        type: `paragraph`,
-        content: `This document has been produced solely for information purposes by Wealthfusion Limited with the greatest of
-care and to the best of its knowledge and belief for use by its legal entities. The information contained herein
-constitutes a marketing communication and should not be construed as financial research or analysis, an offer, a
-public offer, investment advice, a recommendation or solicitation to buy, sell or subscribe to financial instruments
-and/or to the provision of a financial service. Further, this document is not intended to provide any financial,
-legal, accounting or tax advice and should not be relied upon in this regard. The information provided herein is
-for the exclusive use of the recipient and may not be reproduced, disclosed or distributed, neither in part nor in
-full. This document is not directed at, or intended for distribution to or use by, any person or entity domiciled or
-resident in any jurisdiction where such distribution, publication, availability or use would be contrary to
-applicable laws or regulations of such jurisdictions. Any investment decision must be based on a prior study of
-the offering documentation and in particular the terms and conditions and key information documents. This
-information can be obtained on request and will be free of charge from your relationship manager. The content
-of this document is intended only for persons who understand and are capable of assuming all risks involved.
-This document has been prepared without taking into account the investor classification, specific investment
-objectives, financial situation, tax situation or the needs of the recipient. Products and services are not suitable
-for all investors and may not be available to investors residing in certain jurisdictions or with certain nationalities.
-Before entering into any transaction, the recipient should consider the suitability of the transaction to individual
-circumstances and objectives. Wealthfusion Limited recommends that investors independently assess, with a
-professional financial advisor, the specific financial risks as well as the legal, regulatory, credit, tax and accounting
-consequences. Investment products may be subject to investment risks involving, but not limited to, possible
-loss of all or part of the principal investment. This document is not intended to be exhaustive on all risks related
-to financial instruments. Therefore, the recipient should consult the specific product documentation and discuss
-any queries with their relationship manager prior to entering into an investment decision. The information and
-views expressed at the time of writing are subject to change at any time without notice and there is no obligation
-to update or remove outdated information. Historical data on the performance of the securities and financial
-instruments or the underlying assets in this document is no indication for future performance and the value of
-investments may fall as well as rise. This document is based on publicly available information and data. Although
-information in this document has been obtained from sources believed to be reliable, Wealthfusion Limited
-provides no guarantee with regard to the timeliness, accuracy or completeness of the information and does not
-accept any liability for any loss and/or damage, either directly or indirectly, arising out of or in connection with
-the use of all or part of this information or from the omission of certain information. Recipients should be aware
-that the terms and conditions and key information documents constitute the sole binding basis for the purchase
-of investment funds. Some investments may foresee restrictions to target group of investors.`,
-      },
-    ],
-  },
-  {
     slug: `what-does-trumps-inauguration-mean-for-your-portfolio`,
     title: `What Does Trump’s Inauguration Mean for Your Portfolio?`,
-    category: `coverage`,
+    category: [`archive`, `coverage`],
     thumbnail: `https://wealthfusion.co.uk/wp-content/uploads/2024/11/Team-PP.jpg`,
     blocks: [
       {
@@ -1606,193 +978,9 @@ purchase of investment funds. Some investments may foresee restrictions to targe
     ],
   },
   {
-    slug: `global-markets-&-economy-adjust-to-us-sariff-shock`,
-    title: `Global Markets & Economy Adjust to US Tariff Shock`,
-    category: `coverage`,
-    thumbnail: `https://wealthfusion.co.uk/wp-content/uploads/2024/11/Team-PP.jpg`,
-    blocks: [
-      {
-        type: `heading`,
-        content: `What was Announced?`,
-      },
-      {
-        type: `paragraph`,
-        content: `President Trump has declared that import duties will be raised significantly. Beginning on April
-5, all imports will be subject to a "baseline" tariff of at least 10%; starting on April 9, there will
-be higher "reciprocal" rates for specific trade partners thought to have excessive tariff or nontariff barriers.`,
-      },
-      {
-        type: `description`,
-        content: `Chart 1: Trump's Reciprocal Tariffs`,
-      },
-      {
-        type: "image",
-        src: `/coverage/c91.webp`,
-        alt: `image`,
-      },
-      {
-        type: `description`,
-        content: `Source: Scotia, Bloomberg`,
-      },
-      {
-        type: `paragraph`,
-        content: `Chinese imports will be subject to 34% of the proposed tariffs (54% including already
-announced tariffs), followed by Japan at 24%, and the European Union at 20%. The President
-extended an invitation to engage in negotiations with trading partners.`,
-      },
-      {
-        type: `paragraph`,
-        content: `China responded this morning by imposing a 34% tariff on all US imports. They also declared
-additional restrictions on the export of rare earth materials. These tariffs will go into effect on
-April 10. The European Union is also expected to retaliate with their own duties on US imports
-and potentially on services as well.`,
-      },
-      {
-        type: `heading`,
-        content: `Market Reaction`,
-      },
-      {
-        type: `paragraph`,
-        content: `The announcement has caused risk assets to respond negatively; since the tariff
-announcement, global shares have dropped by more than 8%. Investors are more concerned
-about growth threats than the inflationary effects of tariffs, bond yields moved lower. The US
-10-yr Treasury yields were down below 4% for the first time in 6-months, while the two-year
-yield stood at 3.58%. It's interesting that while the euro and sterling have strengthened, the
-US dollar has weakened. Commodities have also taken a big hit with oil down as much as 13%.
-Interestingly, gold has also corrected 1.8% since the announcement. `,
-      },
-      {
-        type: `paragraph`,
-        content: `Near term market direction will depend on how the US trading partners respond to these
-tariffs. We anticipate more market volatility in the near future. `,
-      },
-      {
-        type: `paragraph`,
-        content: `The announced and already-implemented tariffs will jeopardise global growth. The probability
-of a US recession has jumped to around 60% over the next 12-months. Economists’ estimate
-the tariffs could hit global output by up to 1-1.5% over the next year.`,
-      },
-      {
-        type: `heading`,
-        content: `Opportunities in a Choppy Market`,
-      },
-      {
-        type: `paragraph`,
-        content: `We observe the following opportunities in a difficult financial market situation, especially with
-regard to risk assets:`,
-      },
-      {
-        type: `parabold`,
-        content: [
-          `As highlighted in the note we circulated last month,`,
-          {
-            bold: true,
-            text: ` European equities `,
-          },
-          `are better placed
-compared to their US counterparts. With several European countries announcing a bazooka
-fiscal package, the backdrop for European earnings looks bright. Even before the most recent
-10% fall, valuations were still reasonably low, and investor positioning was still light. An added
-boost comes from a central bank that stands ready to cut interest rates. Of course, the impact
-of tariffs could start to chip away at the region’s competitiveness, but above noted factors will
-limit the drag.`,
-        ],
-      },
-      {
-        type: `parabold`,
-        content: [
-          `Investors in the US should concentrate on quality companies with consistent & stable dividend
-profiles, as these are typically found in lower beta sectors including`,
-          {
-            bold: true,
-            text: ` consumer staples and
-telecom services.`,
-          },
-        ],
-      },
-
-      {
-        type: `paragraph`,
-        content: `The US dollar has been the envy of the world over the last ten years and has historically
-benefited from political unpredictability and foreign investor flows into US assets; currencies
-like the Swiss franc and Japanese yen typically perform even better and are better prepared
-for negative momentum. Curiously, after the tariff announcements, higher beta currencies like
-the euro and pound both saw gains of up to 3%.`,
-      },
-      {
-        type: `parabold`,
-        content: [
-          `Other safe-haven assets that investors might think about holding are`,
-          {
-            bold: true,
-            text: ` US Treasuries and gold.`,
-          },
-          `Gold is a good diversifier for multi-asset portfolios and has demonstrated that it can continue
-to serve as a hedge against geopolitical risks. The demand from central banks and retail
-investors should keep the price of yellow metal high in the near future, even though gold
-prices have arguably reached new highs recently. We also favour US Treasuries as a good
-diversifier to ongoing policy uncertainties and global slowdown. `,
-        ],
-      },
-      {
-        type: `heading`,
-        content: `Final Thoughts`,
-      },
-      {
-        type: `paragraph`,
-        content: `Before everything calms down, there may be more twists and turns ahead, and visibility for
-investors will be limited in the near term. We expect more investment opportunities to
-emerge in the coming weeks and months. For the time being, investors should continue to
-exercise discretion and refrain from bottom fishing. In rapidly shifting market conditions,
-investors may benefit from constructing a portfolio that isn't overly dependent on any one
-asset class or region.`,
-      },
-      {
-        type: `heading`,
-        content: `Disclaimer`,
-      },
-      {
-        type: `paragraph`,
-        content: `This document has been produced solely for information purposes by Wealthfusion Limited with the greatest of
-care and to the best of its knowledge and belief for use by its legal entities. The information contained herein
-constitutes a marketing communication and should not be construed as financial research or analysis, an offer, a
-public offer, investment advice, a recommendation or solicitation to buy, sell or subscribe to financial instruments
-and/or to the provision of a financial service. Further, this document is not intended to provide any financial,
-legal, accounting or tax advice and should not be relied upon in this regard. The information provided herein is
-for the exclusive use of the recipient and may not be reproduced, disclosed or distributed, neither in part nor in
-full. This document is not directed at, or intended for distribution to or use by, any person or entity domiciled or
-resident in any jurisdiction where such distribution, publication, availability or use would be contrary to
-applicable laws or regulations of such jurisdictions. Any investment decision must be based on a prior study of
-the offering documentation and in particular the terms and conditions and key information documents. This
-information can be obtained on request and will be free of charge from your relationship manager. The content
-of this document is intended only for persons who understand and are capable of assuming all risks involved.
-This document has been prepared without taking into account the investor classification, specific investment
-objectives, financial situation, tax situation or the needs of the recipient. Products and services are not suitable
-for all investors and may not be available to investors residing in certain jurisdictions or with certain nationalities.
-Before entering into any transaction, the recipient should consider the suitability of the transaction to individual
-circumstances and objectives. Wealthfusion Limited recommends that investors independently assess, with a
-professional financial advisor, the specific financial risks as well as the legal, regulatory, credit, tax and accounting
-consequences. Investment products may be subject to investment risks involving, but not limited to, possible
-loss of all or part of the principal investment. This document is not intended to be exhaustive on all risks related
-to financial instruments. Therefore, the recipient should consult the specific product documentation and discuss
-any queries with their relationship manager prior to entering into an investment decision. The information and
-views expressed at the time of writing are subject to change at any time without notice and there is no obligation
-to update or remove outdated information. Historical data on the performance of the securities and financial
-instruments or the underlying assets in this document is no indication for future performance and the value of
-investments may fall as well as rise. This document is based on publicly available information and data. Although
-information in this document has been obtained from sources believed to be reliable, Wealthfusion Limited
-provides no guarantee with regard to the timeliness, accuracy or completeness of the information and does not
-accept any liability for any loss and/or damage, either directly or indirectly, arising out of or in connection with
-the use of all or part of this information or from the omission of certain information. Recipients should be aware
-that the terms and conditions and key information documents constitute the sole binding basis for the purchase
-of investment funds. Some investments may foresee restrictions to target group of investors.`,
-      },
-    ],
-  },
-  {
     slug: `the-magnificent-sevens-impact-on-the-s&p-500`,
     title: `The Magnificent Seven’s impact on the S&P 500`,
-    category: `coverage`,
+    category: [`archive`],
     thumbnail: `https://wealthfusion.co.uk/wp-content/uploads/2024/11/Team-PP.jpg`,
     blocks: [
       {
@@ -1873,7 +1061,7 @@ well diversified and in line with their risk profiles. `,
   {
     slug: `succession-planning-takes-centre-stage-for-private-banks`,
     title: `Succession planning takes centre stage for private banks`,
-    category: `coverage`,
+    category: [`archive`],
     thumbnail: `https://wealthfusion.co.uk/wp-content/uploads/2024/11/Team-PP.jpg`,
     blocks: [
       {
@@ -2363,7 +1551,7 @@ asset.”`,
   {
     slug: `take-insurance-to-protect-against-iht`,
     title: `Take Insurance to Protect Against IHT`,
-    category: `coverage`,
+    category: [`archive`],
     thumbnail: `https://wealthfusion.co.uk/wp-content/uploads/2024/11/Team-PP.jpg`,
     blocks: [
       {
@@ -2496,7 +1684,7 @@ access to the assets`,
   {
     slug: `trust-scandal-leaves-heirs-with-huge-death-taxes`,
     title: `Trust scandal leaves heirs with huge death taxes`,
-    category: `coverage`,
+    category: [`archive`],
     thumbnail: `https://wealthfusion.co.uk/wp-content/uploads/2024/11/Team-PP.jpg`,
     blocks: [
       {
@@ -2689,7 +1877,7 @@ to ensure that families do not face unnecessary financial strain.`,
   {
     slug: `the-labour-governments-first-budget-since-2010`,
     title: `The Labour Government's First Budget Since 2010`,
-    category: `coverage`,
+    category: [`archive`],
     thumbnail: `https://wealthfusion.co.uk/wp-content/uploads/2024/11/Team-PP.jpg`,
     blocks: [
       {
@@ -2926,7 +2114,7 @@ despite the growth boost from the Budget. `,
   {
     slug: `welcome-back-mr-president`,
     title: `Welcome Back Mr President! `,
-    category: `coverage`,
+    category: [`archive`],
     thumbnail: `https://wealthfusion.co.uk/wp-content/uploads/2024/11/Team-PP.jpg`,
     blocks: [
       {
@@ -3138,8 +2326,8 @@ Middle-East tensions. `,
   {
     slug: `trump-presses-ahead-with-tariffs-what-now`,
     title: `Trump Presses Ahead with Tariffs. What Now? `,
-    category: `coverage`,
-    thumbnail: `https://wealthfusion.co.uk/wp-content/uploads/2024/11/Team-PP.jpg`,
+    category: [`archive`, `coverage`],
+    thumbnail: `/coverage/a2t.webp`,
     blocks: [
       {
         type: `paragraph`,
@@ -3347,7 +2535,7 @@ purchase of investment funds. Some investments may foresee restrictions to targe
   {
     slug: `the-trust-lessons-from-the-ear-of-yarmouts-£85-million-estate-Row`,
     title: `The Trust Lessons from the Earl of Yarmouth's £85 Million Estate Row`,
-    category: `coverage`,
+    category: [`archive`],
     thumbnail: `https://wealthfusion.co.uk/wp-content/uploads/2024/11/Team-PP.jpg`,
     blocks: [
       {
@@ -3497,8 +2685,8 @@ legacies across generations.
   {
     slug: `wealthy-britons-embrace-creative-tactics-to-beat-inheritance-tax`,
     title: `Wealthy Britons Embrace Creative Tactics to Beat Inheritance Tax`,
-    category: `coverage`,
-    thumbnail: `https://wealthfusion.co.uk/wp-content/uploads/2024/11/Team-PP.jpg`,
+    category: [`archive`,`coverage`],
+    thumbnail: `/coverage/a3t.webp`,
     blocks: [
       {
         type: `heading`,
@@ -3789,6 +2977,818 @@ liability for my wife to work out,” he said, “But I’m
 sitting there, hoping that the government doesn’t go
 through with it. It’s put me in a really difficult
 position.”`,
+      },
+    ],
+  },
+  {
+    slug: `market-at-crossroads-scenarios-that-could-shape-the-next-big-move`,
+    title: `Market At Crossroads Scenarios That Could Shape the Next Big Move`,
+    category: [`archive`, `coverage`],
+    thumbnail: `/coverage/a4t.webp`,
+    blocks: [
+      {
+        type: `paragraph`,
+        content: `Following the recent market downturn, investors are questioning when stability might return,
+whether a recession is imminent, and if a shift towards pro-growth policies could occur. While
+the future remains unpredictable, assessing both downside and upside market scenarios can
+help frame investment decisions.`,
+      },
+      {
+        type: `paragraph`,
+        content: `Broadly, there are four key market trajectories—equities moving higher or lower, combined
+with rising or falling bond yields. Below are potential scenarios, that helping investors
+evaluate how their portfolios may be impacted:`,
+      },
+      {
+        type: `list`,
+        items: [
+          [
+            {
+              bold: true,
+              text: `Trade War Fallout (Stocks Drop, Yields Surge): `,
+            },
+            ` An escalating trade war dampens
+business and consumer sentiment, leading to weaker growth and shrinking profit
+margins due to rising costs. Some of these costs are likely to be passed on to
+consumers, fuelling inflation. Consequently, equities could decline, while bond yields
+rise at the same time as inflation edges higher. Safe haven buying and higher rates
+should push the US dollar higher.`,
+          ],
+          [
+            { bold: true, text: `Trade Truce (Stocks Up, Yields Down): ` },
+            ` The US successfully negotiates trade
+agreements with key partners, removing uncertainty. This boosts growth and
+encourages stock buybacks, M&A activity, and capital investment. Stocks should rally
+even as the US dollar weakens. The reduction in tariff-driven inflationary pressures
+should allow the Federal Reserve to resume its cutting cycle. Bond yields will decline
+in such a scenario.`,
+          ],
+          [
+            { bold: true, text: `Tax Cut Triumph (Stocks Up, Yields Up): ` },
+            ` A large-scale tax cut is enacted, fuelling
+consumer spending, economic growth, and corporate earnings. This benefits smallcap and domestically focused large-cap stocks. However, the increased fiscal deficit
+pushes bond yields higher. Despite ongoing trade tensions, international stocks
+remain relatively resilient but are constrained by a stronger dollar and slowing global
+growth.`,
+          ],
+          [
+            { bold: true, text: `Tech Tumble (Stocks Down, Yields Down): ` },
+            ` The dominance of US technology firms in
+AI faces challenges from emerging competitors and technological shifts. The risk is that
+heavy capital expenditures fail to translate into expected returns, leading to profit
+disappointments and a market correction. While tech stocks struggle, international
+and value stocks prove more resilient. Investors seek safety, driving bond yields lower.`,
+          ],
+        ],
+      },
+      {
+        type: `paragraph`,
+        content: `Since the start of the year, elements of each of these scenarios have surfaced, contributing to
+market volatility and unexpected trends. Previously overlooked asset classes—such as longduration bonds, value stocks, and stocks outside of the US —have demonstrated resilience
+and outperformance. `,
+      },
+      {
+        type: `heading`,
+        content: `Policy uncertainty has reached its highest levels since the
+pandemic`,
+      },
+      {
+        type: `description`,
+        content: `US Economic Policy Uncertainty Index`,
+      },
+      {
+        type: `image`,
+        src: `/coverage/c71.webp`,
+        alt: `image`,
+      },
+      {
+        type: `paragraph`,
+        content: `Given the sell-off in stocks and the decline in US real rates, it seems that investors have
+interpreted tariff news as growth-negative, which will keep equity market volatility high in the
+near future. The effect on economic growth will mostly depend on the type of medium-term
+tax cut plan that is approved and how long and high tariffs are maintained. `,
+      },
+      {
+        type: `paragraph`,
+        content: `Our major takeaway is still to continue investing in stocks, albeit sparingly. Trade policy
+changes and tariff uncertainty underscore the significance of risk management and portfolio
+diversification. Techniques for capital preservation can help reduce stock market volatility. We
+continue to favour high-quality fixed income, such as investment-grade corporate bonds,
+because they can serve as a buffer against trade concerns. A well-diversified multi-asset
+portfolio should include alternative investments, such as gold if cash rates continue to decline
+due to looser monetary policy.`,
+      },
+      {
+        type: `heading`,
+        content: `Disclaimer`,
+      },
+      {
+        type: `paragraph`,
+        content: `This document has been produced solely for information purposes by Wealthfusion Limited with the greatest of
+care and to the best of its knowledge and belief for use by its legal entities. The information contained herein
+constitutes a marketing communication and should not be construed as financial research or analysis, an offer, a
+public offer, investment advice, a recommendation or solicitation to buy, sell or subscribe to financial instruments
+and/or to the provision of a financial service. Further, this document is not intended to provide any financial,
+legal, accounting or tax advice and should not be relied upon in this regard. The information provided herein is
+for the exclusive use of the recipient and may not be reproduced, disclosed or distributed, neither in part nor in
+full. This document is not directed at, or intended for distribution to or use by, any person or entity domiciled or
+resident in any jurisdiction where such distribution, publication, availability or use would be contrary to
+applicable laws or regulations of such jurisdictions. Any investment decision must be based on a prior study of
+the offering documentation and in particular the terms and conditions and key information documents. This
+information can be obtained on request and will be free of charge from your relationship manager. The content
+of this document is intended only for persons who understand and are capable of assuming all risks involved.
+This document has been prepared without taking into account the investor classification, specific investment
+objectives, financial situation, tax situation or the needs of the recipient. Products and services are not suitable
+for all investors and may not be available to investors residing in certain jurisdictions or with certain nationalities.
+Before entering into any transaction, the recipient should consider the suitability of the transaction to individual
+circumstances and objectives. Wealthfusion Limited recommends that investors independently assess, with a
+professional financial advisor, the specific financial risks as well as the legal, regulatory, credit, tax and accounting
+consequences. Investment products may be subject to investment risks involving, but not limited to, possible
+loss of all or part of the principal investment. This document is not intended to be exhaustive on all risks related
+to financial instruments. Therefore, the recipient should consult the specific product documentation and discuss
+any queries with their relationship manager prior to entering into an investment decision. The information and
+views expressed at the time of writing are subject to change at any time without notice and there is no obligation
+to update or remove outdated information. Historical data on the performance of the securities and financial
+instruments or the underlying assets in this document is no indication for future performance and the value of
+investments may fall as well as rise. This document is based on publicly available information and data. Although
+information in this document has been obtained from sources believed to be reliable, Wealthfusion Limited
+provides no guarantee with regard to the timeliness, accuracy or completeness of the information and does not
+accept any liability for any loss and/or damage, either directly or indirectly, arising out of or in connection with
+the use of all or part of this information or from the omission of certain information. Recipients should be aware
+that the terms and conditions and key information documents constitute the sole binding basis for the purchase
+of investment funds. Some investments may foresee restrictions to target group of investors.`,
+      },
+    ],
+  },
+  {
+    slug: `europes-quiet-comeback`,
+    title: `Europe's Quiet Comeback`,
+    category: [`archive`, `coverage`],
+    thumbnail: `/coverage/a5t.webp`,
+    blocks: [
+      {
+        type: `heading`,
+        content: `Why the Continent Could
+Outshine US Equities`,
+      },
+      {
+        type: `heading`,
+        content: `Can European Stocks Stay in
+the Lead?`,
+      },
+      {
+        type: `paragraph`,
+        content: `For investors, the Trump 2.0 administration's
+roadmap hasn't gone as planned, with US stocks
+cooling due to a sluggish economy, changing
+economic policies, and increased AI competition
+from China. The S&P 500 and Nasdaq indexes have
+dropped by -3.20% YTD and -7.80% YTD,
+respectively, since Trump's inauguration on January
+20 due to the continued high level of political and
+economic uncertainty. Since the beginning of the
+year, consumer sentiment has also declined, and
+domestic manufacturing appears to be losing some
+of its pace. The Fed's hand is somewhat tied to
+lowering rates in the near future because tariffinduced inflationary risks are still high. `,
+      },
+      {
+        type: `paragraph`,
+        content: `Until recently, the US was the only option for
+investors. However, given the continued policy
+uncertainty, investors should be on the lookout for
+significant developments overseas, particularly in
+countries with significant room for fiscal and
+monetary expansions. In light of this, we think
+Europe is appealing for a number of reasons.`,
+      },
+      {
+        type: `heading`,
+        content: `Why Europe Looks Appealing`,
+      },
+      {
+        type: `paragraph`,
+        content: `Despite its modest growth, Europe's economy is doing
+well overall. After a 0.1% increase in 2023, real GDP in
+the eurozone was up 0.9% year over year and remained
+steady quarter over quarter in the fourth quarter of 2024.`,
+      },
+      {
+        type: `paragraph`,
+        content: `The labour market remains strong, with the eurozone
+unemployment rate at 6.3% in December 2024, close to
+an all-time low. Wages growth remains robust, at 4.4%
+year-over-year in the third quarter of 2024.`,
+      },
+      {
+        type: `paragraph`,
+        content: `Europe's inflation situation appears to be benign as well,
+with annual consumer prices increasing by 2.4% in the
+year ending in December 2024—much less than the US's
+3.0% increase. The European Central Bank can maintain
+more accommodating monetary policies as a result. The
+ECB lowered its deposit rate this month from a peak of
+4.0% in early 2024 to 2.50%. By the end of 2025,
+investors anticipate that ECB benchmark rates will be
+between 1.75 and 2 percent lower than the current CPI
+inflation rate. Since the European business sector
+depends more on bank funding than the US does, these
+lower rates should contribute to its growth. A low-cost
+euro might also help the economies of the Eurozone.`,
+      },
+      {
+        type: `paragraph`,
+        content: `The region as a whole has fiscal room to spend. The
+eurozone's gross government debt-to-GDP ratio is
+estimated by the IMF to be 73.9%, down from 76.4% ten
+years ago. This stands in contrast to the US, the UK and
+Japan all of whom have seen a sharp increase in this
+ratio over the past decade compared to eurozone. This
+allows governments across Europe to boost economic
+growth through fiscal spending in certain areas.`,
+      },
+      {
+        type: `paragraph`,
+        content: `European countries have pledged to make significant
+investments in strengthening NATO defence expenditure
+pledges, while the United States is considering
+withdrawing its support for the alliance. This could take
+total defence spending from roughly 2% of gross
+domestic product to 3.5% over the next several years.
+Defence spending in the region might reach EUR 1
+trillion, which would help the defence and aerospace
+sectors as well as the overall economy.`,
+      },
+      {
+        type: `paragraph`,
+        content: `Furthermore, the area will need to contribute and invest
+in Ukraine's reconstruction. It is estimated that over $400
+billion in additional engineering and construction work
+could result from the restoration initiatives over the
+course of the next ten years, according to some
+estimates. Lastly, European consumers remain in a
+healthy shape with household saving rates that are
+nearly 4x times that in the US (4.1%).`,
+      },
+      {
+        type: `heading`,
+        content: `European Valuations and Market
+Positioning`,
+      },
+      {
+        type: `paragraph`,
+        content: `Tech companies are underrepresented in European
+indexes, as a result, it has missed out on the surge in US
+mega-cap tech businesses over the past year or so but has also
+not suffered as much as the US in the last three months.`,
+      },
+      {
+        type: `paragraph`,
+        content: `The strongest case, however, for European equities is its
+cheap valuations. The MSCI Europe ex-UK had a forward
+P/E ratio of 14.7 times at the end of January, compared to
+21.8 times for the S&P500. Naturally, compositional
+effects account for a portion of the valuation discount, as
+highly valued technology stocks are far more heavily
+weighted in the S&P 500 than in the MSCI Europe. Even
+after considering this, the P/E ratios of the ten MSCI
+Europe sectors are all far lower than those of the S&P 500.
+Additionally, the region offers a larger dividend yield—
+3.3% as opposed to 1.3% for the S&P 500.`,
+      },
+      {
+        type: `heading`,
+        content: `Implications for Investors`,
+      },
+      {
+        type: `paragraph`,
+        content: `Europe has outperformed the US in terms of positive
+economic surprises. The purchasing managers' indices
+(PMIs) for the region and the increase in manufacturing
+activity over the last three months have shown
+improvement in hard data. There have been a lot of
+favourable profit revisions in the region this year.
+Additionally, return on equity (ROE), a measure of bank
+profitability in Europe, is reaching all-time highs. Over the
+last six months, European banks have performed better
+than most major asset classes.`,
+      },
+      {
+        type: `paragraph`,
+        content: `The fiscal and monetary policy environment also seems to
+be favourable. A more aggressive fiscal strategy that
+promotes economic growth and corporate profitability
+could result from the possibility of significant political
+change in major nations like the UK, France, and
+Germany. All things considered; Europe clearly possesses
+the collective capacity to accelerate its growth; it simply
+needs to set out on the path.`,
+      },
+      {
+        type: `paragraph`,
+        content: `The prospect of peace in Ukraine after three years of
+violence strengthens the argument for long-term prosperity
+in Europe. There is a hope that a resumption of natural gas
+deliveries from Russia, potentially relieve inflationary
+pressures on energy prices in several key industries
+lowering inflation expectations, and helping rates decline
+in the event of a ceasefire, as Russian supply returns more
+freely to global markets.`,
+      },
+      {
+        type: `paragraph`,
+        content: `Despite this, the European landscape has improved
+significantly since the beginning of the conflict in Ukraine.
+Recent developments from the White House and the
+Munich Security Conference about the US's stance on
+peace negotiations with Russia may be seen as a
+multigenerational change in global allegiances. Material
+uncertainty still exists since there is still much to be
+decided and because US policy views appear to be
+defined in real time. The possible US tariffs on European
+goods entering US present an extra risk to European
+exporters.
+`,
+      },
+      {
+        type: `paragraph`,
+        content: `The economy of Europe continues to load slowly but
+steadily. Gains in Europe could be a supplementary
+source of returns for the portfolio, since the continent
+continues to house prominent companies in the global
+market with strong brands and solid balance sheets in
+sectors including defence, engineering and consumers.`,
+      },
+      {
+        type: `heading`,
+        content: `Disclaimer`,
+      },
+      {
+        type: `paragraph`,
+        content: `This document has been produced solely for information purposes by Wealthfusion Limited with the greatest of care and to the
+best of its knowledge and belief for use by its legal entities. The information contained herein constitutes a marketing
+communication and should not be construed as financial research or analysis, an offer, a public offer, investment advice, a
+recommendation or solicitation to buy, sell or subscribe to financial instruments and/or to the provision of a financial service.
+Further, this document is not intended to provide any financial, legal, accounting or tax advice and should not be relied upon in
+this regard. The information provided herein is for the exclusive use of the recipient and may not be reproduced, disclosed or
+distributed, neither in part nor in full. This document is not directed at, or intended for distribution to or use by, any person or
+entity domiciled or resident in any jurisdiction where such distribution, publication, availability or use would be contrary to
+applicable laws or regulations of such jurisdictions. Any investment decision must be based on a prior study of the offering
+documentation and in particular the terms and conditions and key information documents. This information can be obtained on
+request and will be free of charge from your relationship manager. The content of this document is intended only for persons who
+understand and are capable of assuming all risks involved. This document has been prepared without taking into account the
+investor classification, specific investment objectives, financial situation, tax situation or the needs of the recipient. Products and
+services are not suitable for all investors and may not be available to investors residing in certain jurisdictions or with certain
+nationalities. Before entering into any transaction, the recipient should consider the suitability of the transaction to individual
+circumstances and objectives. Wealthfusion Limited recommends that investors independently assess, with a professional financial
+advisor, the specific financial risks as well as the legal, regulatory, credit, tax and accounting consequences. Investment products
+may be subject to investment risks involving, but not limited to, possible loss of all or part of the principal investment. This
+document is not intended to be exhaustive on all risks related to financial instruments. Therefore, the recipient should consult the
+specific product documentation and discuss any queries with their relationship manager prior to entering into an investment
+decision. The information and views expressed at the time of writing are subject to change at any time without notice and there is
+no obligation to update or remove outdated information. Historical data on the performance of the securities and financial
+instruments or the underlying assets in this document is no indication for future performance and the value of investments may
+fall as well as rise. This document is based on publicly available information and data. Although information in this document has
+been obtained from sources believed to be reliable, Wealthfusion Limited provides no guarantee with regard to the timeliness,
+accuracy or completeness of the information and does not accept any liability for any loss and/or damage, either directly or
+indirectly, arising out of or in connection with the use of all or part of this information or from the omission of certain information.
+Recipients should be aware that the terms and conditions and key information documents constitute the sole binding basis for the
+purchase of investment funds. Some investments may foresee restrictions to target group of investors.`,
+      },
+    ],
+  },
+  {
+    slug: `global-markets-&-economy-adjust-to-us-sariff-shock`,
+    title: `Global Markets & Economy Adjust to US Tariff Shock`,
+    category: [`archive`, `coverage`],
+    thumbnail: `/coverage/a6t.webp`,
+    blocks: [
+      {
+        type: `heading`,
+        content: `What was Announced?`,
+      },
+      {
+        type: `paragraph`,
+        content: `President Trump has declared that import duties will be raised significantly. Beginning on April
+5, all imports will be subject to a "baseline" tariff of at least 10%; starting on April 9, there will
+be higher "reciprocal" rates for specific trade partners thought to have excessive tariff or nontariff barriers.`,
+      },
+      {
+        type: `description`,
+        content: `Chart 1: Trump's Reciprocal Tariffs`,
+      },
+      {
+        type: "image",
+        src: `/coverage/c91.webp`,
+        alt: `image`,
+      },
+      {
+        type: `description`,
+        content: `Source: Scotia, Bloomberg`,
+      },
+      {
+        type: `paragraph`,
+        content: `Chinese imports will be subject to 34% of the proposed tariffs (54% including already
+announced tariffs), followed by Japan at 24%, and the European Union at 20%. The President
+extended an invitation to engage in negotiations with trading partners.`,
+      },
+      {
+        type: `paragraph`,
+        content: `China responded this morning by imposing a 34% tariff on all US imports. They also declared
+additional restrictions on the export of rare earth materials. These tariffs will go into effect on
+April 10. The European Union is also expected to retaliate with their own duties on US imports
+and potentially on services as well.`,
+      },
+      {
+        type: `heading`,
+        content: `Market Reaction`,
+      },
+      {
+        type: `paragraph`,
+        content: `The announcement has caused risk assets to respond negatively; since the tariff
+announcement, global shares have dropped by more than 8%. Investors are more concerned
+about growth threats than the inflationary effects of tariffs, bond yields moved lower. The US
+10-yr Treasury yields were down below 4% for the first time in 6-months, while the two-year
+yield stood at 3.58%. It's interesting that while the euro and sterling have strengthened, the
+US dollar has weakened. Commodities have also taken a big hit with oil down as much as 13%.
+Interestingly, gold has also corrected 1.8% since the announcement. `,
+      },
+      {
+        type: `paragraph`,
+        content: `Near term market direction will depend on how the US trading partners respond to these
+tariffs. We anticipate more market volatility in the near future. `,
+      },
+      {
+        type: `paragraph`,
+        content: `The announced and already-implemented tariffs will jeopardise global growth. The probability
+of a US recession has jumped to around 60% over the next 12-months. Economists’ estimate
+the tariffs could hit global output by up to 1-1.5% over the next year.`,
+      },
+      {
+        type: `heading`,
+        content: `Opportunities in a Choppy Market`,
+      },
+      {
+        type: `paragraph`,
+        content: `We observe the following opportunities in a difficult financial market situation, especially with
+regard to risk assets:`,
+      },
+      {
+        type: `parabold`,
+        content: [
+          `As highlighted in the note we circulated last month,`,
+          {
+            bold: true,
+            text: ` European equities `,
+          },
+          `are better placed
+compared to their US counterparts. With several European countries announcing a bazooka
+fiscal package, the backdrop for European earnings looks bright. Even before the most recent
+10% fall, valuations were still reasonably low, and investor positioning was still light. An added
+boost comes from a central bank that stands ready to cut interest rates. Of course, the impact
+of tariffs could start to chip away at the region’s competitiveness, but above noted factors will
+limit the drag.`,
+        ],
+      },
+      {
+        type: `parabold`,
+        content: [
+          `Investors in the US should concentrate on quality companies with consistent & stable dividend
+profiles, as these are typically found in lower beta sectors including`,
+          {
+            bold: true,
+            text: ` consumer staples and
+telecom services.`,
+          },
+        ],
+      },
+
+      {
+        type: `paragraph`,
+        content: `The US dollar has been the envy of the world over the last ten years and has historically
+benefited from political unpredictability and foreign investor flows into US assets; currencies
+like the Swiss franc and Japanese yen typically perform even better and are better prepared
+for negative momentum. Curiously, after the tariff announcements, higher beta currencies like
+the euro and pound both saw gains of up to 3%.`,
+      },
+      {
+        type: `parabold`,
+        content: [
+          `Other safe-haven assets that investors might think about holding are`,
+          {
+            bold: true,
+            text: ` US Treasuries and gold.`,
+          },
+          `Gold is a good diversifier for multi-asset portfolios and has demonstrated that it can continue
+to serve as a hedge against geopolitical risks. The demand from central banks and retail
+investors should keep the price of yellow metal high in the near future, even though gold
+prices have arguably reached new highs recently. We also favour US Treasuries as a good
+diversifier to ongoing policy uncertainties and global slowdown. `,
+        ],
+      },
+      {
+        type: `heading`,
+        content: `Final Thoughts`,
+      },
+      {
+        type: `paragraph`,
+        content: `Before everything calms down, there may be more twists and turns ahead, and visibility for
+investors will be limited in the near term. We expect more investment opportunities to
+emerge in the coming weeks and months. For the time being, investors should continue to
+exercise discretion and refrain from bottom fishing. In rapidly shifting market conditions,
+investors may benefit from constructing a portfolio that isn't overly dependent on any one
+asset class or region.`,
+      },
+      {
+        type: `heading`,
+        content: `Disclaimer`,
+      },
+      {
+        type: `paragraph`,
+        content: `This document has been produced solely for information purposes by Wealthfusion Limited with the greatest of
+care and to the best of its knowledge and belief for use by its legal entities. The information contained herein
+constitutes a marketing communication and should not be construed as financial research or analysis, an offer, a
+public offer, investment advice, a recommendation or solicitation to buy, sell or subscribe to financial instruments
+and/or to the provision of a financial service. Further, this document is not intended to provide any financial,
+legal, accounting or tax advice and should not be relied upon in this regard. The information provided herein is
+for the exclusive use of the recipient and may not be reproduced, disclosed or distributed, neither in part nor in
+full. This document is not directed at, or intended for distribution to or use by, any person or entity domiciled or
+resident in any jurisdiction where such distribution, publication, availability or use would be contrary to
+applicable laws or regulations of such jurisdictions. Any investment decision must be based on a prior study of
+the offering documentation and in particular the terms and conditions and key information documents. This
+information can be obtained on request and will be free of charge from your relationship manager. The content
+of this document is intended only for persons who understand and are capable of assuming all risks involved.
+This document has been prepared without taking into account the investor classification, specific investment
+objectives, financial situation, tax situation or the needs of the recipient. Products and services are not suitable
+for all investors and may not be available to investors residing in certain jurisdictions or with certain nationalities.
+Before entering into any transaction, the recipient should consider the suitability of the transaction to individual
+circumstances and objectives. Wealthfusion Limited recommends that investors independently assess, with a
+professional financial advisor, the specific financial risks as well as the legal, regulatory, credit, tax and accounting
+consequences. Investment products may be subject to investment risks involving, but not limited to, possible
+loss of all or part of the principal investment. This document is not intended to be exhaustive on all risks related
+to financial instruments. Therefore, the recipient should consult the specific product documentation and discuss
+any queries with their relationship manager prior to entering into an investment decision. The information and
+views expressed at the time of writing are subject to change at any time without notice and there is no obligation
+to update or remove outdated information. Historical data on the performance of the securities and financial
+instruments or the underlying assets in this document is no indication for future performance and the value of
+investments may fall as well as rise. This document is based on publicly available information and data. Although
+information in this document has been obtained from sources believed to be reliable, Wealthfusion Limited
+provides no guarantee with regard to the timeliness, accuracy or completeness of the information and does not
+accept any liability for any loss and/or damage, either directly or indirectly, arising out of or in connection with
+the use of all or part of this information or from the omission of certain information. Recipients should be aware
+that the terms and conditions and key information documents constitute the sole binding basis for the purchase
+of investment funds. Some investments may foresee restrictions to target group of investors.`,
+      },
+    ],
+  },
+   {
+    slug: `the-tragic-inheritance-tax-quirk-that-could-save-you-£400k`,
+    title: `The tragic inheritance tax quirk that could save you £400k`,
+    category: [`archive`,`coverage`],
+    thumbnail: `/coverage/a7t.webp`,
+    blocks: [
+      {
+        type: `heading`,
+        content: `“Couples who die at the same time can pass on all of the
+older person’s assets free of inheritance tax.”
+`,
+      },
+      {
+        type: `paragraph`,
+        content: `The little-known rule can save relatives hundreds of
+thousands of pounds if their loved ones’ deaths were
+simultaneous or when it is unknown who died first.`,
+      },
+      {
+        type: `paragraph`,
+        content: `But the law only works this way in England and
+Wales, and not in Scotland and Northern Ireland.`,
+      },
+      {
+        type: `paragraph`,
+        content: `It comes as estates in the UK have already paid a
+record. £7bn in inheritance tax this financial year, up
+£700m on the same period last year, and it’s expected
+to rocket after Labour makes pensions liable for the
+charge in 2027.`,
+      },
+      {
+        type: `description`,
+        content: `Inheritance tax haul hits record levels`,
+      },
+      {
+        type: `image`,
+        src: `/coverage/c31.webp`,
+        alt: `image`,
+      },
+      {
+        type: `paragraph`,
+        content: `Known informally as the death duty, inheritance tax is
+charged at 40pc. Individual estates come with a
+“nil-rate band” of £325,000, which escapes the
+charge, and another £175,000 – the residence nil-rate
+band – can be claimed on a main property left to
+direct descendants.`,
+      },
+      {
+        type: `paragraph`,
+        content: `Married couples or civil partners can combine
+allowances to £1m, even if one has already died, and
+there’s no inheritance tax on anything they leave to
+each other.
+`,
+      },
+      {
+        type: `paragraph`,
+        content: `However, if a married or civil partnered couple both
+die, they have wills and it’s unknown who passed
+away first – such as if they are involved in an accident
+where they live plays a huge role in the inheritance tax
+due.`,
+      },
+      {
+        type: `paragraph`,
+        content: `In England and Wales, when the order of death is
+unknown, it’s legally presumed that the eldest passed
+away first. Where inheritance tax is a consideration,
+they are judged to have died simultaneously.`,
+      },
+      {
+        type: `paragraph`,
+        content: `This means if a married couple died together with
+£2m of assets including a home, it would first pass
+from the elder to the younger without any inheritance
+tax. `,
+      },
+      {
+        type: `paragraph`,
+        content: `When it was then passed on again, as the deaths are
+considered simultaneous, the elder person’s share is
+excluded and only the younger person’s half would be
+considered for inheritance tax. If it was left to the
+couple’s children, the available allowances mean the
+charge would be £0 in this case.`,
+      },
+      {
+        type: `paragraph`,
+        content: `The same would apply to any assets the older person
+held solely, such as Isas, shares or property – which
+can be substantial. They pass to their deceased spouse
+and then instantly to their children, but are not
+considered for inheritance tax.`,
+      },
+      {
+        type: `paragraph`,
+        content: `This is even more beneficial than if they had died a
+day apart, because in that situation the first person’s
+assets would also have been assessed and taxed.`,
+      },
+      {
+        type: `subHeading`,
+        content: `Estates in the UK have already paid a
+record. £7bn in inheritance tax this
+financial year, up £700m on the same
+period last year`,
+      },
+      {
+        type: `subHeading`,
+        content: `If a married couple died together with £2m of assets including a home, it would first pass from the elder to the
+younger without any inheritance tax.`,
+      },
+      {
+        type: `description`,
+        content: `Rate of inheritance tax paid on gifts, in the event of the
+donor’s death`,
+      },
+      {
+        type: `image`,
+        src: `/coverage/c32.webp`,
+        alt: `image`,
+      },
+      {
+        type: `paragraph`,
+        content: `In Scotland and Northern Ireland, however, both
+people are presumed to have died simultaneously,
+so their assets don’t pass to the other. Inheritance
+tax would be charged for each person, leaving their
+beneficiaries with a total bill of £400,000 in this
+scenario. The same applies to any individual assets.
+`,
+      },
+      {
+        type: `paragraph`,
+        content: `If the couples were not married or civil partners, there
+could be more inheritance tax to pay in each country as
+there would be no £175,000 residence nil rate bands.`,
+      },
+      {
+        type: `paragraph`,
+        content: `Clare Moffat, of Royal London, said: “If something
+like this happens, it’s so hard on families having to deal
+with not only one but two deaths. The fact that you’re
+going to have a bigger inheritance tax bill depending
+on where you live can make an already difficult time
+even harder.`,
+      },
+      {
+        type: `paragraph`,
+        content: `“For a couple whose wealth is passed on to their
+children, more tax would be paid in Scotland
+andNorthern Ireland. I don’t think there’s anything
+youcan do that’s going to change the situation, but it
+just shows how important planning is.
+`,
+      },
+      {
+        type: `paragraph`,
+        content: `“It’s vital to think about and talk through the things you
+actually can control.”`,
+      },
+      {
+        type: `paragraph`,
+        content: `Simultaneous deaths are rare, as is research on the
+topic. In 1994, the US-based Committee on Individual
+Life Insurance Experience Studies examined policies
+from 29 providers and found that in every 1,000
+deaths, 40 occurred from a common cause or within 30
+days of each other. The sample included four aviation
+accidents and three car crashes.`,
+      },
+      {
+        type: `paragraph`,
+        content: `Studies have also shown that people have a
+significantly higher risk of dying within the first 90
+days of losing their spouse, known as the “widowhood
+effect”.`,
+      },
+      {
+        type: `paragraph`,
+        content: `However, where the order of death is clear and there is
+a gap, or the eldest has a survivorship clause dictating
+that the beneficiary must outlive them by a certain
+number of days, the exemption for England and Wales
+would not apply.`,
+      },
+      {
+        type: `description`,
+        content: `Deaths triggerings inheritance tax to double`,
+      },
+      {
+        type: `image`,
+        src: `/coverage/c33.webp`,
+        alt: `image`,
+      },
+      {
+        type: `paragraph`,
+        content: `James Ward, of law firm Kingsley Napley, said: “This
+provision exists so that if, for example, a father and son
+die together and the father left his estate to his son, they
+are not subject to inheritance tax on the estate twice.`,
+      },
+      {
+        type: `paragraph`,
+        content: `“However, this is not applicable if the elder person dies
+without a will or there is a survivorship clause in their
+will, which would state that the beneficiary must live
+for a set amount of days to inherit the estate.
+`,
+      },
+      {
+        type: `paragraph`,
+        content: `“All the survivorship clauses we write have an
+exception for simultaneous deaths to provide for this
+scenario.”`,
+      },
+      {
+        type: `paragraph`,
+        content: `Alison Penny, of the Childhood Bereavement
+Network, said around 27,000 parents with children
+under 18 die each year.
+`,
+      },
+      {
+        type: `paragraph`,
+        content: `She added: “Sadly, in some rare cases, both parents
+die at the same time, leaving the children facing huge
+upheaval alongside their grief and devastation.`,
+      },
+      {
+        type: `paragraph`,
+        content: `“We encourage all parents to plan ahead to put things
+in place that would make things more comforting and
+comfortable for their children if one or both were to die
+before the children grow up. That could be appointing
+guardians, writing letters to their child’s future self, and
+planning their finances for all eventualities.”`,
+      },
+      {
+        type: `subHeading`,
+        content: `We encourage all parents to plan
+ahead to put things inplace that
+would make things more comforting
+and comfortable for their children if
+one or both were to die before the
+children grow up.`,
       },
     ],
   },

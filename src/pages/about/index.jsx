@@ -13,7 +13,7 @@ const About = () => {
       <Section1 />
       <Section2/>
       <HowWeIn/>
-      <Section4/>
+      {/* <Section4/> */}
       <Section5/>
       <Section3/>
       <Map/>

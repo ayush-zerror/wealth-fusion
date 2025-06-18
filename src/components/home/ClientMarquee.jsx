@@ -14,13 +14,14 @@ const ClientMarquee = () => {
         "/logos/efg.png",
         "/logos/fidelis.png",
         "/logos/jj.png",
-        "/logos/kepler.png",
         "/logos/leon.png",
         "/logos/lfa.png",
         "/logos/marex.png",
         "/logos/ob.png",
         "/logos/pure.png",
-        "/logos/standard.png"
+        "/logos/lgt.png",
+        "/logos/afrasia.png",
+        "/logos/plotpoint.png",
     ]
 
     useEffect(() => {

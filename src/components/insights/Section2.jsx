@@ -1,20 +1,8 @@
 import Image from "next/image";
 import Link from "next/link";
-import { useRouter } from "next/router";
-import React, { useState } from "react";
+import React from "react";
 
-const Section2 = ({ data }) => {
-  const router = useRouter();
-  const { filterby } = router.query;
-
-  const filters = ["all", "coverage", "archive"];
-  const [activeFilter, setActiveFilter] = useState(filterby || "all");
-
-  const handleFilterClick = (filter) => {
-    setActiveFilter(filter);
-    router.push(`?filterby=${filter}`, undefined, { shallow: true });
-  };
-
+const Section2 = ({ data, activeFilter, handleFilterClick, filters }) => {
   return (
     <div id="insight-section2">
       <div className="filters">
